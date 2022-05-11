@@ -1,253 +1,253 @@
 id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status,stroke
-3352,Male,78,1,0,Yes,Self-employed,Urban,93.13,N/A,formerly smoked,1
-1845,Female,63,0,0,Yes,Private,Urban,90.9,N/A,formerly smoked,1
-18587,Female,76,0,0,No,Private,Urban,89.96,N/A,Unknown,1
-34060,Male,71,1,0,Yes,Self-employed,Rural,87.8,N/A,Unknown,1
-2346,Male,58,0,0,Yes,Private,Urban,82.3,N/A,smokes,1
-16590,Male,71,0,1,Yes,Private,Urban,81.76,N/A,smokes,1
-8003,Female,77,0,0,No,Private,Urban,81.32,N/A,Unknown,1
-27419,Female,59,0,0,Yes,Private,Rural,76.15,N/A,Unknown,1
-15102,Male,78,1,0,Yes,Private,Urban,75.32,N/A,formerly smoked,1
-43364,Male,79,1,0,Yes,Private,Rural,75.02,N/A,never smoked,1
-70042,Male,58,0,0,Yes,Private,Urban,71.2,N/A,Unknown,1
-69768,Female,1.32,0,0,No,children,Urban,70.37,N/A,Unknown,1
-41241,Male,65,0,0,Yes,Self-employed,Urban,68.43,N/A,formerly smoked,1
-70676,Female,76,0,0,Yes,Govt_job,Rural,62.57,N/A,formerly smoked,1
-48796,Female,75,0,0,Yes,Govt_job,Urban,62.48,N/A,Unknown,1
-39105,Male,74,0,0,Yes,Self-employed,Rural,60.98,N/A,never smoked,1
-60739,Female,79,1,1,No,Self-employed,Rural,60.94,N/A,never smoked,1
-40899,Female,78,0,0,Yes,Self-employed,Rural,60.67,N/A,formerly smoked,1
-50931,Female,76,0,0,Yes,Private,Urban,57.92,N/A,formerly smoked,1
-66400,Male,78,0,0,Yes,Private,Urban,237.75,N/A,formerly smoked,1
-14164,Female,72,0,0,Yes,Private,Urban,219.91,N/A,Unknown,1
-8213,Male,78,0,1,Yes,Private,Urban,219.84,N/A,Unknown,1
-25226,Male,57,0,1,No,Govt_job,Urban,217.08,N/A,Unknown,1
-69160,Male,59,0,0,Yes,Private,Rural,211.78,N/A,formerly smoked,1
-66955,Male,61,0,1,Yes,Private,Urban,209.86,N/A,Unknown,1
+9046,Male,67,0,1,Yes,Private,Urban,228.69,36.6,formerly smoked,1
 51676,Female,61,0,0,Yes,Self-employed,Rural,202.21,N/A,never smoked,1
-25904,Female,76,1,1,Yes,Self-employed,Urban,199.86,N/A,smokes,1
-8752,Female,63,0,0,Yes,Govt_job,Urban,197.54,N/A,never smoked,1
-61843,Male,58,0,0,Yes,Private,Rural,189.84,N/A,Unknown,1
-11933,Female,79,0,0,Yes,Private,Rural,169.67,N/A,Unknown,1
-54695,Male,74,0,0,Yes,Private,Urban,167.13,N/A,Unknown,1
-45805,Female,51,0,0,Yes,Private,Urban,165.31,N/A,never smoked,1
-18937,Male,79,0,0,Yes,Private,Rural,114.77,N/A,formerly smoked,1
-28939,Male,64,0,0,Yes,Self-employed,Rural,111.98,N/A,formerly smoked,1
-33486,Female,80,0,0,Yes,Govt_job,Urban,110.66,N/A,Unknown,1
-37937,Female,75,0,1,No,Self-employed,Urban,109.78,N/A,Unknown,1
-36706,Female,76,0,0,Yes,Self-employed,Urban,106.41,N/A,formerly smoked,1
-7356,Male,75,0,0,Yes,Private,Urban,104.72,N/A,Unknown,1
-26015,Female,66,0,0,Yes,Self-employed,Urban,101.45,N/A,Unknown,1
-31563,Female,38,0,0,Yes,Private,Rural,101.45,N/A,formerly smoked,1
-35626,Male,81,0,0,Yes,Self-employed,Urban,99.33,33.7,never smoked,1
-49130,Male,74,0,0,Yes,Private,Urban,98.55,25.6,Unknown,1
-44993,Female,79,1,0,No,Govt_job,Urban,98.02,22.3,formerly smoked,1
-23410,Female,72,0,0,Yes,Private,Rural,97.92,26.9,smokes,1
-31154,Female,39,0,0,Yes,Self-employed,Urban,97.76,29.6,smokes,1
-12917,Female,79,0,0,Yes,Private,Urban,97.73,21.5,smokes,1
-67432,Female,60,0,0,Yes,Private,Urban,97.43,26.4,smokes,1
-32399,Male,54,0,0,Yes,Private,Rural,96.97,29.1,smokes,1
-19773,Female,52,0,0,Yes,Private,Rural,96.59,26.4,never smoked,1
-57419,Male,59,0,0,Yes,Private,Rural,96.16,44.1,Unknown,1
-2548,Female,81,0,0,Yes,Self-employed,Urban,95.84,21.5,never smoked,1
+31112,Male,80,0,1,Yes,Private,Rural,105.92,32.5,never smoked,1
+60182,Female,49,0,0,Yes,Private,Urban,171.23,34.4,smokes,1
+1665,Female,79,1,0,Yes,Self-employed,Rural,174.12,24,never smoked,1
+56669,Male,81,0,0,Yes,Private,Urban,186.21,29,formerly smoked,1
+53882,Male,74,1,1,Yes,Private,Rural,70.09,27.4,never smoked,1
 10434,Female,69,0,0,No,Private,Urban,94.39,22.8,never smoked,1
-35684,Male,69,0,0,Yes,Private,Rural,93.81,28.5,Unknown,1
-19557,Female,45,0,0,Yes,Private,Rural,93.72,30.2,formerly smoked,1
-30456,Female,79,0,0,Yes,Private,Rural,93.05,24.2,never smoked,1
-56939,Female,55,0,0,Yes,Self-employed,Rural,92.98,25.6,never smoked,1
-47306,Male,58,0,0,No,Private,Rural,92.62,32,Unknown,1
-32221,Male,60,0,1,Yes,Private,Urban,91.92,35.9,smokes,1
-210,Male,81,0,0,Yes,Self-employed,Rural,91.54,31.4,never smoked,1
-2182,Female,80,1,0,Yes,Self-employed,Rural,91.02,32.9,formerly smoked,1
-35578,Male,78,0,0,No,Self-employed,Urban,90.19,26.9,never smoked,1
+27419,Female,59,0,0,Yes,Private,Rural,76.15,N/A,Unknown,1
+60491,Female,78,0,0,Yes,Private,Urban,58.57,24.2,Unknown,1
+12109,Female,81,1,0,Yes,Private,Rural,80.43,29.7,never smoked,1
+12095,Female,61,0,1,Yes,Govt_job,Rural,120.46,36.8,smokes,1
+12175,Female,54,0,0,Yes,Private,Urban,104.51,27.3,smokes,1
+8213,Male,78,0,1,Yes,Private,Urban,219.84,N/A,Unknown,1
+5317,Female,79,0,1,Yes,Private,Urban,214.09,28.2,never smoked,1
+58202,Female,50,1,0,Yes,Self-employed,Rural,167.41,30.9,never smoked,1
+56112,Male,64,0,1,Yes,Private,Urban,191.61,37.5,smokes,1
+34120,Male,75,1,0,Yes,Private,Urban,221.29,25.8,smokes,1
 27458,Female,60,0,0,No,Private,Urban,89.22,37.8,never smoked,1
-3512,Female,70,1,0,Yes,Self-employed,Urban,89.13,34.2,formerly smoked,1
-26727,Female,79,0,0,No,Private,Rural,88.92,22.9,never smoked,1
-1836,Female,51,1,0,Yes,Private,Urban,88.2,28.4,never smoked,1
-62019,Male,54,0,0,Yes,Govt_job,Rural,87.85,31.1,smokes,1
-14499,Male,47,0,0,Yes,Private,Urban,86.94,41.1,formerly smoked,1
-30184,Male,82,0,0,Yes,Private,Rural,86.62,29.5,formerly smoked,1
-28493,Male,57,0,0,Yes,Private,Urban,86.3,31.7,Unknown,1
-6118,Male,59,0,0,Yes,Private,Urban,86.23,30,formerly smoked,1
-17739,Male,57,0,0,Yes,Private,Rural,84.96,36.7,Unknown,1
+25226,Male,57,0,1,No,Govt_job,Urban,217.08,N/A,Unknown,1
+70630,Female,71,0,0,Yes,Govt_job,Rural,193.94,22.4,smokes,1
+13861,Female,52,1,0,Yes,Self-employed,Urban,233.29,48.9,never smoked,1
+68794,Female,79,0,0,Yes,Self-employed,Urban,228.7,26.6,never smoked,1
+64778,Male,82,0,1,Yes,Private,Rural,208.3,32.5,Unknown,1
+4219,Male,71,0,0,Yes,Private,Urban,102.87,27.2,formerly smoked,1
+70822,Male,80,0,0,Yes,Self-employed,Rural,104.12,23.5,never smoked,1
+38047,Female,65,0,0,Yes,Private,Rural,100.98,28.2,formerly smoked,1
+61843,Male,58,0,0,Yes,Private,Rural,189.84,N/A,Unknown,1
+54827,Male,69,0,1,Yes,Self-employed,Urban,195.23,28.3,smokes,1
+69160,Male,59,0,0,Yes,Private,Rural,211.78,N/A,formerly smoked,1
+43717,Male,57,1,0,Yes,Private,Urban,212.08,44.2,smokes,1
+33879,Male,42,0,0,Yes,Private,Rural,83.41,25.4,Unknown,1
+39373,Female,82,1,0,Yes,Self-employed,Urban,196.92,22.2,never smoked,1
+54401,Male,80,0,1,Yes,Self-employed,Urban,252.72,30.5,formerly smoked,1
 14248,Male,48,0,0,No,Govt_job,Urban,84.2,29.7,never smoked,1
 712,Female,82,1,1,No,Private,Rural,84.03,26.5,formerly smoked,1
-33879,Male,42,0,0,Yes,Private,Rural,83.41,25.4,Unknown,1
-33943,Female,39,0,0,Yes,Private,Urban,83.24,26.3,never smoked,1
-4639,Female,69,0,0,Yes,Govt_job,Urban,82.81,28,never smoked,1
-31720,Female,38,0,0,No,Self-employed,Urban,82.28,24,formerly smoked,1
-71639,Female,68,0,0,No,Govt_job,Urban,82.1,27.1,Unknown,1
-10552,Female,81,0,0,Yes,Self-employed,Rural,81.95,16.9,never smoked,1
-12109,Female,81,1,0,Yes,Private,Rural,80.43,29.7,never smoked,1
-37060,Female,81,0,0,Yes,Private,Rural,80.13,23.4,never smoked,1
-66638,Female,68,1,0,No,Self-employed,Urban,79.79,29.7,never smoked,1
-8154,Male,57,1,0,Yes,Govt_job,Urban,78.92,27.7,formerly smoked,1
-43424,Female,78,0,0,Yes,Private,Rural,78.81,19.6,Unknown,1
-27153,Female,75,0,0,Yes,Self-employed,Rural,78.8,29.3,formerly smoked,1
-4712,Female,81,0,1,Yes,Self-employed,Rural,78.7,19.4,Unknown,1
-54567,Female,46,0,0,Yes,Private,Urban,78.18,30.8,never smoked,1
-4651,Male,78,0,0,Yes,Private,Rural,78.03,23.9,formerly smoked,1
-12482,Male,68,0,0,Yes,Self-employed,Urban,77.82,27.5,smokes,1
-32503,Female,80,0,0,Yes,Self-employed,Urban,76.57,34.1,never smoked,1
-10548,Male,66,0,0,Yes,Private,Rural,76.46,21.2,formerly smoked,1
-35512,Female,70,0,0,Yes,Self-employed,Rural,76.34,24.4,formerly smoked,1
-39912,Female,32,0,0,Yes,Private,Rural,76.13,29.9,smokes,1
-60744,Male,61,1,0,Yes,Self-employed,Rural,76.11,27.3,smokes,1
-491,Female,74,0,0,Yes,Self-employed,Urban,74.96,26.6,never smoked,1
-55927,Female,80,1,0,Yes,Private,Rural,74.9,22.2,never smoked,1
-24977,Female,72,1,0,Yes,Private,Rural,74.63,23.1,formerly smoked,1
-66866,Female,48,0,0,Yes,Private,Urban,74.11,20.5,never smoked,1
-12363,Male,64,0,1,Yes,Govt_job,Urban,74.1,28.8,Unknown,1
-34567,Female,81,1,0,Yes,Self-employed,Rural,74.02,25,never smoked,1
-70943,Female,80,0,0,Yes,Private,Urban,73.54,24,Unknown,1
-42072,Female,50,1,0,Yes,Private,Rural,73.18,30.3,formerly smoked,1
-7547,Male,74,0,0,Yes,Private,Urban,72.96,31.3,smokes,1
-51169,Male,81,0,0,Yes,Private,Urban,72.81,26.3,never smoked,1
-68023,Male,79,0,0,Yes,Private,Rural,72.73,28.4,never smoked,1
-7371,Female,80,1,0,Yes,Self-employed,Rural,72.67,28.9,never smoked,1
-37651,Female,69,1,1,No,Self-employed,Urban,72.17,36.8,never smoked,1
-1261,Male,54,0,0,Yes,Private,Urban,71.22,28.5,never smoked,1
-68356,Female,73,0,0,Yes,Self-employed,Urban,70.94,34.4,never smoked,1
-54724,Female,81,0,0,No,Govt_job,Urban,70.3,25.8,smokes,1
-8045,Female,74,1,0,Yes,Private,Urban,70.28,21.8,never smoked,1
-53882,Male,74,1,1,Yes,Private,Rural,70.09,27.4,never smoked,1
-37726,Female,80,1,0,Yes,Self-employed,Urban,68.56,26.2,Unknown,1
-48405,Male,80,0,1,Yes,Private,Urban,68.53,24.2,smokes,1
-66315,Female,57,0,0,No,Self-employed,Urban,68.02,37.5,never smoked,1
-72081,Female,57,1,0,Yes,Govt_job,Rural,67.41,32.9,never smoked,1
-62861,Female,78,0,0,Yes,Private,Urban,67.29,24.6,never smoked,1
-66159,Female,80,0,1,Yes,Self-employed,Rural,66.72,21.7,formerly smoked,1
-69959,Female,80,1,0,No,Private,Urban,66.03,35.4,never smoked,1
-62466,Female,80,0,0,Yes,Private,Urban,64.44,45,never smoked,1
-59125,Female,53,0,0,Yes,Govt_job,Urban,64.17,41.5,never smoked,1
-54385,Male,45,0,0,Yes,Private,Rural,64.14,29.4,never smoked,1
-72918,Female,53,1,0,Yes,Private,Urban,62.55,30.3,Unknown,1
-65842,Female,67,1,0,Yes,Self-employed,Rural,61.94,25.3,smokes,1
-62602,Female,49,0,0,Yes,Private,Urban,60.91,29.9,never smoked,1
-68798,Female,58,0,0,Yes,Private,Rural,59.86,28,formerly smoked,1
-71796,Female,70,0,1,Yes,Private,Rural,59.35,32.3,formerly smoked,1
-38829,Female,82,0,0,Yes,Private,Rural,59.32,33.2,never smoked,1
-60491,Female,78,0,0,Yes,Private,Urban,58.57,24.2,Unknown,1
-36338,Female,39,1,0,Yes,Private,Rural,58.09,39.2,smokes,1
-49669,Female,14,0,0,No,children,Rural,57.93,30.9,Unknown,1
-36841,Male,78,1,0,Yes,Self-employed,Rural,56.11,25.5,formerly smoked,1
-69112,Male,68,1,1,Yes,Private,Rural,271.74,31.1,smokes,1
-71279,Female,71,0,0,Yes,Govt_job,Urban,263.32,38.7,never smoked,1
-13491,Male,80,0,0,Yes,Private,Rural,259.63,31.7,smokes,1
-54401,Male,80,0,1,Yes,Self-employed,Urban,252.72,30.5,formerly smoked,1
-20463,Male,81,1,1,Yes,Private,Urban,250.89,28.1,smokes,1
-44033,Male,56,1,0,Yes,Private,Rural,249.31,35.8,never smoked,1
-40460,Female,68,1,1,Yes,Private,Urban,247.51,40.5,formerly smoked,1
-19824,Male,76,1,0,Yes,Private,Rural,243.58,33.6,never smoked,1
-58267,Male,70,1,0,Yes,Private,Rural,242.52,45.5,formerly smoked,1
-56841,Male,58,0,1,Yes,Private,Rural,240.59,31.4,smokes,1
-36236,Male,80,1,0,Yes,Private,Urban,240.09,27,never smoked,1
-58978,Female,70,0,1,Yes,Private,Rural,239.07,26.1,never smoked,1
-2458,Female,78,0,0,Yes,Private,Rural,235.63,32.3,never smoked,1
-45535,Male,68,0,0,Yes,Private,Rural,233.94,42.4,never smoked,1
-13861,Female,52,1,0,Yes,Self-employed,Urban,233.29,48.9,never smoked,1
-45277,Female,74,0,0,Yes,Private,Rural,231.61,34.6,formerly smoked,1
-24669,Female,77,0,1,Yes,Private,Rural,231.56,36.9,never smoked,1
-68794,Female,79,0,0,Yes,Self-employed,Urban,228.7,26.6,never smoked,1
-9046,Male,67,0,1,Yes,Private,Urban,228.69,36.6,formerly smoked,1
-50784,Male,63,0,0,Yes,Private,Rural,228.56,27.4,never smoked,1
-28291,Female,79,0,1,Yes,Private,Urban,226.98,29.8,never smoked,1
-41069,Female,45,0,0,Yes,Private,Rural,224.1,56.6,never smoked,1
-46703,Male,68,0,1,Yes,Private,Urban,223.83,31.9,formerly smoked,1
-59437,Female,57,0,0,Yes,Private,Urban,221.89,37.3,smokes,1
-17308,Female,72,1,0,Yes,Private,Urban,221.79,30,never smoked,1
-17004,Female,70,0,0,Yes,Private,Urban,221.58,47.5,never smoked,1
-34120,Male,75,1,0,Yes,Private,Urban,221.29,25.8,smokes,1
-31421,Male,73,0,1,Yes,Govt_job,Rural,219.73,28.6,never smoked,1
 47269,Male,74,0,0,Yes,Private,Rural,219.72,33.7,formerly smoked,1
-25974,Male,78,0,0,Yes,Self-employed,Urban,218.46,26.8,Unknown,1
-53401,Male,71,1,1,No,Govt_job,Rural,216.94,30.9,never smoked,1
-39186,Female,57,0,1,Yes,Private,Urban,216.58,31,Unknown,1
-67895,Female,82,1,1,Yes,Govt_job,Urban,215.94,27.9,formerly smoked,1
-5317,Female,79,0,1,Yes,Private,Urban,214.09,28.2,never smoked,1
-65105,Male,81,0,0,Yes,Private,Urban,213.22,26.1,Unknown,1
-7937,Male,60,1,0,Yes,Govt_job,Urban,213.03,20.2,smokes,1
-43717,Male,57,1,0,Yes,Private,Urban,212.08,44.2,smokes,1
-1210,Female,68,0,0,Yes,Private,Rural,211.06,39.3,Unknown,1
-29552,Female,55,1,1,Yes,Private,Urban,210.4,40,smokes,1
-31179,Male,63,0,0,Yes,Private,Urban,208.65,30.7,never smoked,1
-64778,Male,82,0,1,Yes,Private,Rural,208.3,32.5,Unknown,1
-11762,Female,76,0,0,Yes,Private,Urban,207.28,34.9,Unknown,1
-20387,Female,68,1,0,Yes,Self-employed,Rural,206.09,26.7,never smoked,1
-24905,Female,65,0,0,Yes,Private,Urban,205.77,46,formerly smoked,1
-12689,Female,63,0,0,Yes,Govt_job,Rural,205.35,42.2,formerly smoked,1
-68025,Female,79,0,1,No,Private,Urban,205.33,31,smokes,1
-20426,Female,78,1,0,No,Private,Urban,203.87,45.7,never smoked,1
-64373,Male,59,0,0,Yes,Private,Urban,200.62,35.8,formerly smoked,1
-37132,Male,82,0,0,Yes,Govt_job,Urban,200.59,29,formerly smoked,1
-23368,Female,77,1,0,Yes,Self-employed,Urban,199.84,28,formerly smoked,1
-30683,Female,75,0,0,Yes,Private,Rural,199.2,26.6,Unknown,1
-52282,Male,57,0,0,Yes,Private,Rural,197.28,34.5,formerly smoked,1
-39373,Female,82,1,0,Yes,Self-employed,Urban,196.92,22.2,never smoked,1
-25831,Male,63,0,1,Yes,Private,Rural,196.71,36.5,formerly smoked,1
-66258,Female,71,0,0,Yes,Self-employed,Urban,195.71,34.1,formerly smoked,1
-54827,Male,69,0,1,Yes,Self-employed,Urban,195.23,28.3,smokes,1
-58631,Male,73,1,0,Yes,Self-employed,Urban,194.99,32.8,never smoked,1
-29281,Male,76,1,0,Yes,Self-employed,Rural,194.37,27,formerly smoked,1
-70630,Female,71,0,0,Yes,Govt_job,Rural,193.94,22.4,smokes,1
-12062,Female,54,0,0,Yes,Self-employed,Rural,191.82,40.4,smokes,1
-56112,Male,64,0,1,Yes,Private,Urban,191.61,37.5,smokes,1
-63973,Female,77,0,0,Yes,Govt_job,Rural,190.32,31.4,never smoked,1
-53440,Female,73,1,0,Yes,Private,Rural,190.14,36.5,never smoked,1
-56669,Male,81,0,0,Yes,Private,Urban,186.21,29,formerly smoked,1
-14431,Male,72,1,0,Yes,Self-employed,Rural,185.49,37.1,never smoked,1
-10710,Female,56,0,0,Yes,Private,Urban,185.17,40.4,formerly smoked,1
-32729,Female,81,0,0,Yes,Private,Rural,184.4,27.5,never smoked,1
-69551,Male,69,1,0,No,Private,Rural,182.99,36.5,never smoked,1
-5111,Female,54,1,0,Yes,Govt_job,Urban,180.93,27.7,never smoked,1
-2326,Female,67,1,0,Yes,Private,Rural,179.12,28.1,formerly smoked,1
-68627,Male,80,1,1,Yes,Private,Urban,175.29,31.5,formerly smoked,1
-1665,Female,79,1,0,Yes,Self-employed,Rural,174.12,24,never smoked,1
-60182,Female,49,0,0,Yes,Private,Urban,171.23,34.4,smokes,1
-58202,Female,50,1,0,Yes,Self-employed,Rural,167.41,30.9,never smoked,1
-63453,Female,56,0,0,Yes,Govt_job,Rural,162.23,27.3,Unknown,1
-36857,Male,77,0,0,Yes,Self-employed,Rural,162.14,32.6,formerly smoked,1
-67981,Male,66,0,0,Yes,Private,Urban,151.16,27.5,formerly smoked,1
+24977,Female,72,1,0,Yes,Private,Rural,74.63,23.1,formerly smoked,1
+47306,Male,58,0,0,No,Private,Rural,92.62,32,Unknown,1
+62602,Female,49,0,0,Yes,Private,Urban,60.91,29.9,never smoked,1
+4651,Male,78,0,0,Yes,Private,Rural,78.03,23.9,formerly smoked,1
+1261,Male,54,0,0,Yes,Private,Urban,71.22,28.5,never smoked,1
 61960,Male,82,0,1,Yes,Private,Urban,144.9,26.4,smokes,1
-42117,Male,43,0,0,Yes,Self-employed,Urban,143.43,45.9,Unknown,1
-55824,Male,76,0,0,Yes,Private,Urban,140.1,29.9,formerly smoked,1
-41081,Male,63,0,0,Yes,Private,Rural,137.3,31.7,formerly smoked,1
-54921,Male,78,1,0,Yes,Self-employed,Rural,134.8,33.6,Unknown,1
-42899,Male,78,0,0,Yes,Self-employed,Urban,133.19,23.6,formerly smoked,1
-50522,Female,72,0,0,Yes,Govt_job,Urban,131.41,28.4,never smoked,1
-16817,Female,78,1,0,No,Private,Urban,130.54,20.1,never smoked,1
-56546,Male,79,0,1,Yes,Private,Rural,129.98,22.6,formerly smoked,1
+1845,Female,63,0,0,Yes,Private,Urban,90.9,N/A,formerly smoked,1
+7937,Male,60,1,0,Yes,Govt_job,Urban,213.03,20.2,smokes,1
+19824,Male,76,1,0,Yes,Private,Rural,243.58,33.6,never smoked,1
+37937,Female,75,0,1,No,Self-employed,Urban,109.78,N/A,Unknown,1
+47472,Female,58,0,0,Yes,Private,Urban,107.26,38.6,formerly smoked,1
+35626,Male,81,0,0,Yes,Self-employed,Urban,99.33,33.7,never smoked,1
+36338,Female,39,1,0,Yes,Private,Rural,58.09,39.2,smokes,1
+18587,Female,76,0,0,No,Private,Urban,89.96,N/A,Unknown,1
+15102,Male,78,1,0,Yes,Private,Urban,75.32,N/A,formerly smoked,1
 59190,Female,79,0,1,Yes,Private,Rural,127.29,27.7,never smoked,1
 47167,Female,77,1,0,Yes,Self-employed,Urban,124.13,31.4,never smoked,1
-12095,Female,61,0,1,Yes,Govt_job,Rural,120.46,36.8,smokes,1
-36255,Male,59,0,0,Yes,Self-employed,Rural,118.03,35.5,smokes,1
-16077,Male,63,0,1,Yes,Self-employed,Urban,116.69,34.5,formerly smoked,1
-27169,Female,66,1,0,Yes,Govt_job,Rural,116.55,31.1,formerly smoked,1
-45965,Female,59,0,0,Yes,Private,Rural,116.44,23.8,smokes,1
-2390,Male,78,0,0,Yes,Self-employed,Urban,116.1,27.1,never smoked,1
+8752,Female,63,0,0,Yes,Govt_job,Urban,197.54,N/A,never smoked,1
+25831,Male,63,0,1,Yes,Private,Rural,196.71,36.5,formerly smoked,1
+38829,Female,82,0,0,Yes,Private,Rural,59.32,33.2,never smoked,1
+66400,Male,78,0,0,Yes,Private,Urban,237.75,N/A,formerly smoked,1
+58631,Male,73,1,0,Yes,Self-employed,Urban,194.99,32.8,never smoked,1
+5111,Female,54,1,0,Yes,Govt_job,Urban,180.93,27.7,never smoked,1
+10710,Female,56,0,0,Yes,Private,Urban,185.17,40.4,formerly smoked,1
+55927,Female,80,1,0,Yes,Private,Rural,74.9,22.2,never smoked,1
+65842,Female,67,1,0,Yes,Self-employed,Rural,61.94,25.3,smokes,1
+19557,Female,45,0,0,Yes,Private,Rural,93.72,30.2,formerly smoked,1
+7356,Male,75,0,0,Yes,Private,Urban,104.72,N/A,Unknown,1
 17013,Male,78,1,0,No,Private,Urban,113.01,24,never smoked,1
-28378,Male,61,1,1,Yes,Private,Urban,112.24,37.4,smokes,1
-66071,Male,51,1,0,Yes,Private,Urban,112.16,42.5,formerly smoked,1
-3253,Male,61,0,1,Yes,Private,Rural,111.81,27.3,smokes,1
-66204,Male,59,0,0,Yes,Private,Urban,111.04,32,formerly smoked,1
-71673,Female,79,0,0,Yes,Private,Urban,110.85,24.1,formerly smoked,1
-33175,Female,57,0,0,Yes,Govt_job,Urban,110.52,28.5,Unknown,1
-28484,Female,78,0,0,Yes,Self-employed,Rural,109.47,30.8,never smoked,1
-47472,Female,58,0,0,Yes,Private,Urban,107.26,38.6,formerly smoked,1
-51314,Female,78,0,0,Yes,Private,Urban,106.74,33,formerly smoked,1
-33454,Female,63,0,0,Yes,Govt_job,Rural,106.58,23.9,Unknown,1
-31112,Male,80,0,1,Yes,Private,Rural,105.92,32.5,never smoked,1
-5563,Female,77,0,0,Yes,Private,Urban,105.22,31,never smoked,1
-8899,Male,49,0,0,No,Private,Rural,104.86,31.9,smokes,1
-12175,Female,54,0,0,Yes,Private,Urban,104.51,27.3,smokes,1
+17004,Female,70,0,0,Yes,Private,Urban,221.58,47.5,never smoked,1
 72366,Male,76,0,0,Yes,Private,Urban,104.47,20.3,Unknown,1
-70822,Male,80,0,0,Yes,Self-employed,Rural,104.12,23.5,never smoked,1
+6118,Male,59,0,0,Yes,Private,Urban,86.23,30,formerly smoked,1
+7371,Female,80,1,0,Yes,Self-employed,Rural,72.67,28.9,never smoked,1
+70676,Female,76,0,0,Yes,Govt_job,Rural,62.57,N/A,formerly smoked,1
+2326,Female,67,1,0,Yes,Private,Rural,179.12,28.1,formerly smoked,1
+27169,Female,66,1,0,Yes,Govt_job,Rural,116.55,31.1,formerly smoked,1
+50784,Male,63,0,0,Yes,Private,Rural,228.56,27.4,never smoked,1
+19773,Female,52,0,0,Yes,Private,Rural,96.59,26.4,never smoked,1
+66159,Female,80,0,1,Yes,Self-employed,Rural,66.72,21.7,formerly smoked,1
+36236,Male,80,1,0,Yes,Private,Urban,240.09,27,never smoked,1
+71673,Female,79,0,0,Yes,Private,Urban,110.85,24.1,formerly smoked,1
+45805,Female,51,0,0,Yes,Private,Urban,165.31,N/A,never smoked,1
+42117,Male,43,0,0,Yes,Self-employed,Urban,143.43,45.9,Unknown,1
+57419,Male,59,0,0,Yes,Private,Rural,96.16,44.1,Unknown,1
+26015,Female,66,0,0,Yes,Self-employed,Urban,101.45,N/A,Unknown,1
+26727,Female,79,0,0,No,Private,Rural,88.92,22.9,never smoked,1
+66638,Female,68,1,0,No,Self-employed,Urban,79.79,29.7,never smoked,1
+70042,Male,58,0,0,Yes,Private,Urban,71.2,N/A,Unknown,1
+32399,Male,54,0,0,Yes,Private,Rural,96.97,29.1,smokes,1
+3253,Male,61,0,1,Yes,Private,Rural,111.81,27.3,smokes,1
+71796,Female,70,0,1,Yes,Private,Rural,59.35,32.3,formerly smoked,1
+14499,Male,47,0,0,Yes,Private,Urban,86.94,41.1,formerly smoked,1
+49130,Male,74,0,0,Yes,Private,Urban,98.55,25.6,Unknown,1
+28291,Female,79,0,1,Yes,Private,Urban,226.98,29.8,never smoked,1
+51169,Male,81,0,0,Yes,Private,Urban,72.81,26.3,never smoked,1
+66315,Female,57,0,0,No,Self-employed,Urban,68.02,37.5,never smoked,1
+37726,Female,80,1,0,Yes,Self-employed,Urban,68.56,26.2,Unknown,1
+54385,Male,45,0,0,Yes,Private,Rural,64.14,29.4,never smoked,1
+2458,Female,78,0,0,Yes,Private,Rural,235.63,32.3,never smoked,1
+35512,Female,70,0,0,Yes,Self-employed,Rural,76.34,24.4,formerly smoked,1
+56841,Male,58,0,1,Yes,Private,Rural,240.59,31.4,smokes,1
+8154,Male,57,1,0,Yes,Govt_job,Urban,78.92,27.7,formerly smoked,1
+4639,Female,69,0,0,Yes,Govt_job,Urban,82.81,28,never smoked,1
+12363,Male,64,0,1,Yes,Govt_job,Urban,74.1,28.8,Unknown,1
+63973,Female,77,0,0,Yes,Govt_job,Rural,190.32,31.4,never smoked,1
+45277,Female,74,0,0,Yes,Private,Rural,231.61,34.6,formerly smoked,1
+4712,Female,81,0,1,Yes,Self-employed,Rural,78.7,19.4,Unknown,1
+33175,Female,57,0,0,Yes,Govt_job,Urban,110.52,28.5,Unknown,1
+2346,Male,58,0,0,Yes,Private,Urban,82.3,N/A,smokes,1
+42072,Female,50,1,0,Yes,Private,Rural,73.18,30.3,formerly smoked,1
+12062,Female,54,0,0,Yes,Self-employed,Rural,191.82,40.4,smokes,1
+30456,Female,79,0,0,Yes,Private,Rural,93.05,24.2,never smoked,1
+59125,Female,53,0,0,Yes,Govt_job,Urban,64.17,41.5,never smoked,1
+56546,Male,79,0,1,Yes,Private,Rural,129.98,22.6,formerly smoked,1
+48405,Male,80,0,1,Yes,Private,Urban,68.53,24.2,smokes,1
+36706,Female,76,0,0,Yes,Self-employed,Urban,106.41,N/A,formerly smoked,1
+41069,Female,45,0,0,Yes,Private,Rural,224.1,56.6,never smoked,1
+71639,Female,68,0,0,No,Govt_job,Urban,82.1,27.1,Unknown,1
+53401,Male,71,1,1,No,Govt_job,Rural,216.94,30.9,never smoked,1
+60744,Male,61,1,0,Yes,Self-employed,Rural,76.11,27.3,smokes,1
+7547,Male,74,0,0,Yes,Private,Urban,72.96,31.3,smokes,1
+31720,Female,38,0,0,No,Self-employed,Urban,82.28,24,formerly smoked,1
+5563,Female,77,0,0,Yes,Private,Urban,105.22,31,never smoked,1
+68798,Female,58,0,0,Yes,Private,Rural,59.86,28,formerly smoked,1
+72918,Female,53,1,0,Yes,Private,Urban,62.55,30.3,Unknown,1
+13491,Male,80,0,0,Yes,Private,Rural,259.63,31.7,smokes,1
+44033,Male,56,1,0,Yes,Private,Rural,249.31,35.8,never smoked,1
+14164,Female,72,0,0,Yes,Private,Urban,219.91,N/A,Unknown,1
+50522,Female,72,0,0,Yes,Govt_job,Urban,131.41,28.4,never smoked,1
+3352,Male,78,1,0,Yes,Self-employed,Urban,93.13,N/A,formerly smoked,1
+70943,Female,80,0,0,Yes,Private,Urban,73.54,24,Unknown,1
+37132,Male,82,0,0,Yes,Govt_job,Urban,200.59,29,formerly smoked,1
+48796,Female,75,0,0,Yes,Govt_job,Urban,62.48,N/A,Unknown,1
+53440,Female,73,1,0,Yes,Private,Rural,190.14,36.5,never smoked,1
+16817,Female,78,1,0,No,Private,Urban,130.54,20.1,never smoked,1
+69551,Male,69,1,0,No,Private,Rural,182.99,36.5,never smoked,1
+31563,Female,38,0,0,Yes,Private,Rural,101.45,N/A,formerly smoked,1
+20387,Female,68,1,0,Yes,Self-employed,Rural,206.09,26.7,never smoked,1
+71279,Female,71,0,0,Yes,Govt_job,Urban,263.32,38.7,never smoked,1
+55824,Male,76,0,0,Yes,Private,Urban,140.1,29.9,formerly smoked,1
+11762,Female,76,0,0,Yes,Private,Urban,207.28,34.9,Unknown,1
+29281,Male,76,1,0,Yes,Self-employed,Rural,194.37,27,formerly smoked,1
+30683,Female,75,0,0,Yes,Private,Rural,199.2,26.6,Unknown,1
 20439,Male,82,0,1,Yes,Govt_job,Rural,103.68,25,never smoked,1
-62439,Female,51,0,0,Yes,Govt_job,Rural,103.43,27.3,formerly smoked,1
-4219,Male,71,0,0,Yes,Private,Urban,102.87,27.2,formerly smoked,1
+45965,Female,59,0,0,Yes,Private,Rural,116.44,23.8,smokes,1
+8045,Female,74,1,0,Yes,Private,Urban,70.28,21.8,never smoked,1
+37651,Female,69,1,1,No,Self-employed,Urban,72.17,36.8,never smoked,1
+17308,Female,72,1,0,Yes,Private,Urban,221.79,30,never smoked,1
+67981,Male,66,0,0,Yes,Private,Urban,151.16,27.5,formerly smoked,1
+41241,Male,65,0,0,Yes,Self-employed,Urban,68.43,N/A,formerly smoked,1
+62861,Female,78,0,0,Yes,Private,Urban,67.29,24.6,never smoked,1
+72081,Female,57,1,0,Yes,Govt_job,Rural,67.41,32.9,never smoked,1
+58978,Female,70,0,1,Yes,Private,Rural,239.07,26.1,never smoked,1
+11933,Female,79,0,0,Yes,Private,Rural,169.67,N/A,Unknown,1
+46703,Male,68,0,1,Yes,Private,Urban,223.83,31.9,formerly smoked,1
+32503,Female,80,0,0,Yes,Self-employed,Urban,76.57,34.1,never smoked,1
+12482,Male,68,0,0,Yes,Self-employed,Urban,77.82,27.5,smokes,1
+56939,Female,55,0,0,Yes,Self-employed,Rural,92.98,25.6,never smoked,1
+24669,Female,77,0,1,Yes,Private,Rural,231.56,36.9,never smoked,1
 43054,Female,50,0,0,Yes,Private,Rural,102.16,31.4,smokes,1
-38047,Female,65,0,0,Yes,Private,Rural,100.98,28.2,formerly smoked,1
+59437,Female,57,0,0,Yes,Private,Urban,221.89,37.3,smokes,1
+66258,Female,71,0,0,Yes,Self-employed,Urban,195.71,34.1,formerly smoked,1
+34567,Female,81,1,0,Yes,Self-employed,Rural,74.02,25,never smoked,1
+50931,Female,76,0,0,Yes,Private,Urban,57.92,N/A,formerly smoked,1
+16590,Male,71,0,1,Yes,Private,Urban,81.76,N/A,smokes,1
+69768,Female,1.32,0,0,No,children,Urban,70.37,N/A,Unknown,1
+20426,Female,78,1,0,No,Private,Urban,203.87,45.7,never smoked,1
+3512,Female,70,1,0,Yes,Self-employed,Urban,89.13,34.2,formerly smoked,1
+42899,Male,78,0,0,Yes,Self-employed,Urban,133.19,23.6,formerly smoked,1
+63453,Female,56,0,0,Yes,Govt_job,Rural,162.23,27.3,Unknown,1
+43364,Male,79,1,0,Yes,Private,Rural,75.02,N/A,never smoked,1
+44993,Female,79,1,0,No,Govt_job,Urban,98.02,22.3,formerly smoked,1
+210,Male,81,0,0,Yes,Self-employed,Rural,91.54,31.4,never smoked,1
+28939,Male,64,0,0,Yes,Self-employed,Rural,111.98,N/A,formerly smoked,1
+60739,Female,79,1,1,No,Self-employed,Rural,60.94,N/A,never smoked,1
+67432,Female,60,0,0,Yes,Private,Urban,97.43,26.4,smokes,1
+2182,Female,80,1,0,Yes,Self-employed,Rural,91.02,32.9,formerly smoked,1
+40899,Female,78,0,0,Yes,Self-employed,Rural,60.67,N/A,formerly smoked,1
+14431,Male,72,1,0,Yes,Self-employed,Rural,185.49,37.1,never smoked,1
+62466,Female,80,0,0,Yes,Private,Urban,64.44,45,never smoked,1
+36841,Male,78,1,0,Yes,Self-employed,Rural,56.11,25.5,formerly smoked,1
+33486,Female,80,0,0,Yes,Govt_job,Urban,110.66,N/A,Unknown,1
+65105,Male,81,0,0,Yes,Private,Urban,213.22,26.1,Unknown,1
+54567,Female,46,0,0,Yes,Private,Urban,78.18,30.8,never smoked,1
+66204,Male,59,0,0,Yes,Private,Urban,111.04,32,formerly smoked,1
+39912,Female,32,0,0,Yes,Private,Rural,76.13,29.9,smokes,1
+8003,Female,77,0,0,No,Private,Urban,81.32,N/A,Unknown,1
+28378,Male,61,1,1,Yes,Private,Urban,112.24,37.4,smokes,1
+41081,Male,63,0,0,Yes,Private,Rural,137.3,31.7,formerly smoked,1
+16077,Male,63,0,1,Yes,Self-employed,Urban,116.69,34.5,formerly smoked,1
+67895,Female,82,1,1,Yes,Govt_job,Urban,215.94,27.9,formerly smoked,1
+30184,Male,82,0,0,Yes,Private,Rural,86.62,29.5,formerly smoked,1
+66955,Male,61,0,1,Yes,Private,Urban,209.86,N/A,Unknown,1
+24905,Female,65,0,0,Yes,Private,Urban,205.77,46,formerly smoked,1
+66071,Male,51,1,0,Yes,Private,Urban,112.16,42.5,formerly smoked,1
+36255,Male,59,0,0,Yes,Self-employed,Rural,118.03,35.5,smokes,1
+69112,Male,68,1,1,Yes,Private,Rural,271.74,31.1,smokes,1
+23410,Female,72,0,0,Yes,Private,Rural,97.92,26.9,smokes,1
+64373,Male,59,0,0,Yes,Private,Urban,200.62,35.8,formerly smoked,1
+58267,Male,70,1,0,Yes,Private,Rural,242.52,45.5,formerly smoked,1
+35684,Male,69,0,0,Yes,Private,Rural,93.81,28.5,Unknown,1
+18937,Male,79,0,0,Yes,Private,Rural,114.77,N/A,formerly smoked,1
+491,Female,74,0,0,Yes,Self-employed,Urban,74.96,26.6,never smoked,1
+54695,Male,74,0,0,Yes,Private,Urban,167.13,N/A,Unknown,1
+68627,Male,80,1,1,Yes,Private,Urban,175.29,31.5,formerly smoked,1
 8580,Female,77,0,0,Yes,Self-employed,Rural,90,32,never smoked,1
+28484,Female,78,0,0,Yes,Self-employed,Rural,109.47,30.8,never smoked,1
+62019,Male,54,0,0,Yes,Govt_job,Rural,87.85,31.1,smokes,1
+51314,Female,78,0,0,Yes,Private,Urban,106.74,33,formerly smoked,1
+37060,Female,81,0,0,Yes,Private,Rural,80.13,23.4,never smoked,1
+35578,Male,78,0,0,No,Self-employed,Urban,90.19,26.9,never smoked,1
+54921,Male,78,1,0,Yes,Self-employed,Rural,134.8,33.6,Unknown,1
+33454,Female,63,0,0,Yes,Govt_job,Rural,106.58,23.9,Unknown,1
+33943,Female,39,0,0,Yes,Private,Urban,83.24,26.3,never smoked,1
+62439,Female,51,0,0,Yes,Govt_job,Rural,103.43,27.3,formerly smoked,1
+31179,Male,63,0,0,Yes,Private,Urban,208.65,30.7,never smoked,1
+66866,Female,48,0,0,Yes,Private,Urban,74.11,20.5,never smoked,1
+2548,Female,81,0,0,Yes,Self-employed,Urban,95.84,21.5,never smoked,1
+68025,Female,79,0,1,No,Private,Urban,205.33,31,smokes,1
+2390,Male,78,0,0,Yes,Self-employed,Urban,116.1,27.1,never smoked,1
+29552,Female,55,1,1,Yes,Private,Urban,210.4,40,smokes,1
+25904,Female,76,1,1,Yes,Self-employed,Urban,199.86,N/A,smokes,1
+31421,Male,73,0,1,Yes,Govt_job,Rural,219.73,28.6,never smoked,1
+20463,Male,81,1,1,Yes,Private,Urban,250.89,28.1,smokes,1
+68023,Male,79,0,0,Yes,Private,Rural,72.73,28.4,never smoked,1
+12689,Female,63,0,0,Yes,Govt_job,Rural,205.35,42.2,formerly smoked,1
+54724,Female,81,0,0,No,Govt_job,Urban,70.3,25.8,smokes,1
+8899,Male,49,0,0,No,Private,Rural,104.86,31.9,smokes,1
+39186,Female,57,0,1,Yes,Private,Urban,216.58,31,Unknown,1
+32729,Female,81,0,0,Yes,Private,Rural,184.4,27.5,never smoked,1
+39105,Male,74,0,0,Yes,Self-employed,Rural,60.98,N/A,never smoked,1
+31154,Female,39,0,0,Yes,Self-employed,Urban,97.76,29.6,smokes,1
+69959,Female,80,1,0,No,Private,Urban,66.03,35.4,never smoked,1
+10552,Female,81,0,0,Yes,Self-employed,Rural,81.95,16.9,never smoked,1
+12917,Female,79,0,0,Yes,Private,Urban,97.73,21.5,smokes,1
+68356,Female,73,0,0,Yes,Self-employed,Urban,70.94,34.4,never smoked,1
+23368,Female,77,1,0,Yes,Self-employed,Urban,199.84,28,formerly smoked,1
+25974,Male,78,0,0,Yes,Self-employed,Urban,218.46,26.8,Unknown,1
+1210,Female,68,0,0,Yes,Private,Rural,211.06,39.3,Unknown,1
+28493,Male,57,0,0,Yes,Private,Urban,86.3,31.7,Unknown,1
+36857,Male,77,0,0,Yes,Self-employed,Rural,162.14,32.6,formerly smoked,1
+1836,Female,51,1,0,Yes,Private,Urban,88.2,28.4,never smoked,1
+32221,Male,60,0,1,Yes,Private,Urban,91.92,35.9,smokes,1
+10548,Male,66,0,0,Yes,Private,Rural,76.46,21.2,formerly smoked,1
+52282,Male,57,0,0,Yes,Private,Rural,197.28,34.5,formerly smoked,1
+45535,Male,68,0,0,Yes,Private,Rural,233.94,42.4,never smoked,1
+40460,Female,68,1,1,Yes,Private,Urban,247.51,40.5,formerly smoked,1
+17739,Male,57,0,0,Yes,Private,Rural,84.96,36.7,Unknown,1
+49669,Female,14,0,0,No,children,Rural,57.93,30.9,Unknown,1
+27153,Female,75,0,0,Yes,Self-employed,Rural,78.8,29.3,formerly smoked,1
+34060,Male,71,1,0,Yes,Self-employed,Rural,87.8,N/A,Unknown,1
+43424,Female,78,0,0,Yes,Private,Rural,78.81,19.6,Unknown,1
 30669,Male,3,0,0,No,children,Rural,95.12,18,Unknown,0
 30468,Male,58,1,0,Yes,Private,Urban,87.96,39.2,never smoked,0
 16523,Female,8,0,0,No,Private,Urban,110.89,17.6,Unknown,0
@@ -5109,2005 +5109,3 @@ id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,a
 19723,Female,35,0,0,Yes,Self-employed,Rural,82.99,30.6,never smoked,0
 37544,Male,51,0,0,Yes,Private,Rural,166.29,25.6,formerly smoked,0
 44679,Female,44,0,0,Yes,Govt_job,Urban,85.28,26.2,Unknown,0
-30308,Female,71,1,1,Yes,Private,Urban,265.35,36.538,smokes,1
-53694,Male,90,1,1,Yes,Private,Urban,263.53,41.115,smokes,1
-39784,Male,45,1,1,Yes,Private,Urban,237.33,45.466,smokes,1
-55453,Female,73,1,1,Yes,Private,Urban,240.25,44.133,smokes,1
-28165,Male,72,1,1,Yes,Private,Urban,262.3,35.478,smokes,1
-45703,Female,82,1,1,Yes,Private,Urban,261.92,41.435,smokes,1
-23034,Female,82,1,1,Yes,Private,Urban,252.71,44.141,smokes,1
-31577,Male,59,1,1,Yes,Private,Urban,254.9,45.73,smokes,1
-52512,Female,80,1,1,Yes,Private,Urban,247,41.676,smokes,1
-47165,Male,45,1,1,Yes,Private,Urban,251.51,47.364,smokes,1
-45974,Female,73,1,1,Yes,Private,Urban,262,49.335,smokes,1
-37681,Male,59,1,1,Yes,Private,Urban,239.1,42.522,smokes,1
-39974,Female,56,1,1,Yes,Private,Urban,252.73,48.398,smokes,1
-41645,Male,84,1,1,Yes,Private,Urban,231.72,40.017,smokes,1
-14597,Female,51,1,1,Yes,Private,Urban,241.76,37.093,smokes,1
-12911,Male,54,1,1,Yes,Private,Urban,250.63,48.265,smokes,1
-51336,Female,62,1,1,Yes,Private,Urban,231.02,45.36,smokes,1
-57281,Male,60,1,1,Yes,Private,Urban,231.25,35.367,smokes,1
-40227,Male,77,1,1,Yes,Private,Urban,230.35,49.898,smokes,1
-31758,Female,87,1,1,Yes,Private,Urban,234.21,39.822,smokes,1
-33264,Male,59,1,1,Yes,Private,Urban,256.88,35.867,smokes,1
-13890,Male,87,1,1,Yes,Private,Urban,251.31,35.467,smokes,1
-36765,Female,86,1,1,Yes,Private,Urban,248.92,41.895,smokes,1
-13945,Male,68,1,1,Yes,Private,Urban,268.97,49.817,smokes,1
-52686,Male,66,1,1,Yes,Private,Urban,239.35,40.909,smokes,1
-59705,Male,47,1,1,Yes,Private,Urban,242.4,43.007,smokes,1
-17497,Female,71,1,1,Yes,Private,Urban,253.93,49.504,smokes,1
-46344,Female,87,1,1,Yes,Private,Urban,230.01,38.858,smokes,1
-49879,Female,46,1,1,Yes,Private,Urban,231.12,45.213,smokes,1
-15640,Male,46,1,1,Yes,Private,Urban,234.36,42.799,smokes,1
-43209,Male,50,1,1,Yes,Private,Urban,230.11,37.115,smokes,1
-35509,Male,52,1,1,Yes,Private,Urban,262.6,38.069,smokes,1
-48831,Female,67,1,1,Yes,Private,Urban,234.35,37.254,smokes,1
-42056,Female,90,1,1,Yes,Private,Urban,233.7,35.032,smokes,1
-55603,Male,79,1,1,Yes,Private,Urban,256.23,45.824,smokes,1
-22023,Female,51,1,1,Yes,Private,Urban,247.09,48.91,smokes,1
-35508,Male,52,1,1,Yes,Private,Urban,268.29,49.013,smokes,1
-27290,Female,72,1,1,Yes,Private,Urban,265.78,40.583,smokes,1
-52190,Male,87,1,1,Yes,Private,Urban,257.4,38.276,smokes,1
-35130,Female,86,1,1,Yes,Private,Urban,240.37,46.329,smokes,1
-29819,Female,80,1,1,Yes,Private,Urban,256.13,49.227,smokes,1
-47577,Male,76,1,1,Yes,Private,Urban,269.65,41.912,smokes,1
-15332,Male,75,1,1,Yes,Private,Urban,234.14,43.131,smokes,1
-35662,Male,82,1,1,Yes,Private,Urban,240.87,48.99,smokes,1
-28896,Female,80,1,1,Yes,Private,Urban,233.17,41.645,smokes,1
-33947,Male,85,1,1,Yes,Private,Urban,247.66,49.31,smokes,1
-37588,Male,58,1,1,Yes,Private,Urban,253.47,36.911,smokes,1
-51678,Female,87,1,1,Yes,Private,Urban,255.95,48.908,smokes,1
-31126,Male,53,1,1,Yes,Private,Urban,237.37,37.961,smokes,1
-45753,Male,88,1,1,Yes,Private,Urban,262.02,49.506,smokes,1
-35587,Male,72,1,1,Yes,Private,Urban,269.83,46.371,smokes,1
-47306,Female,90,1,1,Yes,Private,Urban,260.3,40.963,smokes,1
-31668,Female,57,1,1,Yes,Private,Urban,235.55,37.699,smokes,1
-22962,Female,87,1,1,Yes,Private,Urban,251.81,40.292,smokes,1
-40296,Male,84,1,1,Yes,Private,Urban,260.39,42.483,smokes,1
-43940,Male,82,1,1,Yes,Private,Urban,248.34,42.373,smokes,1
-13841,Male,47,1,1,Yes,Private,Urban,252.75,45.26,smokes,1
-58350,Male,48,1,1,Yes,Private,Urban,240.35,37.461,smokes,1
-21082,Male,90,1,1,Yes,Private,Urban,249.37,36.33,smokes,1
-48203,Female,65,1,1,Yes,Private,Urban,244.07,41.305,smokes,1
-42887,Female,86,1,1,Yes,Private,Urban,252.48,41.107,smokes,1
-22421,Female,84,1,1,Yes,Private,Urban,242,40.467,smokes,1
-29900,Male,51,1,1,Yes,Private,Urban,249.97,46.28,smokes,1
-16195,Male,82,1,1,Yes,Private,Urban,257.99,48.208,smokes,1
-10063,Female,75,1,1,Yes,Private,Urban,244.53,41.848,smokes,1
-26701,Male,49,1,1,Yes,Private,Urban,244.35,35.285,smokes,1
-26051,Female,58,1,1,Yes,Private,Urban,233.13,38.741,smokes,1
-57878,Female,45,1,1,Yes,Private,Urban,250.93,46.234,smokes,1
-48424,Male,90,1,1,Yes,Private,Urban,249.14,43.698,smokes,1
-49179,Male,46,1,1,Yes,Private,Urban,239.07,35.684,smokes,1
-59203,Female,62,1,1,Yes,Private,Urban,253.23,49.833,smokes,1
-11428,Female,47,1,1,Yes,Private,Urban,254.34,42.777,smokes,1
-34557,Male,46,1,1,Yes,Private,Urban,253.85,41.641,smokes,1
-24424,Female,76,1,1,Yes,Private,Urban,238.09,39.469,smokes,1
-30304,Female,80,1,1,Yes,Private,Urban,240.88,42.644,smokes,1
-50648,Male,84,1,1,Yes,Private,Urban,246.51,39.423,smokes,1
-22261,Male,71,1,1,Yes,Private,Urban,230.79,48.77,smokes,1
-28749,Male,73,1,1,Yes,Private,Urban,262.08,43.844,smokes,1
-41209,Female,82,1,1,Yes,Private,Urban,243.13,49.563,smokes,1
-55073,Female,71,1,1,Yes,Private,Urban,250.72,46.541,smokes,1
-35758,Male,59,1,1,Yes,Private,Urban,233.14,41.311,smokes,1
-24454,Male,79,1,1,Yes,Private,Urban,251.92,41.477,smokes,1
-28550,Male,60,1,1,Yes,Private,Urban,261.27,35.609,smokes,1
-39484,Female,50,1,1,Yes,Private,Urban,259.25,37.925,smokes,1
-27306,Male,51,1,1,Yes,Private,Urban,263.57,35.567,smokes,1
-58687,Female,86,1,1,Yes,Private,Urban,266.48,38.784,smokes,1
-33199,Male,49,1,1,Yes,Private,Urban,236.09,36.861,smokes,1
-33602,Male,62,1,1,Yes,Private,Urban,252.38,41.93,smokes,1
-37530,Female,71,1,1,Yes,Private,Urban,236.03,46.562,smokes,1
-29199,Male,66,1,1,Yes,Private,Urban,236.23,38.717,smokes,1
-52526,Male,86,1,1,Yes,Private,Urban,249.32,35.359,smokes,1
-35848,Female,90,1,1,Yes,Private,Urban,234.21,38.167,smokes,1
-29262,Male,67,1,1,Yes,Private,Urban,234.7,38.586,smokes,1
-55270,Female,49,1,1,Yes,Private,Urban,266.95,42.351,smokes,1
-41909,Female,66,1,1,Yes,Private,Urban,239.18,45.469,smokes,1
-43021,Male,72,1,1,Yes,Private,Urban,245.95,44.612,smokes,1
-44618,Female,69,1,1,Yes,Private,Urban,237.17,44.199,smokes,1
-21223,Male,64,1,1,Yes,Private,Urban,240.98,42.34,smokes,1
-21991,Female,45,1,1,Yes,Private,Urban,243.12,36.205,smokes,1
-45212,Female,58,1,1,Yes,Private,Urban,238.45,43.352,smokes,1
-26824,Male,82,1,1,Yes,Private,Urban,253.92,43.528,smokes,1
-41563,Female,71,1,1,Yes,Private,Urban,263.45,47.693,smokes,1
-24318,Male,73,1,1,Yes,Private,Urban,244.84,43.352,smokes,1
-29053,Male,62,1,1,Yes,Private,Urban,266.92,46.598,smokes,1
-46512,Male,66,1,1,Yes,Private,Urban,240.89,47.872,smokes,1
-20615,Female,67,1,1,Yes,Private,Urban,264.48,41.426,smokes,1
-37586,Female,71,1,1,Yes,Private,Urban,239.44,37.366,smokes,1
-39688,Female,65,1,1,Yes,Private,Urban,244.89,38.086,smokes,1
-37901,Female,88,1,1,Yes,Private,Urban,256.76,37.226,smokes,1
-44081,Male,72,1,1,Yes,Private,Urban,233.11,38.981,smokes,1
-13961,Female,52,1,1,Yes,Private,Urban,253.65,36.4,smokes,1
-59328,Male,57,1,1,Yes,Private,Urban,242.71,39.417,smokes,1
-44058,Male,46,1,1,Yes,Private,Urban,263.29,40.079,smokes,1
-30068,Male,58,1,1,Yes,Private,Urban,241.51,40.464,smokes,1
-35545,Female,49,1,1,Yes,Private,Urban,254.43,35.26,smokes,1
-28993,Female,84,1,1,Yes,Private,Urban,238.27,38.109,smokes,1
-26266,Female,87,1,1,Yes,Private,Urban,262.38,48.314,smokes,1
-18255,Male,67,1,1,Yes,Private,Urban,258.36,38.205,smokes,1
-25636,Female,75,1,1,Yes,Private,Urban,235.17,47.047,smokes,1
-17912,Male,83,1,1,Yes,Private,Urban,242.92,48.339,smokes,1
-40857,Female,80,1,1,Yes,Private,Urban,252.04,35.533,smokes,1
-45748,Male,64,1,1,Yes,Private,Urban,244.11,41.863,smokes,1
-27101,Female,74,1,1,Yes,Private,Urban,239.41,45.614,smokes,1
-31991,Female,58,1,1,Yes,Private,Urban,241.55,41.188,smokes,1
-12111,Male,74,1,1,Yes,Private,Urban,236.33,40.885,smokes,1
-31133,Male,81,1,1,Yes,Private,Urban,256.6,35.402,smokes,1
-15300,Male,82,1,1,Yes,Private,Urban,236.17,35.349,smokes,1
-37402,Female,45,1,1,Yes,Private,Urban,254.73,45.642,smokes,1
-57215,Male,45,1,1,Yes,Private,Urban,244.42,43.515,smokes,1
-16732,Male,51,1,1,Yes,Private,Urban,247.39,35.767,smokes,1
-54250,Female,74,1,1,Yes,Private,Urban,264.98,40.767,smokes,1
-22216,Female,65,1,1,Yes,Private,Urban,239.45,37.61,smokes,1
-33546,Male,81,1,1,Yes,Private,Urban,260.71,38.04,smokes,1
-35224,Female,51,1,1,Yes,Private,Urban,243.74,43.611,smokes,1
-15283,Female,83,1,1,Yes,Private,Urban,233.79,35.048,smokes,1
-38387,Female,84,1,1,Yes,Private,Urban,264.09,44.905,smokes,1
-46577,Female,59,1,1,Yes,Private,Urban,263.89,46.814,smokes,1
-46563,Male,78,1,1,Yes,Private,Urban,251.19,39.624,smokes,1
-15545,Female,45,1,1,Yes,Private,Urban,264.15,40.801,smokes,1
-17518,Female,77,1,1,Yes,Private,Urban,239.56,38.569,smokes,1
-31871,Female,51,1,1,Yes,Private,Urban,254.78,38.986,smokes,1
-27177,Male,76,1,1,Yes,Private,Urban,269.52,46.779,smokes,1
-32388,Female,76,1,1,Yes,Private,Urban,243.89,43.304,smokes,1
-56705,Female,88,1,1,Yes,Private,Urban,242.34,42.96,smokes,1
-31547,Male,74,1,1,Yes,Private,Urban,265.9,45.849,smokes,1
-23574,Male,63,1,1,Yes,Private,Urban,253.32,45.542,smokes,1
-15409,Female,47,1,1,Yes,Private,Urban,239.27,38.275,smokes,1
-23508,Male,45,1,1,Yes,Private,Urban,234.53,47.157,smokes,1
-34171,Male,81,1,1,Yes,Private,Urban,246.56,38.143,smokes,1
-22704,Female,67,1,1,Yes,Private,Urban,258.26,46.606,smokes,1
-26979,Female,79,1,1,Yes,Private,Urban,240.07,43.752,smokes,1
-16436,Female,53,1,1,Yes,Private,Urban,234.25,44.726,smokes,1
-56625,Male,63,1,1,Yes,Private,Urban,265.43,48.105,smokes,1
-30990,Female,76,1,1,Yes,Private,Urban,242.81,39.241,smokes,1
-27770,Male,76,1,1,Yes,Private,Urban,267.76,46.389,smokes,1
-31745,Male,81,1,1,Yes,Private,Urban,265.57,36.459,smokes,1
-20755,Male,49,1,1,Yes,Private,Urban,247.42,48.507,smokes,1
-27863,Male,87,1,1,Yes,Private,Urban,257.23,47.802,smokes,1
-36353,Female,47,1,1,Yes,Private,Urban,261.44,46.119,smokes,1
-15298,Male,51,1,1,Yes,Private,Urban,262.77,49.775,smokes,1
-39650,Male,57,1,1,Yes,Private,Urban,256.52,41.975,smokes,1
-11178,Male,76,1,1,Yes,Private,Urban,257.37,43.124,smokes,1
-25352,Female,70,1,1,Yes,Private,Urban,230.01,35.264,smokes,1
-20891,Female,63,1,1,Yes,Private,Urban,257.22,41.127,smokes,1
-49310,Male,62,1,1,Yes,Private,Urban,237.08,39.269,smokes,1
-17686,Male,68,1,1,Yes,Private,Urban,237.3,49.455,smokes,1
-25728,Male,50,1,1,Yes,Private,Urban,248.03,41.275,smokes,1
-23227,Male,72,1,1,Yes,Private,Urban,256.75,48.253,smokes,1
-18758,Male,89,1,1,Yes,Private,Urban,251.3,48.063,smokes,1
-11928,Female,90,1,1,Yes,Private,Urban,231,47.089,smokes,1
-20315,Female,78,1,1,Yes,Private,Urban,239.06,49.333,smokes,1
-43673,Male,55,1,1,Yes,Private,Urban,240.21,46.851,smokes,1
-42850,Female,70,1,1,Yes,Private,Urban,238.75,35.216,smokes,1
-43454,Male,51,1,1,Yes,Private,Urban,260.81,46.647,smokes,1
-42641,Male,55,1,1,Yes,Private,Urban,250.88,48.004,smokes,1
-34326,Female,73,1,1,Yes,Private,Urban,253.87,35.914,smokes,1
-48550,Female,56,1,1,Yes,Private,Urban,262.25,42.529,smokes,1
-32574,Female,68,1,1,Yes,Private,Urban,257.56,41.88,smokes,1
-58339,Female,80,1,1,Yes,Private,Urban,244.16,44.788,smokes,1
-35562,Male,71,1,1,Yes,Private,Urban,267.54,39.085,smokes,1
-28112,Male,70,1,1,Yes,Private,Urban,240.96,45.038,smokes,1
-26355,Male,52,1,1,Yes,Private,Urban,249.56,40.488,smokes,1
-17631,Male,67,1,1,Yes,Private,Urban,236.93,42.36,smokes,1
-18385,Female,77,1,1,Yes,Private,Urban,258.8,38.293,smokes,1
-19145,Female,62,1,1,Yes,Private,Urban,243.58,48.787,smokes,1
-14284,Female,70,1,1,Yes,Private,Urban,240.5,42.98,smokes,1
-46223,Male,77,1,1,Yes,Private,Urban,234.26,36.647,smokes,1
-51610,Male,48,1,1,Yes,Private,Urban,269.37,37.449,smokes,1
-46967,Female,56,1,1,Yes,Private,Urban,245.45,36.476,smokes,1
-12841,Male,53,1,1,Yes,Private,Urban,252.38,38.546,smokes,1
-44864,Male,77,1,1,Yes,Private,Urban,230.51,41.11,smokes,1
-36233,Male,73,1,1,Yes,Private,Urban,246.49,49.166,smokes,1
-40824,Female,56,1,1,Yes,Private,Urban,258.68,45.027,smokes,1
-46385,Male,61,1,1,Yes,Private,Urban,233.01,36.354,smokes,1
-57075,Male,84,1,1,Yes,Private,Urban,259.22,36.438,smokes,1
-27502,Female,84,1,1,Yes,Private,Urban,236.64,39.28,smokes,1
-26212,Female,69,1,1,Yes,Private,Urban,265.72,49.028,smokes,1
-33761,Female,50,1,1,Yes,Private,Urban,249.17,44.858,smokes,1
-20635,Male,87,1,1,Yes,Private,Urban,242.27,48.236,smokes,1
-19408,Male,57,1,1,Yes,Private,Urban,252.88,39.955,smokes,1
-20283,Female,71,1,1,Yes,Private,Urban,266.02,40.444,smokes,1
-19001,Male,55,1,1,Yes,Private,Urban,231.35,44.376,smokes,1
-13250,Male,84,1,1,Yes,Private,Urban,244.6,36.866,smokes,1
-39000,Female,54,1,1,Yes,Private,Urban,237.84,37.438,smokes,1
-34049,Male,50,1,1,Yes,Private,Urban,259.37,45.634,smokes,1
-58374,Female,80,1,1,Yes,Private,Urban,255.73,49.432,smokes,1
-10950,Male,52,1,1,Yes,Private,Urban,237.23,46.148,smokes,1
-15788,Female,66,1,1,Yes,Private,Urban,247.2,39.763,smokes,1
-47621,Male,78,1,1,Yes,Private,Urban,258.13,42.468,smokes,1
-33592,Female,89,1,1,Yes,Private,Urban,234.66,40.199,smokes,1
-52534,Female,67,1,1,Yes,Private,Urban,234.32,47.193,smokes,1
-37677,Female,45,1,1,Yes,Private,Urban,254.21,45.614,smokes,1
-26601,Male,69,1,1,Yes,Private,Urban,265.74,37.207,smokes,1
-49823,Male,62,1,1,Yes,Private,Urban,261.54,41.719,smokes,1
-12284,Male,53,1,1,Yes,Private,Urban,243.61,47.543,smokes,1
-40410,Female,78,1,1,Yes,Private,Urban,263.21,35.217,smokes,1
-15533,Male,55,1,1,Yes,Private,Urban,250.05,37.453,smokes,1
-53995,Female,47,1,1,Yes,Private,Urban,244.86,40.478,smokes,1
-28523,Female,81,1,1,Yes,Private,Urban,259.42,43.301,smokes,1
-15818,Male,51,1,1,Yes,Private,Urban,236.19,42.445,smokes,1
-55440,Female,55,1,1,Yes,Private,Urban,234.13,38.332,smokes,1
-58190,Female,59,1,1,Yes,Private,Urban,247.33,45.507,smokes,1
-38379,Female,58,1,1,Yes,Private,Urban,261.75,45.101,smokes,1
-42705,Female,76,1,1,Yes,Private,Urban,263.39,48.241,smokes,1
-24424,Male,90,1,1,Yes,Private,Urban,242.24,37.524,smokes,1
-35456,Female,66,1,1,Yes,Private,Urban,232.49,44.839,smokes,1
-21783,Male,70,1,1,Yes,Private,Urban,256.73,37.459,smokes,1
-24408,Male,82,1,1,Yes,Private,Urban,252.29,47.226,smokes,1
-49868,Male,89,1,1,Yes,Private,Urban,231.14,46.275,smokes,1
-50458,Male,78,1,1,Yes,Private,Urban,238.32,44.247,smokes,1
-23409,Female,82,1,1,Yes,Private,Urban,239.7,43.453,smokes,1
-46990,Male,86,1,1,Yes,Private,Urban,232.3,44.255,smokes,1
-32654,Female,51,1,1,Yes,Private,Urban,265.05,38.978,smokes,1
-37529,Female,65,1,1,Yes,Private,Urban,269.98,46.996,smokes,1
-52056,Male,51,1,1,Yes,Private,Urban,256.82,35.003,smokes,1
-28124,Male,83,1,1,Yes,Private,Urban,260.32,35.226,smokes,1
-33084,Female,74,1,1,Yes,Private,Urban,268.68,45.717,smokes,1
-27712,Male,58,1,1,Yes,Private,Urban,269.79,35.763,smokes,1
-56739,Male,75,1,1,Yes,Private,Urban,230.91,37.307,smokes,1
-53654,Female,56,1,1,Yes,Private,Urban,260.41,37.161,smokes,1
-25514,Male,60,1,1,Yes,Private,Urban,269.13,45.853,smokes,1
-10874,Male,88,1,1,Yes,Private,Urban,264.73,38.237,smokes,1
-27259,Female,78,1,1,Yes,Private,Urban,245.37,38.457,smokes,1
-45630,Female,78,1,1,Yes,Private,Urban,257.37,48.742,smokes,1
-50241,Male,70,1,1,Yes,Private,Urban,251.77,39.522,smokes,1
-31637,Male,50,1,1,Yes,Private,Urban,262.76,38.559,smokes,1
-15710,Female,62,1,1,Yes,Private,Urban,268.45,43.894,smokes,1
-17055,Male,83,1,1,Yes,Private,Urban,246.09,41.496,smokes,1
-51065,Male,86,1,1,Yes,Private,Urban,262.37,37.299,smokes,1
-44862,Female,48,1,1,Yes,Private,Urban,269.32,49.743,smokes,1
-50944,Female,67,1,1,Yes,Private,Urban,262.9,49.349,smokes,1
-31866,Female,60,1,1,Yes,Private,Urban,262.67,35.904,smokes,1
-10324,Female,82,1,1,Yes,Private,Urban,253.59,40.311,smokes,1
-42085,Female,70,1,1,Yes,Private,Urban,236.56,45.599,smokes,1
-50210,Female,63,1,1,Yes,Private,Urban,269.03,48.194,smokes,1
-12806,Male,53,1,1,Yes,Private,Urban,230.22,36.515,smokes,1
-33263,Male,51,1,1,Yes,Private,Urban,233.41,35.979,smokes,1
-55020,Male,67,1,1,Yes,Private,Urban,264.9,45.199,smokes,1
-46152,Male,80,1,1,Yes,Private,Urban,267.02,45.722,smokes,1
-25058,Female,66,1,1,Yes,Private,Urban,235.55,36.468,smokes,1
-47318,Female,72,1,1,Yes,Private,Urban,250.42,36.559,smokes,1
-27207,Male,53,1,1,Yes,Private,Urban,257.37,47.739,smokes,1
-23345,Male,74,1,1,Yes,Private,Urban,244.72,36.888,smokes,1
-57132,Female,90,1,1,Yes,Private,Urban,232.8,47.138,smokes,1
-41333,Male,88,1,1,Yes,Private,Urban,266.61,35.654,smokes,1
-19604,Female,49,1,1,Yes,Private,Urban,236.72,46.997,smokes,1
-49305,Female,89,1,1,Yes,Private,Urban,267.26,48.576,smokes,1
-54407,Male,48,1,1,Yes,Private,Urban,266.02,38.476,smokes,1
-20111,Female,53,1,1,Yes,Private,Urban,262.82,48.598,smokes,1
-38939,Female,88,1,1,Yes,Private,Urban,255.68,35.444,smokes,1
-20784,Female,46,1,1,Yes,Private,Urban,252.96,43.241,smokes,1
-29130,Male,81,1,1,Yes,Private,Urban,269.78,40.228,smokes,1
-35798,Male,89,1,1,Yes,Private,Urban,246.06,45.094,smokes,1
-40534,Male,87,1,1,Yes,Private,Urban,246.29,38.436,smokes,1
-12821,Male,87,1,1,Yes,Private,Urban,256.51,42.234,smokes,1
-19606,Female,59,1,1,Yes,Private,Urban,255.73,42.416,smokes,1
-34517,Female,83,1,1,Yes,Private,Urban,257.39,49.051,smokes,1
-37236,Female,88,1,1,Yes,Private,Urban,258.13,49.442,smokes,1
-47233,Male,52,1,1,Yes,Private,Urban,261.53,41.487,smokes,1
-41447,Male,46,1,1,Yes,Private,Urban,242.21,39.293,smokes,1
-22490,Male,63,1,1,Yes,Private,Urban,264.42,42.566,smokes,1
-35009,Male,49,1,1,Yes,Private,Urban,264.6,41.657,smokes,1
-21139,Male,67,1,1,Yes,Private,Urban,255.56,44.532,smokes,1
-53668,Female,80,1,1,Yes,Private,Urban,269.5,47.259,smokes,1
-44827,Male,87,1,1,Yes,Private,Urban,267.87,44.084,smokes,1
-38459,Female,48,1,1,Yes,Private,Urban,242.79,44.612,smokes,1
-12114,Female,63,1,1,Yes,Private,Urban,242.28,40.582,smokes,1
-50776,Female,55,1,1,Yes,Private,Urban,267.98,38.578,smokes,1
-10096,Male,47,1,1,Yes,Private,Urban,251.47,45.74,smokes,1
-30786,Female,72,1,1,Yes,Private,Urban,257.75,35.001,smokes,1
-46852,Male,60,1,1,Yes,Private,Urban,231.22,41.271,smokes,1
-23135,Female,51,1,1,Yes,Private,Urban,240.31,47.222,smokes,1
-42015,Female,68,1,1,Yes,Private,Urban,244.63,49.029,smokes,1
-28527,Male,88,1,1,Yes,Private,Urban,265.64,36.703,smokes,1
-22780,Female,80,1,1,Yes,Private,Urban,269.99,47.262,smokes,1
-59161,Female,83,1,1,Yes,Private,Urban,265.77,48.583,smokes,1
-50458,Female,53,1,1,Yes,Private,Urban,258.54,45.366,smokes,1
-22953,Male,67,1,1,Yes,Private,Urban,238.61,37.878,smokes,1
-50456,Female,87,1,1,Yes,Private,Urban,257.77,35.433,smokes,1
-24200,Male,48,1,1,Yes,Private,Urban,236.29,42.913,smokes,1
-32619,Male,79,1,1,Yes,Private,Urban,263.63,37.805,smokes,1
-45532,Female,64,1,1,Yes,Private,Urban,247.46,40.338,smokes,1
-55893,Male,88,1,1,Yes,Private,Urban,258.21,38.436,smokes,1
-55887,Male,67,1,1,Yes,Private,Urban,248.83,43.312,smokes,1
-20066,Male,74,1,1,Yes,Private,Urban,259.48,45.158,smokes,1
-47902,Male,75,1,1,Yes,Private,Urban,247.48,35.108,smokes,1
-34286,Female,47,1,1,Yes,Private,Urban,259.74,43.601,smokes,1
-47453,Male,89,1,1,Yes,Private,Urban,267.44,42.291,smokes,1
-22443,Female,55,1,1,Yes,Private,Urban,256.95,49.955,smokes,1
-21193,Male,54,1,1,Yes,Private,Urban,269.42,45.228,smokes,1
-40425,Female,51,1,1,Yes,Private,Urban,254.23,47.393,smokes,1
-47853,Female,55,1,1,Yes,Private,Urban,267.97,41.263,smokes,1
-34928,Female,88,1,1,Yes,Private,Urban,234.82,47.924,smokes,1
-32610,Male,88,1,1,Yes,Private,Urban,245.59,40.022,smokes,1
-24333,Female,70,1,1,Yes,Private,Urban,260.53,40.966,smokes,1
-24310,Male,79,1,1,Yes,Private,Urban,244.04,36.929,smokes,1
-27533,Male,81,1,1,Yes,Private,Urban,269.42,39.823,smokes,1
-28120,Male,74,1,1,Yes,Private,Urban,253.83,36.595,smokes,1
-23335,Male,72,1,1,Yes,Private,Urban,263.11,48.753,smokes,1
-33992,Male,52,1,1,Yes,Private,Urban,237.46,36.988,smokes,1
-34822,Male,50,1,1,Yes,Private,Urban,268.42,42.062,smokes,1
-22447,Female,86,1,1,Yes,Private,Urban,254.43,40.34,smokes,1
-11332,Female,45,1,1,Yes,Private,Urban,249,38.162,smokes,1
-27019,Female,81,1,1,Yes,Private,Urban,255.13,45.739,smokes,1
-31575,Female,61,1,1,Yes,Private,Urban,259.76,35.987,smokes,1
-59854,Male,76,1,1,Yes,Private,Urban,250,39.762,smokes,1
-10826,Male,55,1,1,Yes,Private,Urban,250.76,44.036,smokes,1
-15440,Male,89,1,1,Yes,Private,Urban,240.23,48.845,smokes,1
-30994,Male,66,1,1,Yes,Private,Urban,268.89,35.319,smokes,1
-17158,Female,47,1,1,Yes,Private,Urban,263.27,44.747,smokes,1
-40481,Male,56,1,1,Yes,Private,Urban,231.11,43.797,smokes,1
-57933,Female,89,1,1,Yes,Private,Urban,259.49,37.07,smokes,1
-59477,Female,52,1,1,Yes,Private,Urban,238.96,45.714,smokes,1
-42973,Female,74,1,1,Yes,Private,Urban,241.53,35.448,smokes,1
-23954,Male,54,1,1,Yes,Private,Urban,249.34,39.486,smokes,1
-31747,Male,69,1,1,Yes,Private,Urban,267.03,41.753,smokes,1
-48736,Female,56,1,1,Yes,Private,Urban,262.48,46.675,smokes,1
-47433,Male,57,1,1,Yes,Private,Urban,249.02,49.711,smokes,1
-18963,Female,64,1,1,Yes,Private,Urban,253.09,41.556,smokes,1
-12412,Female,52,1,1,Yes,Private,Urban,238.31,43.423,smokes,1
-27040,Female,59,1,1,Yes,Private,Urban,257.77,43.023,smokes,1
-46215,Female,72,1,1,Yes,Private,Urban,266.84,35.552,smokes,1
-20481,Male,69,1,1,Yes,Private,Urban,241.33,37.416,smokes,1
-29266,Female,51,1,1,Yes,Private,Urban,248.85,41.479,smokes,1
-37590,Female,81,1,1,Yes,Private,Urban,268.67,45.675,smokes,1
-13304,Male,62,1,1,Yes,Private,Urban,235.93,44.048,smokes,1
-35104,Female,76,1,1,Yes,Private,Urban,239.47,37.325,smokes,1
-29158,Male,68,1,1,Yes,Private,Urban,253.49,49.645,smokes,1
-58376,Male,65,1,1,Yes,Private,Urban,267.01,43.739,smokes,1
-33284,Male,64,1,1,Yes,Private,Urban,237.76,37.59,smokes,1
-51137,Female,84,1,1,Yes,Private,Urban,247.03,40.862,smokes,1
-45872,Female,76,1,1,Yes,Private,Urban,266.37,48.017,smokes,1
-45516,Female,89,1,1,Yes,Private,Urban,264.45,40.649,smokes,1
-56930,Male,84,1,1,Yes,Private,Urban,243.15,40.621,smokes,1
-18154,Female,61,1,1,Yes,Private,Urban,264.6,42.335,smokes,1
-37992,Female,75,1,1,Yes,Private,Urban,267.22,44.836,smokes,1
-31077,Female,45,1,1,Yes,Private,Urban,233.26,47.575,smokes,1
-44173,Male,58,1,1,Yes,Private,Urban,262.44,38.874,smokes,1
-23574,Male,82,1,1,Yes,Private,Urban,264.17,40.38,smokes,1
-30578,Female,83,1,1,Yes,Private,Urban,244.26,42.331,smokes,1
-27695,Male,77,1,1,Yes,Private,Urban,252.87,38.479,smokes,1
-17146,Male,63,1,1,Yes,Private,Urban,266.45,37.554,smokes,1
-41628,Male,71,1,1,Yes,Private,Urban,254.75,46.642,smokes,1
-55231,Female,85,1,1,Yes,Private,Urban,260.26,42.852,smokes,1
-57755,Female,61,1,1,Yes,Private,Urban,258.17,35.542,smokes,1
-54086,Male,65,1,1,Yes,Private,Urban,257.27,43.432,smokes,1
-25083,Female,72,1,1,Yes,Private,Urban,261.17,41.207,smokes,1
-21331,Female,58,1,1,Yes,Private,Urban,246.31,45.063,smokes,1
-26301,Female,58,1,1,Yes,Private,Urban,260.55,49.307,smokes,1
-16869,Female,70,1,1,Yes,Private,Urban,256.31,42.484,smokes,1
-32250,Female,83,1,1,Yes,Private,Urban,262.12,42.779,smokes,1
-53623,Female,62,1,1,Yes,Private,Urban,251.76,39.566,smokes,1
-20468,Female,75,1,1,Yes,Private,Urban,234.97,40.793,smokes,1
-29894,Male,90,1,1,Yes,Private,Urban,267.75,41.494,smokes,1
-53567,Female,45,1,1,Yes,Private,Urban,237.04,42.743,smokes,1
-45905,Female,78,1,1,Yes,Private,Urban,244.07,41.591,smokes,1
-21901,Male,56,1,1,Yes,Private,Urban,231.95,40.937,smokes,1
-25742,Female,58,1,1,Yes,Private,Urban,251.14,38.691,smokes,1
-11727,Female,81,1,1,Yes,Private,Urban,246.39,44.929,smokes,1
-43906,Male,48,1,1,Yes,Private,Urban,262.57,45.728,smokes,1
-44518,Male,45,1,1,Yes,Private,Urban,255.47,43.772,smokes,1
-24288,Male,85,1,1,Yes,Private,Urban,262.16,45.355,smokes,1
-46096,Female,74,1,1,Yes,Private,Urban,250.35,36.746,smokes,1
-55434,Male,81,1,1,Yes,Private,Urban,263.14,44.125,smokes,1
-34674,Male,81,1,1,Yes,Private,Urban,252.41,46.629,smokes,1
-53215,Female,80,1,1,Yes,Private,Urban,258.82,48.34,smokes,1
-55504,Female,82,1,1,Yes,Private,Urban,240.83,49.423,smokes,1
-41426,Female,61,1,1,Yes,Private,Urban,235.19,46.83,smokes,1
-53591,Male,79,1,1,Yes,Private,Urban,230.91,47.491,smokes,1
-29831,Male,45,1,1,Yes,Private,Urban,263,41.032,smokes,1
-47791,Female,75,1,1,Yes,Private,Urban,265.13,48.936,smokes,1
-43882,Male,83,1,1,Yes,Private,Urban,256.4,35.968,smokes,1
-40832,Female,64,1,1,Yes,Private,Urban,244.53,38.177,smokes,1
-58447,Male,49,1,1,Yes,Private,Urban,244.22,39.997,smokes,1
-53167,Male,56,1,1,Yes,Private,Urban,236.58,36.512,smokes,1
-12619,Male,71,1,1,Yes,Private,Urban,230.33,38.547,smokes,1
-16183,Female,62,1,1,Yes,Private,Urban,262.15,39.754,smokes,1
-35493,Male,90,1,1,Yes,Private,Urban,238.56,43.773,smokes,1
-40767,Male,51,1,1,Yes,Private,Urban,249.14,44.017,smokes,1
-54600,Female,55,1,1,Yes,Private,Urban,247.55,44.482,smokes,1
-28714,Female,88,1,1,Yes,Private,Urban,261.68,36.13,smokes,1
-19409,Male,64,1,1,Yes,Private,Urban,264.09,35.111,smokes,1
-41595,Male,47,1,1,Yes,Private,Urban,253.5,40.1,smokes,1
-46999,Female,68,1,1,Yes,Private,Urban,243.64,44.57,smokes,1
-38627,Female,88,1,1,Yes,Private,Urban,269.77,40.653,smokes,1
-10527,Male,52,1,1,Yes,Private,Urban,254.02,39.514,smokes,1
-49695,Male,69,1,1,Yes,Private,Urban,251.82,45.908,smokes,1
-29846,Male,83,1,1,Yes,Private,Urban,243.42,37.785,smokes,1
-41827,Female,55,1,1,Yes,Private,Urban,258.92,38.216,smokes,1
-51442,Female,51,1,1,Yes,Private,Urban,238.38,38.91,smokes,1
-37833,Female,60,1,1,Yes,Private,Urban,259.76,49.689,smokes,1
-32590,Female,48,1,1,Yes,Private,Urban,249.22,43.837,smokes,1
-38397,Male,61,1,1,Yes,Private,Urban,262.41,48.046,smokes,1
-38180,Female,86,1,1,Yes,Private,Urban,264.82,45.92,smokes,1
-37483,Male,76,1,1,Yes,Private,Urban,257.72,36.167,smokes,1
-41175,Female,84,1,1,Yes,Private,Urban,245.02,37.991,smokes,1
-55457,Male,64,1,1,Yes,Private,Urban,238.36,37.189,smokes,1
-26242,Female,83,1,1,Yes,Private,Urban,254.46,44.9,smokes,1
-42323,Female,85,1,1,Yes,Private,Urban,253.1,47.065,smokes,1
-27141,Female,89,1,1,Yes,Private,Urban,248.68,44.85,smokes,1
-35578,Female,79,1,1,Yes,Private,Urban,236.6,37.712,smokes,1
-12509,Female,69,1,1,Yes,Private,Urban,237.39,41.45,smokes,1
-57820,Female,86,1,1,Yes,Private,Urban,265.19,43.552,smokes,1
-51845,Female,50,1,1,Yes,Private,Urban,261.77,47.842,smokes,1
-12894,Male,60,1,1,Yes,Private,Urban,233.14,41.065,smokes,1
-26767,Female,65,1,1,Yes,Private,Urban,238.12,39.934,smokes,1
-47796,Female,83,1,1,Yes,Private,Urban,262.04,42.84,smokes,1
-42378,Male,59,1,1,Yes,Private,Urban,269.23,37.198,smokes,1
-16931,Female,62,1,1,Yes,Private,Urban,253.85,44.024,smokes,1
-48574,Male,55,1,1,Yes,Private,Urban,231.39,41.502,smokes,1
-47780,Female,73,1,1,Yes,Private,Urban,264.56,41.237,smokes,1
-51699,Female,63,1,1,Yes,Private,Urban,247.13,37.364,smokes,1
-22578,Male,61,1,1,Yes,Private,Urban,242.85,47.146,smokes,1
-38051,Male,64,1,1,Yes,Private,Urban,254.27,37.818,smokes,1
-56712,Male,52,1,1,Yes,Private,Urban,245.28,45.574,smokes,1
-49109,Male,78,1,1,Yes,Private,Urban,250.01,49.553,smokes,1
-21667,Female,90,1,1,Yes,Private,Urban,260.64,42.183,smokes,1
-38076,Female,49,1,1,Yes,Private,Urban,244.22,44.5,smokes,1
-22008,Female,49,1,1,Yes,Private,Urban,251.39,37.042,smokes,1
-27162,Male,68,1,1,Yes,Private,Urban,245.75,41.22,smokes,1
-52810,Male,49,1,1,Yes,Private,Urban,241.52,42.395,smokes,1
-41862,Female,80,1,1,Yes,Private,Urban,268.36,47.578,smokes,1
-23450,Male,63,1,1,Yes,Private,Urban,242.01,43.954,smokes,1
-51887,Male,89,1,1,Yes,Private,Urban,230.41,47.017,smokes,1
-58733,Male,75,1,1,Yes,Private,Urban,239.58,46.409,smokes,1
-19109,Male,87,1,1,Yes,Private,Urban,248.66,46.987,smokes,1
-42178,Female,78,1,1,Yes,Private,Urban,257.7,46.337,smokes,1
-16347,Male,59,1,1,Yes,Private,Urban,253.5,40.419,smokes,1
-40013,Male,63,1,1,Yes,Private,Urban,244.53,43.861,smokes,1
-30218,Female,78,1,1,Yes,Private,Urban,241.69,37.304,smokes,1
-53632,Female,90,1,1,Yes,Private,Urban,240.38,35.795,smokes,1
-50588,Male,51,1,1,Yes,Private,Urban,245.16,43.319,smokes,1
-10783,Female,58,1,1,Yes,Private,Urban,259.28,47.916,smokes,1
-17838,Male,66,1,1,Yes,Private,Urban,247.98,36.476,smokes,1
-50416,Male,59,1,1,Yes,Private,Urban,233.29,48.274,smokes,1
-22734,Female,72,1,1,Yes,Private,Urban,241.22,44.324,smokes,1
-40655,Male,61,1,1,Yes,Private,Urban,267.46,48.114,smokes,1
-42881,Male,46,1,1,Yes,Private,Urban,249.45,44.191,smokes,1
-41703,Male,61,1,1,Yes,Private,Urban,232.83,48.756,smokes,1
-54910,Female,46,1,1,Yes,Private,Urban,241.46,48.015,smokes,1
-37259,Female,47,1,1,Yes,Private,Urban,236.97,38.077,smokes,1
-30928,Male,58,1,1,Yes,Private,Urban,241.98,37.177,smokes,1
-25278,Female,59,1,1,Yes,Private,Urban,241.61,38.36,smokes,1
-26000,Male,56,1,1,Yes,Private,Urban,268.01,47.766,smokes,1
-33365,Male,82,1,1,Yes,Private,Urban,260.74,44.446,smokes,1
-52066,Male,78,1,1,Yes,Private,Urban,239.51,46.575,smokes,1
-21470,Male,52,1,1,Yes,Private,Urban,242.13,40.277,smokes,1
-19015,Male,87,1,1,Yes,Private,Urban,232.99,45.358,smokes,1
-18667,Female,69,1,1,Yes,Private,Urban,266.84,41.122,smokes,1
-35808,Male,70,1,1,Yes,Private,Urban,233.21,47.067,smokes,1
-34093,Male,57,1,1,Yes,Private,Urban,256.05,46.299,smokes,1
-38466,Female,59,1,1,Yes,Private,Urban,238.43,39.713,smokes,1
-25956,Male,73,1,1,Yes,Private,Urban,233.03,38.39,smokes,1
-14952,Male,77,1,1,Yes,Private,Urban,252.38,41.923,smokes,1
-37564,Female,50,1,1,Yes,Private,Urban,261.06,48.649,smokes,1
-45489,Female,90,1,1,Yes,Private,Urban,249.34,47.229,smokes,1
-36158,Female,84,1,1,Yes,Private,Urban,268.34,45.525,smokes,1
-47042,Female,68,1,1,Yes,Private,Urban,235.36,49.98,smokes,1
-44748,Male,76,1,1,Yes,Private,Urban,261.25,42.449,smokes,1
-23028,Male,89,1,1,Yes,Private,Urban,230.4,35.326,smokes,1
-43849,Male,46,1,1,Yes,Private,Urban,260.68,42.408,smokes,1
-26686,Female,81,1,1,Yes,Private,Urban,248.28,36.999,smokes,1
-22011,Female,75,1,1,Yes,Private,Urban,267.56,48.644,smokes,1
-19684,Female,87,1,1,Yes,Private,Urban,241.63,42.32,smokes,1
-55595,Male,61,1,1,Yes,Private,Urban,265.3,38.512,smokes,1
-13565,Male,85,1,1,Yes,Private,Urban,264.99,38.987,smokes,1
-20485,Male,45,1,1,Yes,Private,Urban,266.87,35.456,smokes,1
-35285,Female,71,1,1,Yes,Private,Urban,231.29,46.336,smokes,1
-34065,Male,51,1,1,Yes,Private,Urban,245.34,40.112,smokes,1
-32963,Male,59,1,1,Yes,Private,Urban,251.33,48.113,smokes,1
-51687,Female,71,1,1,Yes,Private,Urban,262.14,49.696,smokes,1
-23118,Female,73,1,1,Yes,Private,Urban,264.01,37.645,smokes,1
-16481,Male,54,1,1,Yes,Private,Urban,237.5,41.944,smokes,1
-23018,Male,55,1,1,Yes,Private,Urban,261.82,43.288,smokes,1
-39426,Male,71,1,1,Yes,Private,Urban,267.14,43.245,smokes,1
-44418,Male,45,1,1,Yes,Private,Urban,267.67,49.209,smokes,1
-19264,Female,84,1,1,Yes,Private,Urban,240.93,41.223,smokes,1
-32076,Male,55,1,1,Yes,Private,Urban,233.87,48.297,smokes,1
-53316,Female,53,1,1,Yes,Private,Urban,247.27,35.267,smokes,1
-26507,Male,52,1,1,Yes,Private,Urban,246.77,46.764,smokes,1
-53102,Female,63,1,1,Yes,Private,Urban,264.22,46.513,smokes,1
-32356,Male,60,1,1,Yes,Private,Urban,237.68,38.607,smokes,1
-17145,Female,86,1,1,Yes,Private,Urban,267.42,44.038,smokes,1
-49687,Female,50,1,1,Yes,Private,Urban,240.59,36.945,smokes,1
-50536,Male,73,1,1,Yes,Private,Urban,268.78,44.291,smokes,1
-52444,Female,80,1,1,Yes,Private,Urban,248.13,42.03,smokes,1
-10503,Male,87,1,1,Yes,Private,Urban,260.33,37.9,smokes,1
-37982,Female,55,1,1,Yes,Private,Urban,265.1,36.594,smokes,1
-42330,Male,90,1,1,Yes,Private,Urban,246.54,37.27,smokes,1
-56835,Female,50,1,1,Yes,Private,Urban,252.74,38.166,smokes,1
-28577,Male,45,1,1,Yes,Private,Urban,256.4,40.236,smokes,1
-45511,Male,83,1,1,Yes,Private,Urban,232.7,43.315,smokes,1
-15429,Male,46,1,1,Yes,Private,Urban,233,49.846,smokes,1
-11440,Female,51,1,1,Yes,Private,Urban,269.47,42.845,smokes,1
-57099,Male,63,1,1,Yes,Private,Urban,247.51,39.956,smokes,1
-47232,Male,80,1,1,Yes,Private,Urban,259.51,45.375,smokes,1
-54188,Female,66,1,1,Yes,Private,Urban,249.52,39.621,smokes,1
-40558,Female,72,1,1,Yes,Private,Urban,248.03,40.27,smokes,1
-54984,Male,45,1,1,Yes,Private,Urban,263.92,46.6,smokes,1
-49297,Male,76,1,1,Yes,Private,Urban,248.64,48.163,smokes,1
-42056,Male,65,1,1,Yes,Private,Urban,258.38,40.426,smokes,1
-13575,Male,77,1,1,Yes,Private,Urban,237.05,38.88,smokes,1
-10202,Female,88,1,1,Yes,Private,Urban,248.44,37.381,smokes,1
-15071,Female,78,1,1,Yes,Private,Urban,258.13,45.973,smokes,1
-58942,Female,74,1,1,Yes,Private,Urban,264.46,39.14,smokes,1
-40207,Female,79,1,1,Yes,Private,Urban,235.87,44.415,smokes,1
-51037,Female,85,1,1,Yes,Private,Urban,261.99,35.76,smokes,1
-45895,Female,71,1,1,Yes,Private,Urban,253.5,35.933,smokes,1
-16733,Male,69,1,1,Yes,Private,Urban,239.51,40.714,smokes,1
-38203,Male,77,1,1,Yes,Private,Urban,241.25,37.913,smokes,1
-15959,Male,65,1,1,Yes,Private,Urban,251.79,35.081,smokes,1
-14973,Female,72,1,1,Yes,Private,Urban,269.43,36.343,smokes,1
-34977,Female,90,1,1,Yes,Private,Urban,232.94,47.55,smokes,1
-59655,Female,90,1,1,Yes,Private,Urban,248.22,40.142,smokes,1
-37448,Male,87,1,1,Yes,Private,Urban,235.81,49.859,smokes,1
-14017,Male,61,1,1,Yes,Private,Urban,233.53,40.747,smokes,1
-26323,Male,58,1,1,Yes,Private,Urban,237.22,35.954,smokes,1
-14471,Male,45,1,1,Yes,Private,Urban,245.15,37.041,smokes,1
-48737,Male,61,1,1,Yes,Private,Urban,241.93,38.96,smokes,1
-10496,Female,75,1,1,Yes,Private,Urban,230.36,37.715,smokes,1
-56097,Male,88,1,1,Yes,Private,Urban,257.47,41.078,smokes,1
-16883,Male,58,1,1,Yes,Private,Urban,263.84,41.556,smokes,1
-16089,Male,85,1,1,Yes,Private,Urban,248.61,43.232,smokes,1
-57930,Male,54,1,1,Yes,Private,Urban,253.04,41.548,smokes,1
-34589,Male,83,1,1,Yes,Private,Urban,245.96,36.476,smokes,1
-22408,Male,51,1,1,Yes,Private,Urban,245.98,44.064,smokes,1
-13154,Male,78,1,1,Yes,Private,Urban,269.97,38.644,smokes,1
-42550,Male,74,1,1,Yes,Private,Urban,259.38,40.54,smokes,1
-54644,Male,57,1,1,Yes,Private,Urban,253.14,48.395,smokes,1
-28191,Female,71,1,1,Yes,Private,Urban,261.55,37.518,smokes,1
-42218,Male,89,1,1,Yes,Private,Urban,234.73,35.504,smokes,1
-34454,Male,65,1,1,Yes,Private,Urban,267.36,46.001,smokes,1
-57724,Female,79,1,1,Yes,Private,Urban,231.75,37.868,smokes,1
-25086,Female,73,1,1,Yes,Private,Urban,265.34,43.732,smokes,1
-27749,Female,78,1,1,Yes,Private,Urban,246.96,44.949,smokes,1
-21901,Male,79,1,1,Yes,Private,Urban,239.55,38.768,smokes,1
-32470,Male,73,1,1,Yes,Private,Urban,256.3,41.906,smokes,1
-51503,Male,88,1,1,Yes,Private,Urban,269.6,38.827,smokes,1
-18376,Female,76,1,1,Yes,Private,Urban,261.39,49.636,smokes,1
-38153,Male,77,1,1,Yes,Private,Urban,268.24,42.233,smokes,1
-50242,Female,75,1,1,Yes,Private,Urban,232.43,47.455,smokes,1
-19437,Male,81,1,1,Yes,Private,Urban,257.46,39.399,smokes,1
-40863,Female,58,1,1,Yes,Private,Urban,262.99,39.65,smokes,1
-15475,Male,66,1,1,Yes,Private,Urban,262.87,38.174,smokes,1
-21423,Female,68,1,1,Yes,Private,Urban,266.92,36.155,smokes,1
-45213,Female,46,1,1,Yes,Private,Urban,263.26,45.741,smokes,1
-27928,Male,83,1,1,Yes,Private,Urban,253.71,49.592,smokes,1
-48051,Male,58,1,1,Yes,Private,Urban,265.61,40.164,smokes,1
-35730,Male,68,1,1,Yes,Private,Urban,262.15,47.532,smokes,1
-42092,Male,48,1,1,Yes,Private,Urban,243.99,43.276,smokes,1
-41590,Female,85,1,1,Yes,Private,Urban,248.87,49.93,smokes,1
-38680,Female,65,1,1,Yes,Private,Urban,240.39,36.544,smokes,1
-24102,Male,55,1,1,Yes,Private,Urban,260.2,42.524,smokes,1
-45843,Male,51,1,1,Yes,Private,Urban,250.32,35.041,smokes,1
-24420,Female,77,1,1,Yes,Private,Urban,264.44,46.255,smokes,1
-56159,Male,48,1,1,Yes,Private,Urban,266.45,46.951,smokes,1
-33451,Male,67,1,1,Yes,Private,Urban,230.33,37.47,smokes,1
-26763,Female,58,1,1,Yes,Private,Urban,249.2,43.091,smokes,1
-53041,Female,50,1,1,Yes,Private,Urban,260.32,49.384,smokes,1
-47473,Female,56,1,1,Yes,Private,Urban,241.63,44.927,smokes,1
-40829,Female,45,1,1,Yes,Private,Urban,265.3,49.522,smokes,1
-36249,Female,50,1,1,Yes,Private,Urban,242.65,43.882,smokes,1
-11615,Male,64,1,1,Yes,Private,Urban,249.48,45.597,smokes,1
-21122,Male,84,1,1,Yes,Private,Urban,256.31,35.065,smokes,1
-53123,Male,75,1,1,Yes,Private,Urban,250.42,38.904,smokes,1
-28182,Female,51,1,1,Yes,Private,Urban,264.92,44.586,smokes,1
-38095,Male,47,1,1,Yes,Private,Urban,249.91,39.718,smokes,1
-16323,Female,84,1,1,Yes,Private,Urban,246.08,35.641,smokes,1
-33620,Female,66,1,1,Yes,Private,Urban,250.3,44.948,smokes,1
-29353,Male,71,1,1,Yes,Private,Urban,266.21,43.886,smokes,1
-46412,Male,82,1,1,Yes,Private,Urban,267.47,48.236,smokes,1
-44634,Female,60,1,1,Yes,Private,Urban,256.72,46.877,smokes,1
-48321,Female,58,1,1,Yes,Private,Urban,261.41,46.601,smokes,1
-48574,Male,68,1,1,Yes,Private,Urban,249.2,44.276,smokes,1
-51195,Female,47,1,1,Yes,Private,Urban,249.39,36.733,smokes,1
-52689,Male,80,1,1,Yes,Private,Urban,230.14,39.832,smokes,1
-58203,Male,61,1,1,Yes,Private,Urban,230.1,42.454,smokes,1
-47299,Male,81,1,1,Yes,Private,Urban,261.89,43.05,smokes,1
-42741,Male,66,1,1,Yes,Private,Urban,250.4,38.81,smokes,1
-57942,Female,67,1,1,Yes,Private,Urban,258.18,44.473,smokes,1
-26832,Female,53,1,1,Yes,Private,Urban,256.54,35.926,smokes,1
-41845,Male,75,1,1,Yes,Private,Urban,255.88,44.195,smokes,1
-44086,Male,54,1,1,Yes,Private,Urban,232.74,40.587,smokes,1
-29702,Male,61,1,1,Yes,Private,Urban,233.69,39.966,smokes,1
-44114,Male,63,1,1,Yes,Private,Urban,259.4,40.107,smokes,1
-57834,Female,79,1,1,Yes,Private,Urban,269.95,44.589,smokes,1
-52324,Male,73,1,1,Yes,Private,Urban,233.77,47.92,smokes,1
-40455,Male,78,1,1,Yes,Private,Urban,264.78,43.978,smokes,1
-17022,Male,77,1,1,Yes,Private,Urban,249.59,40.313,smokes,1
-33583,Male,71,1,1,Yes,Private,Urban,248.88,42.272,smokes,1
-16063,Female,64,1,1,Yes,Private,Urban,241.61,37.788,smokes,1
-57387,Female,62,1,1,Yes,Private,Urban,245.4,44.933,smokes,1
-20063,Male,51,1,1,Yes,Private,Urban,264.67,37.364,smokes,1
-31003,Male,60,1,1,Yes,Private,Urban,233.73,40.334,smokes,1
-28561,Female,60,1,1,Yes,Private,Urban,251.04,39.727,smokes,1
-23907,Male,86,1,1,Yes,Private,Urban,237.51,43.711,smokes,1
-10800,Male,87,1,1,Yes,Private,Urban,253.88,49.468,smokes,1
-34057,Female,52,1,1,Yes,Private,Urban,248.09,44.073,smokes,1
-22214,Male,63,1,1,Yes,Private,Urban,263.85,37.529,smokes,1
-31780,Male,52,1,1,Yes,Private,Urban,258.71,38.247,smokes,1
-21478,Male,53,1,1,Yes,Private,Urban,260.82,49.706,smokes,1
-47933,Female,51,1,1,Yes,Private,Urban,233.26,46.535,smokes,1
-40301,Female,46,1,1,Yes,Private,Urban,243.12,38.618,smokes,1
-53957,Male,70,1,1,Yes,Private,Urban,255.31,46.433,smokes,1
-59167,Female,61,1,1,Yes,Private,Urban,256.35,37.67,smokes,1
-39090,Female,77,1,1,Yes,Private,Urban,255.91,35.833,smokes,1
-53553,Male,61,1,1,Yes,Private,Urban,269.41,47.234,smokes,1
-54388,Female,67,1,1,Yes,Private,Urban,233.54,41.946,smokes,1
-32625,Male,76,1,1,Yes,Private,Urban,238.4,49.357,smokes,1
-53633,Male,71,1,1,Yes,Private,Urban,258.23,48.445,smokes,1
-53480,Female,73,1,1,Yes,Private,Urban,242.83,38.964,smokes,1
-23183,Female,85,1,1,Yes,Private,Urban,232.1,49.637,smokes,1
-20501,Male,58,1,1,Yes,Private,Urban,232.38,43.436,smokes,1
-14679,Female,80,1,1,Yes,Private,Urban,243.89,47.053,smokes,1
-52716,Male,50,1,1,Yes,Private,Urban,233.67,38.333,smokes,1
-31902,Female,52,1,1,Yes,Private,Urban,247.85,40.307,smokes,1
-44152,Male,75,1,1,Yes,Private,Urban,259.5,38.229,smokes,1
-56008,Male,79,1,1,Yes,Private,Urban,234.28,40.085,smokes,1
-50360,Female,48,1,1,Yes,Private,Urban,242.84,47.358,smokes,1
-55220,Male,76,1,1,Yes,Private,Urban,246.94,42.676,smokes,1
-41490,Female,61,1,1,Yes,Private,Urban,242.09,40.343,smokes,1
-31661,Female,72,1,1,Yes,Private,Urban,244.51,41.072,smokes,1
-17775,Male,72,1,1,Yes,Private,Urban,253.35,41.184,smokes,1
-23150,Male,59,1,1,Yes,Private,Urban,253.39,45.761,smokes,1
-48446,Female,57,1,1,Yes,Private,Urban,233.04,47.289,smokes,1
-17979,Male,70,1,1,Yes,Private,Urban,238.62,39.409,smokes,1
-39298,Male,81,1,1,Yes,Private,Urban,251.07,36.251,smokes,1
-43209,Female,57,1,1,Yes,Private,Urban,239.33,48.3,smokes,1
-51030,Male,66,1,1,Yes,Private,Urban,267.17,41.629,smokes,1
-37835,Female,62,1,1,Yes,Private,Urban,235.31,45.094,smokes,1
-55310,Male,81,1,1,Yes,Private,Urban,246.04,42.052,smokes,1
-35205,Male,61,1,1,Yes,Private,Urban,247.29,48.382,smokes,1
-46512,Female,87,1,1,Yes,Private,Urban,240.81,40.125,smokes,1
-53955,Female,67,1,1,Yes,Private,Urban,254.35,44.832,smokes,1
-38774,Female,89,1,1,Yes,Private,Urban,243.21,39.099,smokes,1
-37569,Male,71,1,1,Yes,Private,Urban,249.31,39.098,smokes,1
-10340,Female,54,1,1,Yes,Private,Urban,253.7,40.722,smokes,1
-55222,Female,86,1,1,Yes,Private,Urban,249.12,40.997,smokes,1
-56871,Female,65,1,1,Yes,Private,Urban,255.51,49.953,smokes,1
-10697,Male,55,1,1,Yes,Private,Urban,251.85,46.535,smokes,1
-56522,Male,65,1,1,Yes,Private,Urban,247,47.921,smokes,1
-27796,Male,56,1,1,Yes,Private,Urban,259.24,44.294,smokes,1
-19994,Male,62,1,1,Yes,Private,Urban,236.75,36.498,smokes,1
-12287,Female,77,1,1,Yes,Private,Urban,250.73,46.877,smokes,1
-39038,Male,68,1,1,Yes,Private,Urban,266.78,45.347,smokes,1
-18309,Male,72,1,1,Yes,Private,Urban,237,46.526,smokes,1
-39805,Male,85,1,1,Yes,Private,Urban,251.47,43.766,smokes,1
-58344,Female,59,1,1,Yes,Private,Urban,241.39,41.286,smokes,1
-28623,Female,47,1,1,Yes,Private,Urban,256.44,41.01,smokes,1
-50885,Male,66,1,1,Yes,Private,Urban,257.7,48.65,smokes,1
-52563,Male,68,1,1,Yes,Private,Urban,264.81,43.312,smokes,1
-48063,Male,73,1,1,Yes,Private,Urban,264.43,45.507,smokes,1
-39821,Female,55,1,1,Yes,Private,Urban,250.3,41.949,smokes,1
-59047,Female,49,1,1,Yes,Private,Urban,250.38,48.317,smokes,1
-53229,Female,87,1,1,Yes,Private,Urban,268.81,36.579,smokes,1
-37533,Female,67,1,1,Yes,Private,Urban,258.3,39.601,smokes,1
-10141,Female,54,1,1,Yes,Private,Urban,255.06,41.351,smokes,1
-40217,Male,57,1,1,Yes,Private,Urban,230.88,41.085,smokes,1
-56708,Female,87,1,1,Yes,Private,Urban,262.38,48.775,smokes,1
-51294,Male,45,1,1,Yes,Private,Urban,252.54,35.052,smokes,1
-46184,Female,52,1,1,Yes,Private,Urban,254.7,42.369,smokes,1
-43402,Female,75,1,1,Yes,Private,Urban,267.13,43.292,smokes,1
-19028,Male,65,1,1,Yes,Private,Urban,241.73,41.041,smokes,1
-20281,Female,52,1,1,Yes,Private,Urban,264.42,41.585,smokes,1
-49167,Male,78,1,1,Yes,Private,Urban,246.04,46.254,smokes,1
-35750,Female,79,1,1,Yes,Private,Urban,255.49,38.682,smokes,1
-14312,Female,71,1,1,Yes,Private,Urban,235.45,41.866,smokes,1
-22597,Female,77,1,1,Yes,Private,Urban,257.56,41.032,smokes,1
-34307,Male,69,1,1,Yes,Private,Urban,257.95,36.809,smokes,1
-51822,Male,90,1,1,Yes,Private,Urban,258.93,45.096,smokes,1
-55972,Female,73,1,1,Yes,Private,Urban,261.75,43.063,smokes,1
-33848,Male,57,1,1,Yes,Private,Urban,257.9,42.028,smokes,1
-50735,Male,49,1,1,Yes,Private,Urban,257.7,45.308,smokes,1
-12462,Female,85,1,1,Yes,Private,Urban,239.99,44.67,smokes,1
-21435,Male,81,1,1,Yes,Private,Urban,248.48,47.346,smokes,1
-59503,Male,56,1,1,Yes,Private,Urban,234.45,37.458,smokes,1
-17232,Male,82,1,1,Yes,Private,Urban,238.15,44.389,smokes,1
-55499,Female,69,1,1,Yes,Private,Urban,259.15,47.284,smokes,1
-11239,Male,73,1,1,Yes,Private,Urban,257.26,44.869,smokes,1
-34777,Male,54,1,1,Yes,Private,Urban,252.62,41.306,smokes,1
-34583,Male,56,1,1,Yes,Private,Urban,266.86,43.765,smokes,1
-32092,Male,73,1,1,Yes,Private,Urban,256.29,36.686,smokes,1
-57109,Female,47,1,1,Yes,Private,Urban,261.62,45.401,smokes,1
-57086,Male,84,1,1,Yes,Private,Urban,246.61,47.998,smokes,1
-41255,Female,69,1,1,Yes,Private,Urban,247.31,42.696,smokes,1
-37224,Male,60,1,1,Yes,Private,Urban,257.84,46.346,smokes,1
-27673,Female,90,1,1,Yes,Private,Urban,241.91,45.313,smokes,1
-18218,Female,72,1,1,Yes,Private,Urban,238.22,46.431,smokes,1
-55255,Female,71,1,1,Yes,Private,Urban,237.46,47.79,smokes,1
-37288,Male,83,1,1,Yes,Private,Urban,248.2,41.546,smokes,1
-30573,Female,52,1,1,Yes,Private,Urban,252.05,39.292,smokes,1
-19233,Male,73,1,1,Yes,Private,Urban,244.29,45.634,smokes,1
-17059,Male,82,1,1,Yes,Private,Urban,238.77,44.756,smokes,1
-40873,Female,63,1,1,Yes,Private,Urban,234.15,37.954,smokes,1
-39523,Female,83,1,1,Yes,Private,Urban,237.14,44.795,smokes,1
-27696,Male,52,1,1,Yes,Private,Urban,260.4,40.102,smokes,1
-21993,Female,64,1,1,Yes,Private,Urban,240.52,37.535,smokes,1
-20951,Female,66,1,1,Yes,Private,Urban,250.98,45.685,smokes,1
-41773,Male,83,1,1,Yes,Private,Urban,231.44,35.879,smokes,1
-33331,Male,46,1,1,Yes,Private,Urban,265.44,49.85,smokes,1
-18936,Female,64,1,1,Yes,Private,Urban,258.96,46.064,smokes,1
-31898,Female,82,1,1,Yes,Private,Urban,251.8,43.79,smokes,1
-20504,Male,78,1,1,Yes,Private,Urban,257.51,48.669,smokes,1
-18910,Female,55,1,1,Yes,Private,Urban,263.11,49.753,smokes,1
-50794,Female,59,1,1,Yes,Private,Urban,261.2,36.548,smokes,1
-57653,Female,53,1,1,Yes,Private,Urban,267.73,39.741,smokes,1
-38463,Female,82,1,1,Yes,Private,Urban,264.4,42.883,smokes,1
-13421,Female,73,1,1,Yes,Private,Urban,230.88,35.884,smokes,1
-15149,Male,54,1,1,Yes,Private,Urban,237.91,48.47,smokes,1
-47447,Female,85,1,1,Yes,Private,Urban,247.06,43.091,smokes,1
-21397,Female,81,1,1,Yes,Private,Urban,241.93,44.179,smokes,1
-53896,Female,50,1,1,Yes,Private,Urban,264.71,47.651,smokes,1
-14339,Male,62,1,1,Yes,Private,Urban,267.77,41.495,smokes,1
-29880,Male,66,1,1,Yes,Private,Urban,230.98,46.233,smokes,1
-24635,Male,85,1,1,Yes,Private,Urban,244.94,36.112,smokes,1
-13183,Male,48,1,1,Yes,Private,Urban,252.46,35.697,smokes,1
-46122,Female,64,1,1,Yes,Private,Urban,239.45,48.04,smokes,1
-31573,Male,86,1,1,Yes,Private,Urban,266.19,41.899,smokes,1
-39161,Female,76,1,1,Yes,Private,Urban,260.41,49.123,smokes,1
-55269,Male,62,1,1,Yes,Private,Urban,249.58,47.496,smokes,1
-48080,Male,77,1,1,Yes,Private,Urban,257.92,44.317,smokes,1
-38168,Female,89,1,1,Yes,Private,Urban,231.06,47.291,smokes,1
-12916,Female,77,1,1,Yes,Private,Urban,245.43,48.756,smokes,1
-28336,Female,71,1,1,Yes,Private,Urban,230.78,38.943,smokes,1
-54335,Female,70,1,1,Yes,Private,Urban,255.2,42.041,smokes,1
-26912,Male,62,1,1,Yes,Private,Urban,237.98,38.117,smokes,1
-39838,Male,68,1,1,Yes,Private,Urban,264.7,42.593,smokes,1
-15402,Female,50,1,1,Yes,Private,Urban,268.61,43.434,smokes,1
-27523,Male,84,1,1,Yes,Private,Urban,239.91,46.189,smokes,1
-33328,Male,59,1,1,Yes,Private,Urban,240.21,40.215,smokes,1
-56803,Female,86,1,1,Yes,Private,Urban,266.72,43.597,smokes,1
-55580,Female,82,1,1,Yes,Private,Urban,257.54,39.986,smokes,1
-39444,Female,60,1,1,Yes,Private,Urban,264.71,39.745,smokes,1
-28187,Male,74,1,1,Yes,Private,Urban,244.58,47.137,smokes,1
-53833,Female,68,1,1,Yes,Private,Urban,250.68,37.795,smokes,1
-28574,Male,63,1,1,Yes,Private,Urban,232.7,41.299,smokes,1
-52923,Female,75,1,1,Yes,Private,Urban,250.67,48.449,smokes,1
-37258,Male,84,1,1,Yes,Private,Urban,260.36,35.53,smokes,1
-36418,Male,57,1,1,Yes,Private,Urban,265,35.586,smokes,1
-52051,Male,77,1,1,Yes,Private,Urban,241.81,42.206,smokes,1
-57982,Female,85,1,1,Yes,Private,Urban,244.88,48.55,smokes,1
-47613,Female,71,1,1,Yes,Private,Urban,250.57,37.241,smokes,1
-19361,Male,81,1,1,Yes,Private,Urban,263.29,36.286,smokes,1
-36710,Male,60,1,1,Yes,Private,Urban,256.24,41.293,smokes,1
-40983,Female,55,1,1,Yes,Private,Urban,246.96,41.66,smokes,1
-16012,Male,69,1,1,Yes,Private,Urban,250.81,42.906,smokes,1
-20433,Female,90,1,1,Yes,Private,Urban,262.45,43.343,smokes,1
-43370,Female,82,1,1,Yes,Private,Urban,259.6,39.782,smokes,1
-41822,Female,60,1,1,Yes,Private,Urban,252.14,48.571,smokes,1
-50695,Female,88,1,1,Yes,Private,Urban,252.02,47.298,smokes,1
-16007,Male,61,1,1,Yes,Private,Urban,230.72,41.481,smokes,1
-53661,Male,81,1,1,Yes,Private,Urban,258.84,45.441,smokes,1
-43799,Female,71,1,1,Yes,Private,Urban,231.71,48.456,smokes,1
-28469,Male,62,1,1,Yes,Private,Urban,258.76,43.169,smokes,1
-40065,Male,50,1,1,Yes,Private,Urban,266.61,42.192,smokes,1
-37975,Female,60,1,1,Yes,Private,Urban,238.54,45.968,smokes,1
-42128,Male,54,1,1,Yes,Private,Urban,242.96,45.301,smokes,1
-51893,Male,56,1,1,Yes,Private,Urban,251.79,47.818,smokes,1
-19302,Female,90,1,1,Yes,Private,Urban,244.25,35.745,smokes,1
-54947,Male,82,1,1,Yes,Private,Urban,264.6,37.296,smokes,1
-46650,Male,66,1,1,Yes,Private,Urban,268.41,37.378,smokes,1
-10856,Female,47,1,1,Yes,Private,Urban,257.61,40.746,smokes,1
-32353,Female,85,1,1,Yes,Private,Urban,235.4,46.55,smokes,1
-24479,Male,72,1,1,Yes,Private,Urban,233.79,37.98,smokes,1
-24943,Male,81,1,1,Yes,Private,Urban,236.38,48.499,smokes,1
-40158,Male,56,1,1,Yes,Private,Urban,258.48,46.702,smokes,1
-16368,Female,81,1,1,Yes,Private,Urban,231.06,40.327,smokes,1
-16415,Male,80,1,1,Yes,Private,Urban,261.29,47.225,smokes,1
-15521,Female,73,1,1,Yes,Private,Urban,256.91,42.805,smokes,1
-53645,Male,86,1,1,Yes,Private,Urban,242.3,41.387,smokes,1
-43186,Female,80,1,1,Yes,Private,Urban,267.05,40.665,smokes,1
-50324,Male,71,1,1,Yes,Private,Urban,230.5,49.277,smokes,1
-43046,Male,75,1,1,Yes,Private,Urban,268.23,46.587,smokes,1
-17906,Female,72,1,1,Yes,Private,Urban,256.15,42.485,smokes,1
-22219,Male,71,1,1,Yes,Private,Urban,243.2,44,smokes,1
-31304,Male,58,1,1,Yes,Private,Urban,261.81,38.492,smokes,1
-46689,Male,62,1,1,Yes,Private,Urban,261.92,42.56,smokes,1
-10135,Female,71,1,1,Yes,Private,Urban,257.09,45.548,smokes,1
-13422,Female,48,1,1,Yes,Private,Urban,232.99,36.623,smokes,1
-24486,Female,65,1,1,Yes,Private,Urban,261.05,47.213,smokes,1
-28395,Male,64,1,1,Yes,Private,Urban,238.22,44.016,smokes,1
-58770,Female,67,1,1,Yes,Private,Urban,246.67,37.494,smokes,1
-52233,Male,70,1,1,Yes,Private,Urban,241.84,36.112,smokes,1
-55405,Female,61,1,1,Yes,Private,Urban,238.64,35.525,smokes,1
-14126,Male,81,1,1,Yes,Private,Urban,259.53,48.759,smokes,1
-48568,Male,87,1,1,Yes,Private,Urban,254.75,43.45,smokes,1
-49290,Male,88,1,1,Yes,Private,Urban,242.62,41.406,smokes,1
-44039,Male,71,1,1,Yes,Private,Urban,266.34,47.647,smokes,1
-50850,Male,84,1,1,Yes,Private,Urban,255.67,37.378,smokes,1
-42240,Male,73,1,1,Yes,Private,Urban,254.05,35.732,smokes,1
-54199,Male,66,1,1,Yes,Private,Urban,232.33,49.031,smokes,1
-11511,Female,61,1,1,Yes,Private,Urban,248.96,47.32,smokes,1
-21280,Female,85,1,1,Yes,Private,Urban,249.44,46.417,smokes,1
-41703,Male,51,1,1,Yes,Private,Urban,269.32,45.247,smokes,1
-54499,Male,50,1,1,Yes,Private,Urban,238.84,49.309,smokes,1
-59529,Male,90,1,1,Yes,Private,Urban,250.56,46.022,smokes,1
-37462,Female,52,1,1,Yes,Private,Urban,246.17,47.97,smokes,1
-56462,Female,63,1,1,Yes,Private,Urban,232.63,40.504,smokes,1
-45276,Male,58,1,1,Yes,Private,Urban,234.89,37.931,smokes,1
-14675,Male,87,1,1,Yes,Private,Urban,265.87,37.442,smokes,1
-52706,Female,83,1,1,Yes,Private,Urban,259.67,47.008,smokes,1
-58425,Male,48,1,1,Yes,Private,Urban,244.67,38.972,smokes,1
-15808,Female,76,1,1,Yes,Private,Urban,259.06,49.525,smokes,1
-18297,Female,70,1,1,Yes,Private,Urban,266.75,48.886,smokes,1
-39880,Male,54,1,1,Yes,Private,Urban,254.97,36.751,smokes,1
-32433,Female,78,1,1,Yes,Private,Urban,260.46,49.787,smokes,1
-20575,Female,69,1,1,Yes,Private,Urban,239.53,47.142,smokes,1
-26224,Male,84,1,1,Yes,Private,Urban,246.76,43.645,smokes,1
-26621,Male,60,1,1,Yes,Private,Urban,231.47,35.487,smokes,1
-27728,Male,51,1,1,Yes,Private,Urban,231.63,45.298,smokes,1
-38216,Male,60,1,1,Yes,Private,Urban,243.54,47.733,smokes,1
-40002,Female,47,1,1,Yes,Private,Urban,250.05,46.562,smokes,1
-23737,Female,53,1,1,Yes,Private,Urban,242.08,47.416,smokes,1
-44740,Female,66,1,1,Yes,Private,Urban,233.61,45.622,smokes,1
-16790,Female,72,1,1,Yes,Private,Urban,246.9,45.536,smokes,1
-19877,Male,47,1,1,Yes,Private,Urban,262.25,40.612,smokes,1
-56640,Female,82,1,1,Yes,Private,Urban,266.82,42.848,smokes,1
-58702,Female,56,1,1,Yes,Private,Urban,267.39,44.753,smokes,1
-19055,Male,65,1,1,Yes,Private,Urban,265.51,46.208,smokes,1
-30471,Male,90,1,1,Yes,Private,Urban,234.83,37.664,smokes,1
-16244,Male,57,1,1,Yes,Private,Urban,257.2,45.882,smokes,1
-36337,Male,79,1,1,Yes,Private,Urban,248.25,48.147,smokes,1
-38506,Female,77,1,1,Yes,Private,Urban,264.57,49.164,smokes,1
-45672,Male,82,1,1,Yes,Private,Urban,267.32,44.866,smokes,1
-51377,Female,70,1,1,Yes,Private,Urban,253.98,47.153,smokes,1
-18886,Male,84,1,1,Yes,Private,Urban,255.1,45.412,smokes,1
-38258,Male,59,1,1,Yes,Private,Urban,235.64,49.275,smokes,1
-54493,Male,50,1,1,Yes,Private,Urban,249.2,46.017,smokes,1
-27347,Male,78,1,1,Yes,Private,Urban,257.2,37.4,smokes,1
-14775,Male,75,1,1,Yes,Private,Urban,269.75,44.542,smokes,1
-34578,Male,73,1,1,Yes,Private,Urban,256.63,41.849,smokes,1
-45731,Female,65,1,1,Yes,Private,Urban,255.22,40.655,smokes,1
-48937,Male,54,1,1,Yes,Private,Urban,263.09,39.399,smokes,1
-28189,Male,83,1,1,Yes,Private,Urban,236.73,49.906,smokes,1
-49234,Female,55,1,1,Yes,Private,Urban,262.5,39.086,smokes,1
-33186,Male,56,1,1,Yes,Private,Urban,242.24,49.429,smokes,1
-45863,Male,83,1,1,Yes,Private,Urban,237.31,35.213,smokes,1
-50985,Female,57,1,1,Yes,Private,Urban,240.22,37.189,smokes,1
-41470,Female,45,1,1,Yes,Private,Urban,263.86,37.616,smokes,1
-43372,Male,61,1,1,Yes,Private,Urban,259.44,42.839,smokes,1
-44601,Male,71,1,1,Yes,Private,Urban,263.73,43.29,smokes,1
-30672,Female,64,1,1,Yes,Private,Urban,253.48,43.17,smokes,1
-51660,Female,73,1,1,Yes,Private,Urban,243.85,48.023,smokes,1
-15118,Female,84,1,1,Yes,Private,Urban,246.61,38.299,smokes,1
-47154,Male,84,1,1,Yes,Private,Urban,230.01,41.504,smokes,1
-47665,Male,77,1,1,Yes,Private,Urban,254.71,43.32,smokes,1
-23155,Female,66,1,1,Yes,Private,Urban,259.81,39.708,smokes,1
-38385,Male,47,1,1,Yes,Private,Urban,267.35,39.682,smokes,1
-59090,Female,89,1,1,Yes,Private,Urban,250.78,37.234,smokes,1
-37068,Male,65,1,1,Yes,Private,Urban,257.3,45.421,smokes,1
-38168,Female,63,1,1,Yes,Private,Urban,251.32,44.642,smokes,1
-18638,Male,48,1,1,Yes,Private,Urban,247.76,46.895,smokes,1
-58515,Female,61,1,1,Yes,Private,Urban,239.24,40.289,smokes,1
-43083,Female,69,1,1,Yes,Private,Urban,267.33,49.069,smokes,1
-56466,Male,72,1,1,Yes,Private,Urban,267.92,39.628,smokes,1
-26168,Male,88,1,1,Yes,Private,Urban,238.69,40.439,smokes,1
-33602,Female,87,1,1,Yes,Private,Urban,231.77,45.358,smokes,1
-48382,Male,46,1,1,Yes,Private,Urban,253.64,49.109,smokes,1
-50744,Male,54,1,1,Yes,Private,Urban,264.62,42.752,smokes,1
-30628,Female,85,1,1,Yes,Private,Urban,244.21,44.469,smokes,1
-17679,Male,82,1,1,Yes,Private,Urban,240.89,46.682,smokes,1
-46533,Female,47,1,1,Yes,Private,Urban,267.55,49.877,smokes,1
-13992,Male,65,1,1,Yes,Private,Urban,256.15,46.092,smokes,1
-25988,Male,59,1,1,Yes,Private,Urban,253.37,41.314,smokes,1
-39835,Male,47,1,1,Yes,Private,Urban,241.96,42.171,smokes,1
-55684,Female,61,1,1,Yes,Private,Urban,240.81,35.713,smokes,1
-46669,Female,83,1,1,Yes,Private,Urban,268.87,38.08,smokes,1
-48747,Male,67,1,1,Yes,Private,Urban,245.83,35.167,smokes,1
-35703,Male,55,1,1,Yes,Private,Urban,268.6,41.423,smokes,1
-31519,Female,83,1,1,Yes,Private,Urban,266.89,38.688,smokes,1
-59156,Male,72,1,1,Yes,Private,Urban,238.89,43.378,smokes,1
-30559,Female,59,1,1,Yes,Private,Urban,249.36,41.243,smokes,1
-39602,Male,59,1,1,Yes,Private,Urban,249.9,36.224,smokes,1
-20901,Male,83,1,1,Yes,Private,Urban,268.78,38.428,smokes,1
-22233,Female,88,1,1,Yes,Private,Urban,257.59,37.811,smokes,1
-54570,Female,48,1,1,Yes,Private,Urban,258,42.451,smokes,1
-22638,Male,50,1,1,Yes,Private,Urban,235.99,38.703,smokes,1
-22224,Male,81,1,1,Yes,Private,Urban,248.79,48.262,smokes,1
-28968,Male,83,1,1,Yes,Private,Urban,233.71,39.785,smokes,1
-51973,Male,60,1,1,Yes,Private,Urban,234.16,36.177,smokes,1
-30686,Male,45,1,1,Yes,Private,Urban,242.65,47.5,smokes,1
-25706,Female,45,1,1,Yes,Private,Urban,241.77,43.316,smokes,1
-14192,Male,68,1,1,Yes,Private,Urban,241.35,48.112,smokes,1
-44422,Female,74,1,1,Yes,Private,Urban,231.25,46.947,smokes,1
-18600,Male,51,1,1,Yes,Private,Urban,247.64,48.845,smokes,1
-32279,Male,74,1,1,Yes,Private,Urban,253.96,36.969,smokes,1
-34502,Male,63,1,1,Yes,Private,Urban,257.48,35.399,smokes,1
-30167,Male,50,1,1,Yes,Private,Urban,269.34,43.265,smokes,1
-35774,Male,81,1,1,Yes,Private,Urban,268.69,42.251,smokes,1
-56798,Male,62,1,1,Yes,Private,Urban,255.22,46.07,smokes,1
-24953,Female,83,1,1,Yes,Private,Urban,268.7,38.326,smokes,1
-56951,Female,78,1,1,Yes,Private,Urban,252.13,48.547,smokes,1
-17699,Male,86,1,1,Yes,Private,Urban,251.14,41.757,smokes,1
-58186,Female,90,1,1,Yes,Private,Urban,260.56,39.448,smokes,1
-21224,Male,63,1,1,Yes,Private,Urban,232.89,44.605,smokes,1
-43879,Male,71,1,1,Yes,Private,Urban,269.01,47.45,smokes,1
-18243,Male,50,1,1,Yes,Private,Urban,261.06,41.522,smokes,1
-20062,Male,57,1,1,Yes,Private,Urban,243.41,36.694,smokes,1
-42281,Female,78,1,1,Yes,Private,Urban,241.53,40.013,smokes,1
-14572,Female,80,1,1,Yes,Private,Urban,234.65,38.643,smokes,1
-38996,Male,61,1,1,Yes,Private,Urban,264.72,47.28,smokes,1
-35801,Male,88,1,1,Yes,Private,Urban,259.38,43.566,smokes,1
-17746,Male,73,1,1,Yes,Private,Urban,269.62,35.52,smokes,1
-25380,Female,73,1,1,Yes,Private,Urban,259.44,49.65,smokes,1
-53508,Male,73,1,1,Yes,Private,Urban,265.89,35.132,smokes,1
-20547,Female,85,1,1,Yes,Private,Urban,267.85,47.648,smokes,1
-32068,Female,68,1,1,Yes,Private,Urban,266.96,41.22,smokes,1
-48453,Male,54,1,1,Yes,Private,Urban,244.85,43.318,smokes,1
-28982,Female,70,1,1,Yes,Private,Urban,261.6,40.009,smokes,1
-17350,Female,84,1,1,Yes,Private,Urban,245.47,43.051,smokes,1
-48428,Male,81,1,1,Yes,Private,Urban,232.88,36.902,smokes,1
-59053,Male,65,1,1,Yes,Private,Urban,257.11,46.615,smokes,1
-40842,Male,72,1,1,Yes,Private,Urban,247.05,37.836,smokes,1
-44631,Male,70,1,1,Yes,Private,Urban,247.58,48.395,smokes,1
-55290,Female,70,1,1,Yes,Private,Urban,267.97,36.912,smokes,1
-11425,Male,80,1,1,Yes,Private,Urban,252.71,39.846,smokes,1
-21998,Male,71,1,1,Yes,Private,Urban,266.26,46.663,smokes,1
-17863,Female,51,1,1,Yes,Private,Urban,239.66,49.432,smokes,1
-47849,Male,75,1,1,Yes,Private,Urban,256.79,38.742,smokes,1
-17391,Female,46,1,1,Yes,Private,Urban,261.81,38.435,smokes,1
-21327,Female,47,1,1,Yes,Private,Urban,261.21,40.876,smokes,1
-17302,Male,59,1,1,Yes,Private,Urban,248.44,39.457,smokes,1
-40701,Male,74,1,1,Yes,Private,Urban,258.01,36.89,smokes,1
-20027,Female,80,1,1,Yes,Private,Urban,247.1,35.451,smokes,1
-28708,Female,82,1,1,Yes,Private,Urban,253.08,39.438,smokes,1
-41091,Female,90,1,1,Yes,Private,Urban,244.3,43.592,smokes,1
-56644,Female,62,1,1,Yes,Private,Urban,268.89,35.194,smokes,1
-44876,Female,50,1,1,Yes,Private,Urban,262.14,46.613,smokes,1
-51290,Female,68,1,1,Yes,Private,Urban,261.2,44.367,smokes,1
-23575,Female,57,1,1,Yes,Private,Urban,258.79,42.712,smokes,1
-39366,Female,69,1,1,Yes,Private,Urban,267.99,46.525,smokes,1
-16476,Male,63,1,1,Yes,Private,Urban,245.68,39.971,smokes,1
-59298,Male,82,1,1,Yes,Private,Urban,238.92,40.139,smokes,1
-50223,Female,53,1,1,Yes,Private,Urban,254.94,41.853,smokes,1
-14254,Female,46,1,1,Yes,Private,Urban,235.21,42.022,smokes,1
-59093,Male,77,1,1,Yes,Private,Urban,261.55,35.514,smokes,1
-23169,Female,53,1,1,Yes,Private,Urban,236.07,48.929,smokes,1
-33597,Female,87,1,1,Yes,Private,Urban,233.8,41.165,smokes,1
-49675,Female,54,1,1,Yes,Private,Urban,252.46,40.949,smokes,1
-20127,Female,81,1,1,Yes,Private,Urban,242.83,39.48,smokes,1
-25760,Female,77,1,1,Yes,Private,Urban,250.17,36.191,smokes,1
-24267,Male,77,1,1,Yes,Private,Urban,252.34,46.359,smokes,1
-12433,Female,51,1,1,Yes,Private,Urban,252.24,37.944,smokes,1
-38576,Female,72,1,1,Yes,Private,Urban,254.38,46.767,smokes,1
-15487,Male,49,1,1,Yes,Private,Urban,235.07,44.6,smokes,1
-57939,Female,46,1,1,Yes,Private,Urban,263.35,42.562,smokes,1
-51900,Female,71,1,1,Yes,Private,Urban,267.38,46.674,smokes,1
-26259,Female,57,1,1,Yes,Private,Urban,232.13,49.823,smokes,1
-32747,Male,66,1,1,Yes,Private,Urban,238.47,38.742,smokes,1
-39685,Female,51,1,1,Yes,Private,Urban,264.53,46.275,smokes,1
-39335,Female,46,1,1,Yes,Private,Urban,267.06,42.2,smokes,1
-10259,Female,69,1,1,Yes,Private,Urban,235.22,49.572,smokes,1
-52583,Male,67,1,1,Yes,Private,Urban,234.26,39.208,smokes,1
-11973,Female,53,1,1,Yes,Private,Urban,230.12,39.616,smokes,1
-30024,Female,64,1,1,Yes,Private,Urban,235.42,42.064,smokes,1
-45528,Male,51,1,1,Yes,Private,Urban,231.92,36.062,smokes,1
-13901,Male,75,1,1,Yes,Private,Urban,249.22,44.437,smokes,1
-25112,Male,89,1,1,Yes,Private,Urban,259.99,35.201,smokes,1
-34430,Female,53,1,1,Yes,Private,Urban,264.05,47.782,smokes,1
-46427,Male,77,1,1,Yes,Private,Urban,269.76,37.563,smokes,1
-25733,Male,62,1,1,Yes,Private,Urban,230.65,45.662,smokes,1
-50413,Male,86,1,1,Yes,Private,Urban,260.02,42.257,smokes,1
-13056,Female,77,1,1,Yes,Private,Urban,248.45,40.127,smokes,1
-24945,Male,86,1,1,Yes,Private,Urban,245.48,35.532,smokes,1
-46029,Male,84,1,1,Yes,Private,Urban,251.6,45.502,smokes,1
-19960,Male,49,1,1,Yes,Private,Urban,258.15,40.515,smokes,1
-22369,Female,78,1,1,Yes,Private,Urban,231.72,37.522,smokes,1
-30947,Male,81,1,1,Yes,Private,Urban,246.96,35.076,smokes,1
-21159,Male,74,1,1,Yes,Private,Urban,261.69,47.722,smokes,1
-29295,Male,85,1,1,Yes,Private,Urban,241.93,42.235,smokes,1
-42345,Male,66,1,1,Yes,Private,Urban,255.41,41.778,smokes,1
-16733,Male,46,1,1,Yes,Private,Urban,243.82,46.314,smokes,1
-27195,Male,83,1,1,Yes,Private,Urban,249.81,46.925,smokes,1
-50723,Female,56,1,1,Yes,Private,Urban,249.6,35.185,smokes,1
-28206,Male,73,1,1,Yes,Private,Urban,247.22,35.316,smokes,1
-42607,Female,63,1,1,Yes,Private,Urban,246.44,45.766,smokes,1
-21235,Female,87,1,1,Yes,Private,Urban,256.57,38.746,smokes,1
-17081,Female,90,1,1,Yes,Private,Urban,246.95,35.218,smokes,1
-12657,Female,49,1,1,Yes,Private,Urban,243.82,38.198,smokes,1
-18369,Female,87,1,1,Yes,Private,Urban,239.4,35.112,smokes,1
-55824,Female,69,1,1,Yes,Private,Urban,241,38.249,smokes,1
-45605,Female,85,1,1,Yes,Private,Urban,253.03,48.332,smokes,1
-11559,Male,60,1,1,Yes,Private,Urban,250.58,49.166,smokes,1
-51414,Male,62,1,1,Yes,Private,Urban,232.58,40.976,smokes,1
-16127,Male,71,1,1,Yes,Private,Urban,233.47,38.127,smokes,1
-49440,Male,88,1,1,Yes,Private,Urban,239.43,42.601,smokes,1
-59371,Male,50,1,1,Yes,Private,Urban,252.28,35.662,smokes,1
-10097,Male,52,1,1,Yes,Private,Urban,263.62,44.07,smokes,1
-15597,Female,74,1,1,Yes,Private,Urban,252.95,40.301,smokes,1
-34614,Male,66,1,1,Yes,Private,Urban,254.35,37.183,smokes,1
-39980,Male,53,1,1,Yes,Private,Urban,255.53,49.43,smokes,1
-24040,Female,81,1,1,Yes,Private,Urban,269.67,47.012,smokes,1
-23343,Female,80,1,1,Yes,Private,Urban,248.85,46.788,smokes,1
-37368,Female,52,1,1,Yes,Private,Urban,236.64,37.236,smokes,1
-15128,Male,59,1,1,Yes,Private,Urban,265.2,38.325,smokes,1
-58299,Male,56,1,1,Yes,Private,Urban,266.14,47.538,smokes,1
-14094,Male,71,1,1,Yes,Private,Urban,246.16,47.134,smokes,1
-28260,Male,73,1,1,Yes,Private,Urban,245.82,44.393,smokes,1
-22413,Female,82,1,1,Yes,Private,Urban,268.81,38.386,smokes,1
-11094,Male,67,1,1,Yes,Private,Urban,254.88,37.635,smokes,1
-15537,Female,45,1,1,Yes,Private,Urban,262.2,49.153,smokes,1
-48601,Female,48,1,1,Yes,Private,Urban,257.86,41.977,smokes,1
-20982,Male,88,1,1,Yes,Private,Urban,257.94,43.5,smokes,1
-50326,Female,63,1,1,Yes,Private,Urban,259.4,38.442,smokes,1
-15181,Male,75,1,1,Yes,Private,Urban,256.82,46.196,smokes,1
-10774,Male,54,1,1,Yes,Private,Urban,235.34,42.071,smokes,1
-21566,Female,87,1,1,Yes,Private,Urban,238.3,37.275,smokes,1
-57551,Male,65,1,1,Yes,Private,Urban,255.41,43.633,smokes,1
-48293,Female,71,1,1,Yes,Private,Urban,256.57,42.921,smokes,1
-31211,Male,55,1,1,Yes,Private,Urban,265.82,36.861,smokes,1
-24032,Male,70,1,1,Yes,Private,Urban,254.95,48.118,smokes,1
-19176,Female,71,1,1,Yes,Private,Urban,250.4,42.672,smokes,1
-46160,Female,83,1,1,Yes,Private,Urban,258.75,39.881,smokes,1
-45454,Male,78,1,1,Yes,Private,Urban,259.83,35.563,smokes,1
-21269,Female,89,1,1,Yes,Private,Urban,257.81,44.255,smokes,1
-30609,Female,59,1,1,Yes,Private,Urban,251.58,45.265,smokes,1
-56586,Female,78,1,1,Yes,Private,Urban,233.6,49.56,smokes,1
-42556,Female,74,1,1,Yes,Private,Urban,262.43,37.166,smokes,1
-47397,Male,81,1,1,Yes,Private,Urban,236.01,37.363,smokes,1
-27462,Male,71,1,1,Yes,Private,Urban,260.05,40.53,smokes,1
-29288,Male,67,1,1,Yes,Private,Urban,259.71,37.506,smokes,1
-37217,Male,76,1,1,Yes,Private,Urban,269.94,48.709,smokes,1
-59530,Female,78,1,1,Yes,Private,Urban,268.48,39.266,smokes,1
-45170,Male,71,1,1,Yes,Private,Urban,242.89,48.096,smokes,1
-39665,Male,47,1,1,Yes,Private,Urban,252.39,49.655,smokes,1
-48357,Female,75,1,1,Yes,Private,Urban,255.69,47.16,smokes,1
-59624,Female,57,1,1,Yes,Private,Urban,262.72,44.745,smokes,1
-13954,Female,73,1,1,Yes,Private,Urban,268.92,44.878,smokes,1
-10454,Male,70,1,1,Yes,Private,Urban,260.22,46.935,smokes,1
-12608,Male,81,1,1,Yes,Private,Urban,236.79,46.028,smokes,1
-49162,Male,77,1,1,Yes,Private,Urban,255.66,35.746,smokes,1
-37280,Male,46,1,1,Yes,Private,Urban,244.11,38.555,smokes,1
-17104,Male,58,1,1,Yes,Private,Urban,231.89,48.652,smokes,1
-23172,Female,57,1,1,Yes,Private,Urban,249.02,40.136,smokes,1
-29634,Male,47,1,1,Yes,Private,Urban,264.36,37.591,smokes,1
-23509,Male,75,1,1,Yes,Private,Urban,237.22,45.022,smokes,1
-10741,Male,59,1,1,Yes,Private,Urban,236.94,37.61,smokes,1
-19164,Male,66,1,1,Yes,Private,Urban,237.92,46.687,smokes,1
-32373,Male,74,1,1,Yes,Private,Urban,230.81,42.211,smokes,1
-19252,Female,78,1,1,Yes,Private,Urban,231.28,45.711,smokes,1
-50065,Male,76,1,1,Yes,Private,Urban,234.64,38.796,smokes,1
-13769,Male,76,1,1,Yes,Private,Urban,232.94,49.862,smokes,1
-47276,Male,72,1,1,Yes,Private,Urban,266.46,42.688,smokes,1
-22089,Female,87,1,1,Yes,Private,Urban,251.62,39.743,smokes,1
-37092,Female,70,1,1,Yes,Private,Urban,246.29,38.746,smokes,1
-49252,Female,87,1,1,Yes,Private,Urban,249.19,49.249,smokes,1
-28638,Male,67,1,1,Yes,Private,Urban,253.33,42.371,smokes,1
-21886,Male,86,1,1,Yes,Private,Urban,251.4,44.945,smokes,1
-54131,Male,52,1,1,Yes,Private,Urban,244.39,39.894,smokes,1
-21056,Female,51,1,1,Yes,Private,Urban,245.6,49.067,smokes,1
-57599,Female,67,1,1,Yes,Private,Urban,237.7,38.615,smokes,1
-25806,Male,67,1,1,Yes,Private,Urban,262.17,40.603,smokes,1
-54688,Female,87,1,1,Yes,Private,Urban,256.31,43.39,smokes,1
-24689,Male,81,1,1,Yes,Private,Urban,258.82,36.148,smokes,1
-33685,Male,55,1,1,Yes,Private,Urban,258.82,45.688,smokes,1
-27946,Male,52,1,1,Yes,Private,Urban,265.05,43.65,smokes,1
-58423,Female,56,1,1,Yes,Private,Urban,232.2,42.787,smokes,1
-21234,Female,59,1,1,Yes,Private,Urban,248.49,44.175,smokes,1
-47870,Female,65,1,1,Yes,Private,Urban,250.32,45.949,smokes,1
-42862,Male,55,1,1,Yes,Private,Urban,258.7,35.695,smokes,1
-58920,Male,71,1,1,Yes,Private,Urban,247.26,42.341,smokes,1
-30679,Male,71,1,1,Yes,Private,Urban,233.62,42.829,smokes,1
-51016,Female,89,1,1,Yes,Private,Urban,264.67,45.781,smokes,1
-45949,Female,57,1,1,Yes,Private,Urban,256.21,46.07,smokes,1
-19421,Male,89,1,1,Yes,Private,Urban,252.12,37.148,smokes,1
-30566,Male,72,1,1,Yes,Private,Urban,255.86,49.324,smokes,1
-46780,Female,85,1,1,Yes,Private,Urban,230.26,47.176,smokes,1
-22812,Male,69,1,1,Yes,Private,Urban,245.62,43.741,smokes,1
-35457,Female,66,1,1,Yes,Private,Urban,262.92,46.266,smokes,1
-54385,Male,49,1,1,Yes,Private,Urban,244.03,44.681,smokes,1
-14635,Male,84,1,1,Yes,Private,Urban,260.61,48.104,smokes,1
-21238,Female,67,1,1,Yes,Private,Urban,265.62,44.665,smokes,1
-42486,Female,87,1,1,Yes,Private,Urban,257.85,38.519,smokes,1
-30331,Male,51,1,1,Yes,Private,Urban,261.71,48.187,smokes,1
-13653,Male,62,1,1,Yes,Private,Urban,251.42,43.49,smokes,1
-37756,Female,79,1,1,Yes,Private,Urban,232.13,42.697,smokes,1
-57750,Female,54,1,1,Yes,Private,Urban,252.86,44.69,smokes,1
-44728,Female,72,1,1,Yes,Private,Urban,265.55,39.381,smokes,1
-58304,Male,70,1,1,Yes,Private,Urban,245.38,37.565,smokes,1
-28313,Male,61,1,1,Yes,Private,Urban,239.4,35.877,smokes,1
-20358,Male,81,1,1,Yes,Private,Urban,248,49.289,smokes,1
-17028,Female,65,1,1,Yes,Private,Urban,248.73,45.555,smokes,1
-33890,Female,57,1,1,Yes,Private,Urban,246.09,35.455,smokes,1
-20325,Female,72,1,1,Yes,Private,Urban,264.89,40.228,smokes,1
-43026,Male,87,1,1,Yes,Private,Urban,239.41,39.777,smokes,1
-38993,Male,61,1,1,Yes,Private,Urban,261.44,46.351,smokes,1
-44497,Male,77,1,1,Yes,Private,Urban,241.37,37.47,smokes,1
-54036,Male,72,1,1,Yes,Private,Urban,259.86,47.562,smokes,1
-32777,Male,55,1,1,Yes,Private,Urban,243.47,40.141,smokes,1
-24522,Female,83,1,1,Yes,Private,Urban,250.96,43.217,smokes,1
-53408,Female,62,1,1,Yes,Private,Urban,245.6,38.12,smokes,1
-57906,Male,79,1,1,Yes,Private,Urban,262.03,40.131,smokes,1
-12970,Male,57,1,1,Yes,Private,Urban,264.96,47.516,smokes,1
-58923,Female,56,1,1,Yes,Private,Urban,248.43,41.559,smokes,1
-23892,Female,75,1,1,Yes,Private,Urban,258.36,48.279,smokes,1
-18387,Female,76,1,1,Yes,Private,Urban,237.79,44.795,smokes,1
-45534,Male,61,1,1,Yes,Private,Urban,252.71,45.54,smokes,1
-40246,Male,65,1,1,Yes,Private,Urban,246.65,45.558,smokes,1
-16741,Female,89,1,1,Yes,Private,Urban,259.88,48.069,smokes,1
-59031,Female,51,1,1,Yes,Private,Urban,235.01,48.787,smokes,1
-48535,Male,62,1,1,Yes,Private,Urban,267.76,44.443,smokes,1
-46389,Female,86,1,1,Yes,Private,Urban,262.69,36.594,smokes,1
-50559,Male,81,1,1,Yes,Private,Urban,244.71,37.789,smokes,1
-55299,Female,90,1,1,Yes,Private,Urban,240.5,47.386,smokes,1
-59882,Female,57,1,1,Yes,Private,Urban,230.87,42.603,smokes,1
-56727,Female,56,1,1,Yes,Private,Urban,256.03,36.631,smokes,1
-55402,Female,52,1,1,Yes,Private,Urban,244.24,37.501,smokes,1
-48809,Male,83,1,1,Yes,Private,Urban,236.48,46.059,smokes,1
-50077,Female,48,1,1,Yes,Private,Urban,269.9,46.112,smokes,1
-31073,Female,71,1,1,Yes,Private,Urban,261.22,39.997,smokes,1
-54533,Female,59,1,1,Yes,Private,Urban,232.03,41.657,smokes,1
-24408,Female,67,1,1,Yes,Private,Urban,262.84,38.284,smokes,1
-36028,Male,75,1,1,Yes,Private,Urban,240.79,45.881,smokes,1
-28513,Female,88,1,1,Yes,Private,Urban,250.43,35.632,smokes,1
-48741,Male,66,1,1,Yes,Private,Urban,247.86,45.63,smokes,1
-50350,Male,70,1,1,Yes,Private,Urban,230.71,44.744,smokes,1
-46930,Female,85,1,1,Yes,Private,Urban,231.8,36.851,smokes,1
-28547,Female,76,1,1,Yes,Private,Urban,236.27,49.206,smokes,1
-49092,Female,69,1,1,Yes,Private,Urban,254.86,45.644,smokes,1
-23561,Male,59,1,1,Yes,Private,Urban,236.13,45.863,smokes,1
-37284,Male,88,1,1,Yes,Private,Urban,255.38,49.89,smokes,1
-44069,Male,78,1,1,Yes,Private,Urban,256.24,44.953,smokes,1
-57229,Female,71,1,1,Yes,Private,Urban,268.64,40.668,smokes,1
-20865,Male,78,1,1,Yes,Private,Urban,231.76,44.883,smokes,1
-37322,Male,82,1,1,Yes,Private,Urban,264.91,48.82,smokes,1
-30608,Female,63,1,1,Yes,Private,Urban,264.72,35.826,smokes,1
-46566,Male,88,1,1,Yes,Private,Urban,267.83,35.609,smokes,1
-54707,Male,56,1,1,Yes,Private,Urban,259.62,46.672,smokes,1
-35162,Male,65,1,1,Yes,Private,Urban,255.62,46.303,smokes,1
-45891,Female,85,1,1,Yes,Private,Urban,249.66,39.279,smokes,1
-53391,Female,78,1,1,Yes,Private,Urban,238.36,45.245,smokes,1
-55656,Male,87,1,1,Yes,Private,Urban,240.24,40.413,smokes,1
-15822,Female,75,1,1,Yes,Private,Urban,250.68,45.881,smokes,1
-33675,Male,84,1,1,Yes,Private,Urban,253.47,43.463,smokes,1
-58037,Female,81,1,1,Yes,Private,Urban,238.74,41.839,smokes,1
-39171,Female,50,1,1,Yes,Private,Urban,240.94,47.155,smokes,1
-33562,Female,89,1,1,Yes,Private,Urban,262.33,40.848,smokes,1
-41600,Male,88,1,1,Yes,Private,Urban,251.88,36.674,smokes,1
-12564,Male,52,1,1,Yes,Private,Urban,250.2,39.238,smokes,1
-28779,Female,78,1,1,Yes,Private,Urban,244.97,47.948,smokes,1
-28241,Male,65,1,1,Yes,Private,Urban,264.55,38.978,smokes,1
-14808,Male,68,1,1,Yes,Private,Urban,241.26,36.748,smokes,1
-29838,Male,78,1,1,Yes,Private,Urban,267.02,46.602,smokes,1
-43682,Female,71,1,1,Yes,Private,Urban,269.74,44.784,smokes,1
-59491,Female,90,1,1,Yes,Private,Urban,263.7,49.454,smokes,1
-16363,Male,49,1,1,Yes,Private,Urban,232.23,37.264,smokes,1
-54846,Male,49,1,1,Yes,Private,Urban,249.65,47.541,smokes,1
-40519,Male,51,1,1,Yes,Private,Urban,258.98,46.671,smokes,1
-50957,Male,46,1,1,Yes,Private,Urban,244.94,48.47,smokes,1
-29035,Male,77,1,1,Yes,Private,Urban,265.92,42.215,smokes,1
-56966,Male,73,1,1,Yes,Private,Urban,250.86,47.022,smokes,1
-45775,Female,59,1,1,Yes,Private,Urban,265.58,48.243,smokes,1
-28286,Male,74,1,1,Yes,Private,Urban,250.82,41.212,smokes,1
-13738,Female,83,1,1,Yes,Private,Urban,237.72,48.291,smokes,1
-18417,Female,86,1,1,Yes,Private,Urban,239.35,42.994,smokes,1
-49051,Male,75,1,1,Yes,Private,Urban,231.23,48.971,smokes,1
-10328,Male,61,1,1,Yes,Private,Urban,237.54,37.114,smokes,1
-16926,Male,76,1,1,Yes,Private,Urban,266.55,42.74,smokes,1
-54196,Male,59,1,1,Yes,Private,Urban,267.16,42.552,smokes,1
-31449,Female,83,1,1,Yes,Private,Urban,253.68,49.824,smokes,1
-34568,Female,48,1,1,Yes,Private,Urban,249.53,36.275,smokes,1
-36582,Female,79,1,1,Yes,Private,Urban,258.54,48.606,smokes,1
-12859,Male,60,1,1,Yes,Private,Urban,260.81,49.022,smokes,1
-15318,Female,56,1,1,Yes,Private,Urban,262.14,35.756,smokes,1
-35428,Male,85,1,1,Yes,Private,Urban,239.54,36.254,smokes,1
-37066,Male,57,1,1,Yes,Private,Urban,236.61,46.001,smokes,1
-30359,Female,88,1,1,Yes,Private,Urban,247.1,44.041,smokes,1
-33744,Male,56,1,1,Yes,Private,Urban,264.14,43.284,smokes,1
-42749,Male,49,1,1,Yes,Private,Urban,233.01,44.847,smokes,1
-36974,Female,50,1,1,Yes,Private,Urban,241.69,40.091,smokes,1
-48968,Female,47,1,1,Yes,Private,Urban,238.58,46.15,smokes,1
-49462,Male,89,1,1,Yes,Private,Urban,255.71,44.784,smokes,1
-34139,Male,88,1,1,Yes,Private,Urban,247.83,44.975,smokes,1
-24503,Female,85,1,1,Yes,Private,Urban,264.6,41.096,smokes,1
-17498,Male,74,1,1,Yes,Private,Urban,232.31,47.269,smokes,1
-15032,Female,85,1,1,Yes,Private,Urban,230.4,45.367,smokes,1
-24018,Female,75,1,1,Yes,Private,Urban,256,37.455,smokes,1
-45276,Male,50,1,1,Yes,Private,Urban,269.18,48.695,smokes,1
-51547,Female,87,1,1,Yes,Private,Urban,258.95,45.404,smokes,1
-40208,Male,56,1,1,Yes,Private,Urban,259.3,49.894,smokes,1
-57717,Female,66,1,1,Yes,Private,Urban,269.62,37.296,smokes,1
-53377,Male,60,1,1,Yes,Private,Urban,245.06,40.249,smokes,1
-37251,Male,45,1,1,Yes,Private,Urban,254.35,38.722,smokes,1
-11766,Female,63,1,1,Yes,Private,Urban,268.09,41.199,smokes,1
-54352,Female,74,1,1,Yes,Private,Urban,263.92,38.88,smokes,1
-47392,Female,45,1,1,Yes,Private,Urban,241.65,48.816,smokes,1
-43815,Female,52,1,1,Yes,Private,Urban,238.38,44.344,smokes,1
-56546,Male,63,1,1,Yes,Private,Urban,249.42,39.836,smokes,1
-38981,Male,69,1,1,Yes,Private,Urban,260.68,46.832,smokes,1
-33404,Male,82,1,1,Yes,Private,Urban,261.53,40.24,smokes,1
-50559,Female,55,1,1,Yes,Private,Urban,241.53,45.905,smokes,1
-49567,Female,76,1,1,Yes,Private,Urban,247.63,48.572,smokes,1
-21127,Female,84,1,1,Yes,Private,Urban,242.14,45.737,smokes,1
-11481,Male,48,1,1,Yes,Private,Urban,251.01,36.829,smokes,1
-22897,Female,73,1,1,Yes,Private,Urban,259.87,39.029,smokes,1
-40696,Male,56,1,1,Yes,Private,Urban,257.81,44.625,smokes,1
-53283,Male,66,1,1,Yes,Private,Urban,233.48,36.638,smokes,1
-54842,Female,73,1,1,Yes,Private,Urban,267.62,48.175,smokes,1
-44145,Female,51,1,1,Yes,Private,Urban,231.51,41.068,smokes,1
-53849,Female,76,1,1,Yes,Private,Urban,263.84,38.304,smokes,1
-57925,Male,55,1,1,Yes,Private,Urban,234.58,47.127,smokes,1
-12369,Female,64,1,1,Yes,Private,Urban,262.67,46.25,smokes,1
-29396,Male,75,1,1,Yes,Private,Urban,263.74,39.01,smokes,1
-17664,Female,47,1,1,Yes,Private,Urban,266.59,43.041,smokes,1
-43254,Male,53,1,1,Yes,Private,Urban,239.16,37.108,smokes,1
-54922,Male,87,1,1,Yes,Private,Urban,232.64,48.431,smokes,1
-48687,Male,49,1,1,Yes,Private,Urban,232.87,43.931,smokes,1
-19109,Male,70,1,1,Yes,Private,Urban,259.46,37.822,smokes,1
-39006,Female,49,1,1,Yes,Private,Urban,266.34,36.728,smokes,1
-54626,Male,66,1,1,Yes,Private,Urban,245.12,44.335,smokes,1
-59335,Male,51,1,1,Yes,Private,Urban,239.75,42.716,smokes,1
-17387,Male,84,1,1,Yes,Private,Urban,264.18,48.945,smokes,1
-37441,Female,61,1,1,Yes,Private,Urban,230.34,38.629,smokes,1
-21001,Male,60,1,1,Yes,Private,Urban,233.38,36.248,smokes,1
-50321,Female,74,1,1,Yes,Private,Urban,257.03,46.885,smokes,1
-16992,Female,86,1,1,Yes,Private,Urban,252.55,40.129,smokes,1
-32840,Female,50,1,1,Yes,Private,Urban,247.11,35.414,smokes,1
-18255,Male,87,1,1,Yes,Private,Urban,243.13,41.227,smokes,1
-56541,Male,68,1,1,Yes,Private,Urban,256.62,38.094,smokes,1
-56449,Male,75,1,1,Yes,Private,Urban,268.87,45.735,smokes,1
-26089,Female,85,1,1,Yes,Private,Urban,234.17,41.211,smokes,1
-14431,Male,86,1,1,Yes,Private,Urban,248.59,37.981,smokes,1
-39046,Female,67,1,1,Yes,Private,Urban,251.27,38.198,smokes,1
-12221,Male,57,1,1,Yes,Private,Urban,238.81,41.188,smokes,1
-19783,Female,47,1,1,Yes,Private,Urban,249.58,39.945,smokes,1
-43103,Male,64,1,1,Yes,Private,Urban,253.88,49.945,smokes,1
-24518,Male,79,1,1,Yes,Private,Urban,237.19,35.296,smokes,1
-22286,Male,86,1,1,Yes,Private,Urban,258.15,44.294,smokes,1
-22690,Female,66,1,1,Yes,Private,Urban,241.47,44.636,smokes,1
-12423,Male,65,1,1,Yes,Private,Urban,248.32,48.123,smokes,1
-20571,Male,73,1,1,Yes,Private,Urban,235.83,40.14,smokes,1
-59967,Male,56,1,1,Yes,Private,Urban,259.41,40.287,smokes,1
-23058,Female,71,1,1,Yes,Private,Urban,244.25,46.195,smokes,1
-55107,Male,73,1,1,Yes,Private,Urban,242.09,48.551,smokes,1
-28923,Male,69,1,1,Yes,Private,Urban,259.4,41.506,smokes,1
-42442,Female,47,1,1,Yes,Private,Urban,231.9,36.209,smokes,1
-49391,Male,70,1,1,Yes,Private,Urban,265.96,42.446,smokes,1
-57273,Female,46,1,1,Yes,Private,Urban,236.7,43.181,smokes,1
-52728,Male,80,1,1,Yes,Private,Urban,238.3,43.19,smokes,1
-27116,Male,81,1,1,Yes,Private,Urban,264.06,44.665,smokes,1
-35310,Female,89,1,1,Yes,Private,Urban,268.91,40.054,smokes,1
-14263,Female,85,1,1,Yes,Private,Urban,238.87,37.439,smokes,1
-13301,Female,80,1,1,Yes,Private,Urban,258.24,41.24,smokes,1
-26285,Male,61,1,1,Yes,Private,Urban,259.43,47.869,smokes,1
-47754,Female,62,1,1,Yes,Private,Urban,231.1,49.004,smokes,1
-13726,Male,77,1,1,Yes,Private,Urban,233.97,44.751,smokes,1
-11959,Female,62,1,1,Yes,Private,Urban,265.7,49.243,smokes,1
-19260,Male,71,1,1,Yes,Private,Urban,236.75,37.926,smokes,1
-43064,Male,49,1,1,Yes,Private,Urban,243.1,48.218,smokes,1
-23502,Female,81,1,1,Yes,Private,Urban,237.13,36.632,smokes,1
-14924,Female,89,1,1,Yes,Private,Urban,265.68,42.486,smokes,1
-26255,Male,66,1,1,Yes,Private,Urban,262.15,39.879,smokes,1
-29485,Male,73,1,1,Yes,Private,Urban,251.34,38.427,smokes,1
-13712,Male,72,1,1,Yes,Private,Urban,243.55,47.209,smokes,1
-35190,Female,78,1,1,Yes,Private,Urban,236.12,49.416,smokes,1
-27965,Female,46,1,1,Yes,Private,Urban,258.04,45.191,smokes,1
-48224,Male,51,1,1,Yes,Private,Urban,253.68,48.42,smokes,1
-14325,Female,47,1,1,Yes,Private,Urban,233.5,44.311,smokes,1
-11579,Male,85,1,1,Yes,Private,Urban,266.74,39.253,smokes,1
-13053,Female,78,1,1,Yes,Private,Urban,242.27,48.946,smokes,1
-12677,Male,56,1,1,Yes,Private,Urban,264.88,40.156,smokes,1
-25720,Female,51,1,1,Yes,Private,Urban,241.79,47.224,smokes,1
-10510,Male,58,1,1,Yes,Private,Urban,236.94,37.206,smokes,1
-10760,Female,67,1,1,Yes,Private,Urban,267.98,44.424,smokes,1
-26147,Male,80,1,1,Yes,Private,Urban,243.28,35.319,smokes,1
-51328,Male,66,1,1,Yes,Private,Urban,250.31,37.931,smokes,1
-52170,Male,54,1,1,Yes,Private,Urban,265.1,37.459,smokes,1
-36659,Male,84,1,1,Yes,Private,Urban,243.19,46.414,smokes,1
-42977,Male,50,1,1,Yes,Private,Urban,241.99,46.408,smokes,1
-17152,Male,52,1,1,Yes,Private,Urban,268.38,40.354,smokes,1
-43533,Male,53,1,1,Yes,Private,Urban,256.73,44.634,smokes,1
-37012,Male,75,1,1,Yes,Private,Urban,265.95,41.983,smokes,1
-25790,Male,76,1,1,Yes,Private,Urban,248.45,37.28,smokes,1
-43895,Female,68,1,1,Yes,Private,Urban,232.95,35.989,smokes,1
-15092,Male,57,1,1,Yes,Private,Urban,249.66,46.122,smokes,1
-28386,Female,76,1,1,Yes,Private,Urban,257.94,36.36,smokes,1
-43988,Male,62,1,1,Yes,Private,Urban,232.47,48.599,smokes,1
-10497,Male,53,1,1,Yes,Private,Urban,262.21,48.12,smokes,1
-10307,Male,64,1,1,Yes,Private,Urban,265.99,42.853,smokes,1
-37881,Male,45,1,1,Yes,Private,Urban,256.76,43.39,smokes,1
-50169,Male,77,1,1,Yes,Private,Urban,264.9,41.26,smokes,1
-54036,Male,50,1,1,Yes,Private,Urban,261.76,47.875,smokes,1
-20234,Female,81,1,1,Yes,Private,Urban,251,45.084,smokes,1
-24978,Female,53,1,1,Yes,Private,Urban,264.76,37.995,smokes,1
-19123,Female,68,1,1,Yes,Private,Urban,266.14,44.959,smokes,1
-26587,Female,80,1,1,Yes,Private,Urban,257.05,41.683,smokes,1
-11044,Female,72,1,1,Yes,Private,Urban,244.95,46.637,smokes,1
-43320,Female,65,1,1,Yes,Private,Urban,260.32,37.834,smokes,1
-49102,Male,62,1,1,Yes,Private,Urban,244.34,39.473,smokes,1
-30834,Male,50,1,1,Yes,Private,Urban,264.49,42.861,smokes,1
-14716,Male,56,1,1,Yes,Private,Urban,263.57,47.627,smokes,1
-11600,Male,78,1,1,Yes,Private,Urban,267.64,42.93,smokes,1
-42596,Male,71,1,1,Yes,Private,Urban,267.06,45.098,smokes,1
-18784,Male,60,1,1,Yes,Private,Urban,248.18,45.29,smokes,1
-21996,Female,72,1,1,Yes,Private,Urban,242.2,43.85,smokes,1
-15587,Male,71,1,1,Yes,Private,Urban,232.59,45.565,smokes,1
-14534,Male,49,1,1,Yes,Private,Urban,247.38,36.937,smokes,1
-24600,Female,54,1,1,Yes,Private,Urban,264.06,42.045,smokes,1
-51181,Female,63,1,1,Yes,Private,Urban,235.34,42.69,smokes,1
-44787,Female,57,1,1,Yes,Private,Urban,266.41,40.982,smokes,1
-11592,Female,58,1,1,Yes,Private,Urban,254.19,46.989,smokes,1
-49828,Female,56,1,1,Yes,Private,Urban,238.58,48.036,smokes,1
-54071,Male,47,1,1,Yes,Private,Urban,261.98,41.75,smokes,1
-40332,Female,73,1,1,Yes,Private,Urban,238.89,37.151,smokes,1
-21964,Female,70,1,1,Yes,Private,Urban,263.44,44.459,smokes,1
-41216,Male,54,1,1,Yes,Private,Urban,261.97,45.574,smokes,1
-15103,Female,47,1,1,Yes,Private,Urban,245.4,43.413,smokes,1
-16647,Male,78,1,1,Yes,Private,Urban,239.87,39.388,smokes,1
-51033,Female,60,1,1,Yes,Private,Urban,244.16,35.26,smokes,1
-47751,Female,51,1,1,Yes,Private,Urban,256.27,47.986,smokes,1
-13018,Female,55,1,1,Yes,Private,Urban,244.21,37.951,smokes,1
-54919,Male,89,1,1,Yes,Private,Urban,255.74,47.451,smokes,1
-11130,Female,52,1,1,Yes,Private,Urban,258.94,41.554,smokes,1
-40814,Female,70,1,1,Yes,Private,Urban,246.34,47.794,smokes,1
-22492,Female,61,1,1,Yes,Private,Urban,250.65,43.038,smokes,1
-22718,Male,61,1,1,Yes,Private,Urban,236.98,42.705,smokes,1
-59187,Male,68,1,1,Yes,Private,Urban,265.09,41.699,smokes,1
-41827,Female,89,1,1,Yes,Private,Urban,258.9,45.226,smokes,1
-21615,Male,67,1,1,Yes,Private,Urban,250.25,41.7,smokes,1
-27013,Female,71,1,1,Yes,Private,Urban,263.78,45.128,smokes,1
-36158,Male,58,1,1,Yes,Private,Urban,242.9,48.211,smokes,1
-52450,Female,63,1,1,Yes,Private,Urban,241.56,47.515,smokes,1
-23613,Male,59,1,1,Yes,Private,Urban,247.7,41.21,smokes,1
-56852,Female,55,1,1,Yes,Private,Urban,242.06,35.468,smokes,1
-32686,Female,81,1,1,Yes,Private,Urban,262.85,47.441,smokes,1
-38439,Female,74,1,1,Yes,Private,Urban,230.21,49.909,smokes,1
-23115,Male,60,1,1,Yes,Private,Urban,258.19,47.853,smokes,1
-18882,Female,89,1,1,Yes,Private,Urban,263.43,49.413,smokes,1
-41986,Male,68,1,1,Yes,Private,Urban,264.76,43.049,smokes,1
-34468,Female,64,1,1,Yes,Private,Urban,256.61,36.423,smokes,1
-43042,Female,69,1,1,Yes,Private,Urban,263.42,38.493,smokes,1
-13424,Female,89,1,1,Yes,Private,Urban,255,40.869,smokes,1
-28807,Female,66,1,1,Yes,Private,Urban,265.97,43.037,smokes,1
-25322,Female,76,1,1,Yes,Private,Urban,233.67,47.859,smokes,1
-16999,Female,49,1,1,Yes,Private,Urban,263.18,44.216,smokes,1
-47346,Female,70,1,1,Yes,Private,Urban,230.01,48.804,smokes,1
-20188,Male,70,1,1,Yes,Private,Urban,255.49,35.166,smokes,1
-23851,Female,49,1,1,Yes,Private,Urban,234.05,41.69,smokes,1
-50971,Male,71,1,1,Yes,Private,Urban,268.65,49.907,smokes,1
-57786,Female,63,1,1,Yes,Private,Urban,255.86,49.18,smokes,1
-51744,Female,74,1,1,Yes,Private,Urban,243.47,37.018,smokes,1
-30802,Female,50,1,1,Yes,Private,Urban,249.11,38.674,smokes,1
-23165,Female,48,1,1,Yes,Private,Urban,232.97,49.493,smokes,1
-29434,Female,60,1,1,Yes,Private,Urban,239.44,35.098,smokes,1
-10637,Female,71,1,1,Yes,Private,Urban,241.22,45.738,smokes,1
-50113,Male,78,1,1,Yes,Private,Urban,254.62,35.707,smokes,1
-53497,Female,82,1,1,Yes,Private,Urban,268.41,37.374,smokes,1
-54627,Female,63,1,1,Yes,Private,Urban,230.36,42.333,smokes,1
-14406,Female,61,1,1,Yes,Private,Urban,259.97,49.96,smokes,1
-33172,Female,89,1,1,Yes,Private,Urban,242.81,48.464,smokes,1
-30876,Female,90,1,1,Yes,Private,Urban,265.93,49.839,smokes,1
-52214,Male,50,1,1,Yes,Private,Urban,238.18,39.101,smokes,1
-56534,Male,71,1,1,Yes,Private,Urban,232.44,43.439,smokes,1
-49675,Male,55,1,1,Yes,Private,Urban,264.04,48.711,smokes,1
-18336,Male,79,1,1,Yes,Private,Urban,232.85,47.669,smokes,1
-21173,Female,53,1,1,Yes,Private,Urban,260.38,49.907,smokes,1
-15964,Female,63,1,1,Yes,Private,Urban,263.38,48.38,smokes,1
-24314,Female,79,1,1,Yes,Private,Urban,267.04,43.318,smokes,1
-23809,Female,90,1,1,Yes,Private,Urban,241.81,35.934,smokes,1
-29222,Female,46,1,1,Yes,Private,Urban,246.68,45.664,smokes,1
-21044,Male,85,1,1,Yes,Private,Urban,243.27,45.427,smokes,1
-44302,Female,47,1,1,Yes,Private,Urban,238.24,49.708,smokes,1
-24673,Female,66,1,1,Yes,Private,Urban,252.28,47.783,smokes,1
-58028,Male,67,1,1,Yes,Private,Urban,239.71,43.021,smokes,1
-42503,Female,88,1,1,Yes,Private,Urban,265.11,44.827,smokes,1
-46519,Male,57,1,1,Yes,Private,Urban,261.28,44.572,smokes,1
-12070,Male,73,1,1,Yes,Private,Urban,248.95,46.394,smokes,1
-27748,Female,77,1,1,Yes,Private,Urban,263.31,45.497,smokes,1
-32575,Male,61,1,1,Yes,Private,Urban,247.75,41.686,smokes,1
-57368,Female,72,1,1,Yes,Private,Urban,259.26,36.297,smokes,1
-58902,Female,62,1,1,Yes,Private,Urban,252.68,46.114,smokes,1
-49462,Female,52,1,1,Yes,Private,Urban,248.44,43.389,smokes,1
-40245,Male,64,1,1,Yes,Private,Urban,255.07,46.639,smokes,1
-56101,Female,82,1,1,Yes,Private,Urban,258.65,49.493,smokes,1
-10232,Male,77,1,1,Yes,Private,Urban,240.89,38.176,smokes,1
-45321,Male,82,1,1,Yes,Private,Urban,266.76,40.411,smokes,1
-18446,Male,69,1,1,Yes,Private,Urban,235.44,43.222,smokes,1
-25410,Female,85,1,1,Yes,Private,Urban,247.64,44.423,smokes,1
-47773,Male,77,1,1,Yes,Private,Urban,264.93,44.42,smokes,1
-25771,Female,63,1,1,Yes,Private,Urban,257.54,48.724,smokes,1
-56956,Male,82,1,1,Yes,Private,Urban,243.92,45.958,smokes,1
-52967,Female,66,1,1,Yes,Private,Urban,250.98,38.616,smokes,1
-57724,Male,75,1,1,Yes,Private,Urban,268.34,37.049,smokes,1
-42757,Female,66,1,1,Yes,Private,Urban,235.38,40.09,smokes,1
-45530,Female,90,1,1,Yes,Private,Urban,235.74,42.343,smokes,1
-30552,Male,69,1,1,Yes,Private,Urban,269.84,38.356,smokes,1
-28749,Female,88,1,1,Yes,Private,Urban,251.64,44.201,smokes,1
-55532,Female,65,1,1,Yes,Private,Urban,250.62,38.799,smokes,1
-21673,Male,71,1,1,Yes,Private,Urban,234.46,46.387,smokes,1
-22666,Male,49,1,1,Yes,Private,Urban,238.78,36.268,smokes,1
-26867,Male,81,1,1,Yes,Private,Urban,267.52,47.794,smokes,1
-52695,Male,77,1,1,Yes,Private,Urban,247.98,48.31,smokes,1
-33578,Male,55,1,1,Yes,Private,Urban,250.23,42.409,smokes,1
-30849,Female,47,1,1,Yes,Private,Urban,235.82,47.832,smokes,1
-55256,Female,86,1,1,Yes,Private,Urban,269.29,49.065,smokes,1
-55772,Female,49,1,1,Yes,Private,Urban,264.73,47.918,smokes,1
-28206,Female,87,1,1,Yes,Private,Urban,261.05,40.315,smokes,1
-22767,Male,55,1,1,Yes,Private,Urban,238.38,48.021,smokes,1
-37069,Male,53,1,1,Yes,Private,Urban,266.4,43.897,smokes,1
-35929,Male,67,1,1,Yes,Private,Urban,241.3,35.325,smokes,1
-42139,Female,90,1,1,Yes,Private,Urban,261.91,47.95,smokes,1
-38749,Male,67,1,1,Yes,Private,Urban,238.55,37.918,smokes,1
-23737,Female,65,1,1,Yes,Private,Urban,264.65,37.845,smokes,1
-48423,Male,55,1,1,Yes,Private,Urban,257.89,41.952,smokes,1
-51407,Male,50,1,1,Yes,Private,Urban,255.12,42.167,smokes,1
-48663,Female,60,1,1,Yes,Private,Urban,250.78,38.9,smokes,1
-47698,Female,85,1,1,Yes,Private,Urban,251.86,39.339,smokes,1
-48901,Male,76,1,1,Yes,Private,Urban,231.02,36.536,smokes,1
-34663,Female,69,1,1,Yes,Private,Urban,234,46.094,smokes,1
-42525,Male,84,1,1,Yes,Private,Urban,238.44,42.765,smokes,1
-20178,Male,80,1,1,Yes,Private,Urban,248.97,38.181,smokes,1
-11661,Male,54,1,1,Yes,Private,Urban,248.84,46.168,smokes,1
-11212,Female,63,1,1,Yes,Private,Urban,254.75,45.158,smokes,1
-17572,Female,49,1,1,Yes,Private,Urban,237.58,40.148,smokes,1
-14292,Female,54,1,1,Yes,Private,Urban,249.47,35.166,smokes,1
-12686,Female,74,1,1,Yes,Private,Urban,265.87,39.211,smokes,1
-25005,Male,67,1,1,Yes,Private,Urban,267.66,41.449,smokes,1
-44447,Male,88,1,1,Yes,Private,Urban,241.07,48.276,smokes,1
-15970,Male,62,1,1,Yes,Private,Urban,263.2,45.81,smokes,1
-26221,Male,63,1,1,Yes,Private,Urban,236.49,41.389,smokes,1
-50332,Female,55,1,1,Yes,Private,Urban,246.24,46.038,smokes,1
-49808,Female,67,1,1,Yes,Private,Urban,234.08,37.411,smokes,1
-39225,Female,69,1,1,Yes,Private,Urban,237.57,41.956,smokes,1
-10331,Male,67,1,1,Yes,Private,Urban,250.15,49.512,smokes,1
-33256,Female,50,1,1,Yes,Private,Urban,268.47,42.853,smokes,1
-50958,Female,70,1,1,Yes,Private,Urban,241.21,35.656,smokes,1
-10868,Female,51,1,1,Yes,Private,Urban,242.15,35.194,smokes,1
-14516,Male,90,1,1,Yes,Private,Urban,249.92,35.187,smokes,1
-19632,Male,71,1,1,Yes,Private,Urban,252.18,48.233,smokes,1
-43916,Female,52,1,1,Yes,Private,Urban,263.55,45.621,smokes,1
-40493,Male,89,1,1,Yes,Private,Urban,230.79,47.863,smokes,1
-55162,Male,58,1,1,Yes,Private,Urban,241.3,44.57,smokes,1
-53300,Female,64,1,1,Yes,Private,Urban,252.32,49.93,smokes,1
-18902,Female,90,1,1,Yes,Private,Urban,234.86,44.881,smokes,1
-46498,Female,78,1,1,Yes,Private,Urban,253.67,46.755,smokes,1
-18839,Female,82,1,1,Yes,Private,Urban,262.37,40.341,smokes,1
-26186,Male,90,1,1,Yes,Private,Urban,265.61,42.466,smokes,1
-39864,Male,89,1,1,Yes,Private,Urban,262.1,38.001,smokes,1
-32905,Female,75,1,1,Yes,Private,Urban,243.85,49.094,smokes,1
-55228,Male,68,1,1,Yes,Private,Urban,232.17,37.521,smokes,1
-46169,Male,52,1,1,Yes,Private,Urban,235.56,46.167,smokes,1
-45156,Female,90,1,1,Yes,Private,Urban,231.75,47.956,smokes,1
-25674,Male,55,1,1,Yes,Private,Urban,261.91,41.713,smokes,1
-23694,Male,90,1,1,Yes,Private,Urban,256.92,48.615,smokes,1
-27613,Male,88,1,1,Yes,Private,Urban,244.32,40.201,smokes,1
-59086,Male,61,1,1,Yes,Private,Urban,260.01,37.175,smokes,1
-22055,Female,70,1,1,Yes,Private,Urban,237.67,39.906,smokes,1
-10312,Male,47,1,1,Yes,Private,Urban,241.11,42.319,smokes,1
-36671,Female,58,1,1,Yes,Private,Urban,240.05,40.462,smokes,1
-42991,Female,76,1,1,Yes,Private,Urban,237.26,46.361,smokes,1
-38110,Male,49,1,1,Yes,Private,Urban,235.28,43.301,smokes,1
-17226,Female,60,1,1,Yes,Private,Urban,247.67,35.982,smokes,1
-33969,Female,89,1,1,Yes,Private,Urban,258.42,43.63,smokes,1
-32987,Male,78,1,1,Yes,Private,Urban,269.85,41.941,smokes,1
-46426,Female,90,1,1,Yes,Private,Urban,230.87,44.089,smokes,1
-46030,Female,52,1,1,Yes,Private,Urban,242.99,43.284,smokes,1
-15013,Female,87,1,1,Yes,Private,Urban,256.1,44.935,smokes,1
-50041,Male,73,1,1,Yes,Private,Urban,245.24,41.004,smokes,1
-23515,Male,90,1,1,Yes,Private,Urban,233.64,39.941,smokes,1
-55540,Female,68,1,1,Yes,Private,Urban,235.8,49.891,smokes,1
-46040,Male,46,1,1,Yes,Private,Urban,238.14,46.673,smokes,1
-36496,Male,59,1,1,Yes,Private,Urban,245.93,43.564,smokes,1
-49447,Male,70,1,1,Yes,Private,Urban,244.23,44.643,smokes,1
-21460,Male,85,1,1,Yes,Private,Urban,249.87,37.092,smokes,1
-38237,Male,81,1,1,Yes,Private,Urban,266.38,44.76,smokes,1
-26825,Male,48,1,1,Yes,Private,Urban,239.06,39.125,smokes,1
-59669,Male,48,1,1,Yes,Private,Urban,232.41,38.148,smokes,1
-23734,Male,55,1,1,Yes,Private,Urban,261.86,39.8,smokes,1
-22897,Male,52,1,1,Yes,Private,Urban,230.47,38.74,smokes,1
-14603,Female,89,1,1,Yes,Private,Urban,243.59,46.332,smokes,1
-58190,Female,70,1,1,Yes,Private,Urban,267.33,37.879,smokes,1
-52904,Female,61,1,1,Yes,Private,Urban,251.58,37.628,smokes,1
-17610,Female,55,1,1,Yes,Private,Urban,256.88,40.1,smokes,1
-41601,Female,63,1,1,Yes,Private,Urban,261.27,45.534,smokes,1
-19509,Female,50,1,1,Yes,Private,Urban,269.26,41.59,smokes,1
-51989,Female,50,1,1,Yes,Private,Urban,234.65,39.731,smokes,1
-37606,Male,48,1,1,Yes,Private,Urban,256.76,42.781,smokes,1
-26214,Female,78,1,1,Yes,Private,Urban,234.19,39.201,smokes,1
-57992,Female,54,1,1,Yes,Private,Urban,251.99,45.283,smokes,1
-12583,Male,79,1,1,Yes,Private,Urban,240.75,41.987,smokes,1
-39673,Male,63,1,1,Yes,Private,Urban,257.11,38.104,smokes,1
-41352,Male,70,1,1,Yes,Private,Urban,231.91,36.278,smokes,1
-15002,Female,61,1,1,Yes,Private,Urban,232.53,41.321,smokes,1
-27587,Female,52,1,1,Yes,Private,Urban,256.82,36.065,smokes,1
-27790,Male,84,1,1,Yes,Private,Urban,253.88,48.564,smokes,1
-38987,Female,71,1,1,Yes,Private,Urban,267.67,49.614,smokes,1
-57369,Male,49,1,1,Yes,Private,Urban,266.53,47.114,smokes,1
-52933,Female,77,1,1,Yes,Private,Urban,265.45,48.206,smokes,1
-29222,Female,65,1,1,Yes,Private,Urban,256.14,46.975,smokes,1
-31351,Female,61,1,1,Yes,Private,Urban,251.56,46.991,smokes,1
-37953,Female,85,1,1,Yes,Private,Urban,265.66,41.384,smokes,1
-52628,Male,74,1,1,Yes,Private,Urban,240.1,35.205,smokes,1
-47649,Female,62,1,1,Yes,Private,Urban,247.77,35.71,smokes,1
-33734,Male,75,1,1,Yes,Private,Urban,247.16,44.326,smokes,1
-30186,Female,66,1,1,Yes,Private,Urban,253.96,36.249,smokes,1
-37777,Female,74,1,1,Yes,Private,Urban,254.71,49.418,smokes,1
-57550,Female,53,1,1,Yes,Private,Urban,239.55,36.812,smokes,1
-44889,Female,69,1,1,Yes,Private,Urban,269.74,44.476,smokes,1
-15724,Male,71,1,1,Yes,Private,Urban,261.74,43.203,smokes,1
-51358,Male,68,1,1,Yes,Private,Urban,252.52,44.053,smokes,1
-33147,Male,72,1,1,Yes,Private,Urban,250.16,46.408,smokes,1
-16848,Female,61,1,1,Yes,Private,Urban,264.31,38.863,smokes,1
-58875,Male,46,1,1,Yes,Private,Urban,253.6,43.997,smokes,1
-16287,Female,78,1,1,Yes,Private,Urban,248.53,44.621,smokes,1
-30572,Female,65,1,1,Yes,Private,Urban,254.71,46.879,smokes,1
-55021,Female,56,1,1,Yes,Private,Urban,264.49,45.058,smokes,1
-57542,Female,46,1,1,Yes,Private,Urban,236.19,47.108,smokes,1
-45305,Female,80,1,1,Yes,Private,Urban,251.71,41.529,smokes,1
-48173,Female,72,1,1,Yes,Private,Urban,238.28,46.632,smokes,1
-12207,Male,81,1,1,Yes,Private,Urban,243.93,44.387,smokes,1
-50891,Male,53,1,1,Yes,Private,Urban,238.75,43.909,smokes,1
-31287,Female,45,1,1,Yes,Private,Urban,269.74,48.62,smokes,1
-49216,Female,84,1,1,Yes,Private,Urban,255.68,35.236,smokes,1
-18094,Male,45,1,1,Yes,Private,Urban,250.72,44.652,smokes,1
-49104,Female,66,1,1,Yes,Private,Urban,267.01,39.585,smokes,1
-22110,Male,80,1,1,Yes,Private,Urban,248.44,35.174,smokes,1
-10021,Male,51,1,1,Yes,Private,Urban,269.9,37.83,smokes,1
-43083,Female,75,1,1,Yes,Private,Urban,269.08,43.425,smokes,1
-30455,Female,79,1,1,Yes,Private,Urban,231.46,41.376,smokes,1
-24336,Female,76,1,1,Yes,Private,Urban,236.37,47.723,smokes,1
-57052,Female,45,1,1,Yes,Private,Urban,246.67,47.898,smokes,1
-36175,Female,65,1,1,Yes,Private,Urban,242.98,39.727,smokes,1
-47998,Female,49,1,1,Yes,Private,Urban,237.42,49.816,smokes,1
-53401,Male,58,1,1,Yes,Private,Urban,260.79,42.307,smokes,1
-14764,Female,81,1,1,Yes,Private,Urban,233.11,44.256,smokes,1
-46906,Female,82,1,1,Yes,Private,Urban,266.7,48.524,smokes,1
-26437,Male,56,1,1,Yes,Private,Urban,253.87,43.598,smokes,1
-34426,Male,49,1,1,Yes,Private,Urban,235.18,39.977,smokes,1
-46502,Female,56,1,1,Yes,Private,Urban,258.19,49.775,smokes,1
-11537,Female,66,1,1,Yes,Private,Urban,241.67,36.656,smokes,1
-38188,Female,72,1,1,Yes,Private,Urban,269.86,46.252,smokes,1
-55491,Male,88,1,1,Yes,Private,Urban,267.21,44.358,smokes,1
-15738,Female,71,1,1,Yes,Private,Urban,252.82,48.842,smokes,1
-44209,Female,48,1,1,Yes,Private,Urban,243.74,39.1,smokes,1
-15196,Female,70,1,1,Yes,Private,Urban,230,36.715,smokes,1
-30886,Male,65,1,1,Yes,Private,Urban,264.16,44.504,smokes,1
-47906,Female,81,1,1,Yes,Private,Urban,258.19,37.451,smokes,1
-14965,Female,78,1,1,Yes,Private,Urban,267.95,38.495,smokes,1
-22373,Female,65,1,1,Yes,Private,Urban,255.75,49.92,smokes,1
-45034,Female,79,1,1,Yes,Private,Urban,267.66,40.137,smokes,1
-39429,Male,49,1,1,Yes,Private,Urban,269.89,42.52,smokes,1
-18192,Male,63,1,1,Yes,Private,Urban,259.15,35.83,smokes,1
-37777,Female,83,1,1,Yes,Private,Urban,254.41,41.454,smokes,1
-17106,Female,69,1,1,Yes,Private,Urban,253.89,38.625,smokes,1
-35413,Male,56,1,1,Yes,Private,Urban,267.25,47.527,smokes,1
-25319,Male,49,1,1,Yes,Private,Urban,239.41,39.325,smokes,1
-26737,Male,83,1,1,Yes,Private,Urban,268.22,35.339,smokes,1
-30396,Female,67,1,1,Yes,Private,Urban,231.54,35.769,smokes,1
-57787,Male,53,1,1,Yes,Private,Urban,236.52,43.767,smokes,1
-16861,Female,55,1,1,Yes,Private,Urban,265.83,47.78,smokes,1
-20743,Male,78,1,1,Yes,Private,Urban,243.92,43.237,smokes,1
-40570,Male,90,1,1,Yes,Private,Urban,266.5,35.435,smokes,1
-38379,Male,85,1,1,Yes,Private,Urban,258.66,49.674,smokes,1
-18190,Female,74,1,1,Yes,Private,Urban,236.81,35.587,smokes,1
-31007,Male,54,1,1,Yes,Private,Urban,254.26,36.803,smokes,1
-14340,Female,53,1,1,Yes,Private,Urban,237.56,38.326,smokes,1
-45229,Female,64,1,1,Yes,Private,Urban,255,42.386,smokes,1
-56526,Male,81,1,1,Yes,Private,Urban,235.04,43.868,smokes,1
-35899,Male,68,1,1,Yes,Private,Urban,236.48,48.413,smokes,1
-15571,Female,83,1,1,Yes,Private,Urban,258.56,43.512,smokes,1
-14464,Male,83,1,1,Yes,Private,Urban,242.1,46.744,smokes,1
-36166,Male,76,1,1,Yes,Private,Urban,255.35,37.055,smokes,1
-41610,Male,85,1,1,Yes,Private,Urban,261.76,48.255,smokes,1
-40939,Male,75,1,1,Yes,Private,Urban,256.74,44.741,smokes,1
-20618,Male,57,1,1,Yes,Private,Urban,245.34,37.135,smokes,1
-25007,Female,78,1,1,Yes,Private,Urban,266.51,43.091,smokes,1
-33528,Female,51,1,1,Yes,Private,Urban,236.76,47.488,smokes,1
-18930,Male,69,1,1,Yes,Private,Urban,262.49,40.264,smokes,1
-35202,Female,68,1,1,Yes,Private,Urban,265.13,46.097,smokes,1
-38633,Male,61,1,1,Yes,Private,Urban,240.14,35.157,smokes,1
-32341,Male,75,1,1,Yes,Private,Urban,265.49,35.338,smokes,1
-18326,Male,76,1,1,Yes,Private,Urban,251.38,36.444,smokes,1
-17894,Female,48,1,1,Yes,Private,Urban,252.19,35.143,smokes,1
-19859,Female,46,1,1,Yes,Private,Urban,265.92,47.227,smokes,1
-41894,Male,63,1,1,Yes,Private,Urban,258.29,47.699,smokes,1
-11092,Male,90,1,1,Yes,Private,Urban,269.01,35.6,smokes,1
-49245,Male,75,1,1,Yes,Private,Urban,262.82,44.328,smokes,1
-36010,Female,59,1,1,Yes,Private,Urban,253.24,43.885,smokes,1
-45069,Male,81,1,1,Yes,Private,Urban,254.36,43.921,smokes,1
-32222,Male,86,1,1,Yes,Private,Urban,236.3,44.978,smokes,1
-21007,Female,45,1,1,Yes,Private,Urban,240.25,43.151,smokes,1
-49325,Male,58,1,1,Yes,Private,Urban,246.25,35.79,smokes,1
-19974,Female,85,1,1,Yes,Private,Urban,260.94,36.349,smokes,1
-27983,Male,56,1,1,Yes,Private,Urban,240.94,49.432,smokes,1
-14584,Male,86,1,1,Yes,Private,Urban,259.38,45.886,smokes,1
-15436,Female,58,1,1,Yes,Private,Urban,259.94,35.99,smokes,1
-28717,Male,67,1,1,Yes,Private,Urban,250.54,38.074,smokes,1
-11434,Male,90,1,1,Yes,Private,Urban,264.58,38.743,smokes,1
-25614,Female,45,1,1,Yes,Private,Urban,231.42,35.257,smokes,1
-50042,Male,62,1,1,Yes,Private,Urban,246.99,38.983,smokes,1
-31784,Female,70,1,1,Yes,Private,Urban,252.94,48.454,smokes,1
-17098,Male,75,1,1,Yes,Private,Urban,234.09,38.787,smokes,1
-17164,Female,57,1,1,Yes,Private,Urban,259.62,36.489,smokes,1
-17108,Male,90,1,1,Yes,Private,Urban,258.46,39.393,smokes,1
-56343,Female,52,1,1,Yes,Private,Urban,247.01,43.473,smokes,1
-50989,Female,72,1,1,Yes,Private,Urban,242.27,46,smokes,1
-39967,Female,45,1,1,Yes,Private,Urban,230.67,36.241,smokes,1
-43081,Male,77,1,1,Yes,Private,Urban,244.96,45.615,smokes,1
-30928,Male,84,1,1,Yes,Private,Urban,240.41,49.932,smokes,1
-44518,Female,86,1,1,Yes,Private,Urban,245.75,36.703,smokes,1
-27243,Male,76,1,1,Yes,Private,Urban,250.89,36.265,smokes,1
-44096,Male,63,1,1,Yes,Private,Urban,264.5,48.477,smokes,1
-18508,Female,89,1,1,Yes,Private,Urban,242.94,44.467,smokes,1
-30045,Male,69,1,1,Yes,Private,Urban,258.24,38.52,smokes,1
-34888,Male,51,1,1,Yes,Private,Urban,247.8,48.393,smokes,1
-54669,Female,85,1,1,Yes,Private,Urban,253,45.467,smokes,1
-14823,Female,78,1,1,Yes,Private,Urban,268,41.659,smokes,1
-47008,Female,45,1,1,Yes,Private,Urban,265.71,44.477,smokes,1
-31831,Female,64,1,1,Yes,Private,Urban,258.2,38.547,smokes,1
-35106,Male,85,1,1,Yes,Private,Urban,232.02,43.259,smokes,1
-48635,Female,70,1,1,Yes,Private,Urban,248.29,42.656,smokes,1
-17296,Male,68,1,1,Yes,Private,Urban,262.64,47.834,smokes,1
-35648,Male,85,1,1,Yes,Private,Urban,239.4,40.342,smokes,1
-30697,Female,55,1,1,Yes,Private,Urban,267.98,46.642,smokes,1
-48379,Male,82,1,1,Yes,Private,Urban,247.75,36.175,smokes,1
-29523,Male,81,1,1,Yes,Private,Urban,239.26,45.301,smokes,1
-13932,Male,46,1,1,Yes,Private,Urban,252.74,44.326,smokes,1
-28122,Male,74,1,1,Yes,Private,Urban,238.18,43.624,smokes,1
-45842,Female,88,1,1,Yes,Private,Urban,253.63,40.12,smokes,1
-58208,Male,60,1,1,Yes,Private,Urban,260.08,38.559,smokes,1
-29935,Male,83,1,1,Yes,Private,Urban,250.88,45.765,smokes,1
-20916,Female,80,1,1,Yes,Private,Urban,246.18,47.025,smokes,1
-53403,Male,80,1,1,Yes,Private,Urban,244.88,45.315,smokes,1
-56353,Male,55,1,1,Yes,Private,Urban,258.2,49.073,smokes,1
-38162,Male,55,1,1,Yes,Private,Urban,257.92,46.51,smokes,1
-22538,Female,82,1,1,Yes,Private,Urban,252.55,38.674,smokes,1
-28562,Female,87,1,1,Yes,Private,Urban,230.31,40.233,smokes,1
-58861,Female,58,1,1,Yes,Private,Urban,269.03,38.948,smokes,1
-17485,Male,81,1,1,Yes,Private,Urban,265.58,39.617,smokes,1
-11104,Male,75,1,1,Yes,Private,Urban,265.64,49.985,smokes,1
-45292,Male,77,1,1,Yes,Private,Urban,231.22,43.362,smokes,1
-44583,Female,90,1,1,Yes,Private,Urban,261.79,41.316,smokes,1
-20488,Male,57,1,1,Yes,Private,Urban,247.67,40.11,smokes,1
-29041,Female,77,1,1,Yes,Private,Urban,231.07,37.868,smokes,1
-24272,Male,63,1,1,Yes,Private,Urban,231.15,36.747,smokes,1
-30464,Female,87,1,1,Yes,Private,Urban,252.47,40.775,smokes,1
-46572,Female,63,1,1,Yes,Private,Urban,264.79,39.306,smokes,1
-46044,Female,79,1,1,Yes,Private,Urban,240.75,38.028,smokes,1
-31225,Male,77,1,1,Yes,Private,Urban,232.8,38.12,smokes,1
-47225,Male,86,1,1,Yes,Private,Urban,254.63,46.073,smokes,1
-16868,Male,59,1,1,Yes,Private,Urban,236.75,45.843,smokes,1
-22729,Male,83,1,1,Yes,Private,Urban,231.66,36.732,smokes,1
-34366,Female,52,1,1,Yes,Private,Urban,253.95,47.143,smokes,1
-21646,Female,59,1,1,Yes,Private,Urban,240.65,42.433,smokes,1
-48758,Male,62,1,1,Yes,Private,Urban,267.91,36.666,smokes,1
-34455,Female,88,1,1,Yes,Private,Urban,262.86,47.317,smokes,1
-19712,Male,80,1,1,Yes,Private,Urban,248.4,47.802,smokes,1
-32707,Male,55,1,1,Yes,Private,Urban,264,36.418,smokes,1
-54563,Female,57,1,1,Yes,Private,Urban,265.26,38.144,smokes,1
-53482,Female,52,1,1,Yes,Private,Urban,236.94,37.995,smokes,1
-48789,Male,76,1,1,Yes,Private,Urban,247.56,40.81,smokes,1
-15442,Male,67,1,1,Yes,Private,Urban,247.2,38.178,smokes,1
-36548,Female,80,1,1,Yes,Private,Urban,244.89,44.729,smokes,1
-55118,Female,62,1,1,Yes,Private,Urban,269.79,38.53,smokes,1
-50792,Female,78,1,1,Yes,Private,Urban,234.73,35.184,smokes,1
-59539,Male,75,1,1,Yes,Private,Urban,267.11,40.915,smokes,1
-58904,Female,84,1,1,Yes,Private,Urban,265.53,47.973,smokes,1
-29549,Male,55,1,1,Yes,Private,Urban,268.31,42.997,smokes,1
-26625,Female,87,1,1,Yes,Private,Urban,256.49,43.041,smokes,1
-36203,Female,64,1,1,Yes,Private,Urban,254.75,45.727,smokes,1
-41562,Female,55,1,1,Yes,Private,Urban,240.79,42.717,smokes,1
-49363,Female,70,1,1,Yes,Private,Urban,233.35,40.714,smokes,1
-21979,Male,55,1,1,Yes,Private,Urban,251.23,40.141,smokes,1
-20063,Female,87,1,1,Yes,Private,Urban,235.18,48.45,smokes,1
-51842,Male,49,1,1,Yes,Private,Urban,238.52,40.537,smokes,1
-55233,Male,62,1,1,Yes,Private,Urban,236.94,43.916,smokes,1
-28334,Female,82,1,1,Yes,Private,Urban,255.18,36.765,smokes,1
-34413,Male,52,1,1,Yes,Private,Urban,257.81,48.833,smokes,1
-34016,Female,79,1,1,Yes,Private,Urban,258.17,41.651,smokes,1
-46589,Female,90,1,1,Yes,Private,Urban,265.83,48.445,smokes,1
-40365,Male,75,1,1,Yes,Private,Urban,259.67,47.034,smokes,1
-43346,Female,53,1,1,Yes,Private,Urban,268.64,45.832,smokes,1
-40104,Female,64,1,1,Yes,Private,Urban,246.73,49.748,smokes,1
-36800,Female,45,1,1,Yes,Private,Urban,261.66,42.384,smokes,1
-20146,Male,71,1,1,Yes,Private,Urban,259.89,39.433,smokes,1
-37807,Male,67,1,1,Yes,Private,Urban,266.55,46.316,smokes,1
-34950,Male,49,1,1,Yes,Private,Urban,232.97,44.976,smokes,1
-54983,Male,73,1,1,Yes,Private,Urban,268.38,45.725,smokes,1
-54297,Male,68,1,1,Yes,Private,Urban,255.71,48.011,smokes,1
-11701,Male,85,1,1,Yes,Private,Urban,235.8,40.345,smokes,1
-32388,Female,75,1,1,Yes,Private,Urban,266.58,39.483,smokes,1
-40322,Female,55,1,1,Yes,Private,Urban,254.79,45.391,smokes,1
-14514,Female,65,1,1,Yes,Private,Urban,252.11,36.8,smokes,1
-37188,Male,81,1,1,Yes,Private,Urban,238.01,47.662,smokes,1
-54335,Female,60,1,1,Yes,Private,Urban,261.61,39.779,smokes,1
-21065,Male,72,1,1,Yes,Private,Urban,258.3,38.651,smokes,1
-37707,Male,53,1,1,Yes,Private,Urban,263.82,40.481,smokes,1
-18429,Male,49,1,1,Yes,Private,Urban,234.14,49.11,smokes,1
-30748,Female,62,1,1,Yes,Private,Urban,253.42,41.855,smokes,1
-50930,Male,61,1,1,Yes,Private,Urban,269.34,49.838,smokes,1
-32995,Male,84,1,1,Yes,Private,Urban,250.87,35.779,smokes,1
-35958,Female,88,1,1,Yes,Private,Urban,255.31,39.545,smokes,1
-46332,Female,64,1,1,Yes,Private,Urban,264.25,35.514,smokes,1
-49934,Male,82,1,1,Yes,Private,Urban,230.3,46.171,smokes,1
-30117,Female,78,1,1,Yes,Private,Urban,240.01,38.73,smokes,1
-33102,Female,46,1,1,Yes,Private,Urban,237.66,41.253,smokes,1
-34033,Female,55,1,1,Yes,Private,Urban,249.34,44.833,smokes,1
-46131,Female,63,1,1,Yes,Private,Urban,266.31,42.168,smokes,1
-59821,Male,61,1,1,Yes,Private,Urban,233.47,35.451,smokes,1
-10424,Female,73,1,1,Yes,Private,Urban,244.06,49.888,smokes,1
-41670,Female,90,1,1,Yes,Private,Urban,261.71,40.251,smokes,1
-12984,Male,73,1,1,Yes,Private,Urban,252.42,40.018,smokes,1
-16188,Male,61,1,1,Yes,Private,Urban,233.91,41.969,smokes,1
-50810,Male,71,1,1,Yes,Private,Urban,256.31,36.973,smokes,1
-39509,Male,52,1,1,Yes,Private,Urban,250.51,47.615,smokes,1
-52102,Female,53,1,1,Yes,Private,Urban,256.41,44.832,smokes,1
-13094,Female,85,1,1,Yes,Private,Urban,267.46,38.819,smokes,1
-32415,Male,85,1,1,Yes,Private,Urban,252.64,36.052,smokes,1
-39551,Male,71,1,1,Yes,Private,Urban,242.91,46.13,smokes,1
-22928,Male,86,1,1,Yes,Private,Urban,266.43,46.713,smokes,1
-23730,Female,86,1,1,Yes,Private,Urban,231.03,37.648,smokes,1
-40991,Male,69,1,1,Yes,Private,Urban,265.92,42.275,smokes,1
-24344,Female,69,1,1,Yes,Private,Urban,261.3,44.314,smokes,1
-11384,Female,51,1,1,Yes,Private,Urban,244,49.512,smokes,1
-41972,Female,51,1,1,Yes,Private,Urban,242,38.56,smokes,1
-49465,Male,86,1,1,Yes,Private,Urban,236.27,42.984,smokes,1
-46223,Female,68,1,1,Yes,Private,Urban,246.45,39.944,smokes,1
-27975,Female,78,1,1,Yes,Private,Urban,231.93,43.095,smokes,1
-17511,Female,57,1,1,Yes,Private,Urban,268.95,35.658,smokes,1
-57122,Female,63,1,1,Yes,Private,Urban,232.38,44.685,smokes,1
-35440,Female,50,1,1,Yes,Private,Urban,257.73,39.406,smokes,1
-45849,Male,62,1,1,Yes,Private,Urban,262.81,42.495,smokes,1
-27182,Female,57,1,1,Yes,Private,Urban,255.18,49.757,smokes,1
-35363,Female,63,1,1,Yes,Private,Urban,231.3,47.211,smokes,1
-13391,Female,90,1,1,Yes,Private,Urban,231.43,48.331,smokes,1
-40856,Female,52,1,1,Yes,Private,Urban,251.99,45.202,smokes,1
-21888,Female,72,1,1,Yes,Private,Urban,236.75,36.315,smokes,1
-18543,Male,79,1,1,Yes,Private,Urban,236.03,40.944,smokes,1
-10090,Male,62,1,1,Yes,Private,Urban,265.06,37.528,smokes,1
-49333,Female,60,1,1,Yes,Private,Urban,262.75,35.147,smokes,1
-51427,Female,58,1,1,Yes,Private,Urban,234.85,39.18,smokes,1
-28081,Male,89,1,1,Yes,Private,Urban,269.1,38.561,smokes,1
-27444,Female,58,1,1,Yes,Private,Urban,234.04,37.78,smokes,1
-34603,Male,55,1,1,Yes,Private,Urban,268.22,40.792,smokes,1
-44326,Female,70,1,1,Yes,Private,Urban,255.74,45.04,smokes,1
-35923,Female,79,1,1,Yes,Private,Urban,244.53,45.572,smokes,1
-55533,Female,57,1,1,Yes,Private,Urban,264.87,46.317,smokes,1
-29463,Female,64,1,1,Yes,Private,Urban,257.48,43.142,smokes,1
-42887,Female,48,1,1,Yes,Private,Urban,237.96,40.042,smokes,1
-52711,Female,46,1,1,Yes,Private,Urban,268.29,42.398,smokes,1
-23607,Male,72,1,1,Yes,Private,Urban,243.78,42.398,smokes,1
-57031,Male,66,1,1,Yes,Private,Urban,259.33,45.091,smokes,1
-20953,Male,63,1,1,Yes,Private,Urban,247.73,38.7,smokes,1
-16226,Female,60,1,1,Yes,Private,Urban,232.8,46.223,smokes,1
-31229,Female,85,1,1,Yes,Private,Urban,254.67,49.118,smokes,1
-36149,Female,89,1,1,Yes,Private,Urban,240.82,37.962,smokes,1
-32869,Male,60,1,1,Yes,Private,Urban,255.73,40.958,smokes,1
-48566,Male,47,1,1,Yes,Private,Urban,233.36,41.351,smokes,1
-23362,Female,83,1,1,Yes,Private,Urban,263.17,45.588,smokes,1
-57509,Male,59,1,1,Yes,Private,Urban,243.4,44.835,smokes,1
-30224,Female,84,1,1,Yes,Private,Urban,261.53,41.521,smokes,1
-14841,Male,71,1,1,Yes,Private,Urban,265.27,40.771,smokes,1
-31850,Female,48,1,1,Yes,Private,Urban,251.74,36.561,smokes,1
-58633,Female,52,1,1,Yes,Private,Urban,237.76,49.511,smokes,1
-11016,Female,48,1,1,Yes,Private,Urban,243.4,45.599,smokes,1
-47107,Male,70,1,1,Yes,Private,Urban,230.52,39.999,smokes,1
-28598,Male,85,1,1,Yes,Private,Urban,250.56,46.174,smokes,1
-46043,Male,90,1,1,Yes,Private,Urban,252.97,42.908,smokes,1
-46891,Male,68,1,1,Yes,Private,Urban,248.96,35.767,smokes,1
-27598,Female,80,1,1,Yes,Private,Urban,248.45,41.234,smokes,1
-28461,Male,66,1,1,Yes,Private,Urban,250.66,41.894,smokes,1
-51020,Female,81,1,1,Yes,Private,Urban,233.33,41.203,smokes,1
-40157,Female,88,1,1,Yes,Private,Urban,237.94,46.143,smokes,1
-11747,Male,47,1,1,Yes,Private,Urban,264.56,43.757,smokes,1
-57502,Female,50,1,1,Yes,Private,Urban,265.59,38.885,smokes,1
-18006,Female,68,1,1,Yes,Private,Urban,260.8,35.594,smokes,1
-37506,Female,87,1,1,Yes,Private,Urban,266.68,39.327,smokes,1
-12847,Female,84,1,1,Yes,Private,Urban,248.75,42.03,smokes,1
-40828,Female,79,1,1,Yes,Private,Urban,230.49,40.782,smokes,1
-32229,Female,66,1,1,Yes,Private,Urban,238.26,48.389,smokes,1
-18061,Male,68,1,1,Yes,Private,Urban,233.29,50,smokes,1
-38349,Male,52,1,1,Yes,Private,Urban,238.93,46.476,smokes,1
-44077,Male,59,1,1,Yes,Private,Urban,250.89,48.62,smokes,1
-17600,Male,71,1,1,Yes,Private,Urban,250.64,49.296,smokes,1
-50242,Male,70,1,1,Yes,Private,Urban,262.74,40.738,smokes,1
-17035,Male,76,1,1,Yes,Private,Urban,258.85,45.258,smokes,1
-17813,Female,87,1,1,Yes,Private,Urban,269.56,44.716,smokes,1
-13138,Female,50,1,1,Yes,Private,Urban,255.33,36.829,smokes,1
-34834,Female,70,1,1,Yes,Private,Urban,256.07,46.568,smokes,1
-58039,Male,85,1,1,Yes,Private,Urban,240.57,48.754,smokes,1
-51896,Female,46,1,1,Yes,Private,Urban,254.2,37.767,smokes,1
-42402,Male,68,1,1,Yes,Private,Urban,260.07,36.235,smokes,1
-50996,Male,67,1,1,Yes,Private,Urban,235.66,40.658,smokes,1
-31863,Female,86,1,1,Yes,Private,Urban,242.13,43.585,smokes,1
-50689,Female,48,1,1,Yes,Private,Urban,248.46,35.01,smokes,1
-41573,Male,65,1,1,Yes,Private,Urban,261.8,44.341,smokes,1
-28691,Male,59,1,1,Yes,Private,Urban,258.87,38.042,smokes,1
-51658,Female,81,1,1,Yes,Private,Urban,261.11,40.466,smokes,1
-46884,Male,83,1,1,Yes,Private,Urban,250.57,37.502,smokes,1
-29354,Female,90,1,1,Yes,Private,Urban,268.11,35.699,smokes,1
-53342,Female,80,1,1,Yes,Private,Urban,259,39.862,smokes,1
-33014,Male,58,1,1,Yes,Private,Urban,268.71,39.01,smokes,1
-17352,Male,82,1,1,Yes,Private,Urban,237.66,39.062,smokes,1
-49781,Male,68,1,1,Yes,Private,Urban,237.72,49.476,smokes,1
-16371,Male,62,1,1,Yes,Private,Urban,261.06,45.615,smokes,1
-35022,Male,72,1,1,Yes,Private,Urban,246.76,42.618,smokes,1
-16207,Male,89,1,1,Yes,Private,Urban,264.33,45.092,smokes,1
-11860,Male,59,1,1,Yes,Private,Urban,260.29,49.985,smokes,1
-35309,Male,59,1,1,Yes,Private,Urban,242.9,35.733,smokes,1
-42779,Male,51,1,1,Yes,Private,Urban,232.34,39.688,smokes,1
-14333,Female,49,1,1,Yes,Private,Urban,242.69,49.89,smokes,1
-45516,Female,58,1,1,Yes,Private,Urban,253.35,38.749,smokes,1
-11620,Male,62,1,1,Yes,Private,Urban,249.19,49.753,smokes,1
-32821,Female,65,1,1,Yes,Private,Urban,250.56,42.131,smokes,1
-41302,Female,49,1,1,Yes,Private,Urban,264.59,41.618,smokes,1
-11427,Female,87,1,1,Yes,Private,Urban,254.82,47.283,smokes,1
-16999,Female,87,1,1,Yes,Private,Urban,266.62,44.193,smokes,1
-14462,Female,71,1,1,Yes,Private,Urban,241.44,45.402,smokes,1
-31662,Male,60,1,1,Yes,Private,Urban,253.26,44.718,smokes,1
-39162,Male,61,1,1,Yes,Private,Urban,261.18,40.06,smokes,1
-26667,Female,66,1,1,Yes,Private,Urban,257.78,48.467,smokes,1
-28958,Male,50,1,1,Yes,Private,Urban,255.17,37.793,smokes,1
-15016,Female,80,1,1,Yes,Private,Urban,244.04,48.565,smokes,1
-14306,Male,58,1,1,Yes,Private,Urban,246.9,46.728,smokes,1
-56581,Female,89,1,1,Yes,Private,Urban,242.89,47.417,smokes,1
-26195,Female,59,1,1,Yes,Private,Urban,244.2,49.087,smokes,1
-58434,Male,62,1,1,Yes,Private,Urban,243.28,43.917,smokes,1
-41030,Female,85,1,1,Yes,Private,Urban,256.21,35.883,smokes,1
-22764,Female,66,1,1,Yes,Private,Urban,255.39,43.395,smokes,1
-44219,Male,47,1,1,Yes,Private,Urban,233.8,45.572,smokes,1
-48494,Female,51,1,1,Yes,Private,Urban,238.97,39.459,smokes,1
-55436,Female,48,1,1,Yes,Private,Urban,257.54,44.539,smokes,1
-59123,Male,59,1,1,Yes,Private,Urban,267.86,36.39,smokes,1
-21391,Female,45,1,1,Yes,Private,Urban,241.9,46.766,smokes,1
-18922,Female,80,1,1,Yes,Private,Urban,241.02,49.062,smokes,1
-28050,Male,57,1,1,Yes,Private,Urban,260.9,38.654,smokes,1
-16969,Male,54,1,1,Yes,Private,Urban,257.19,47.1,smokes,1
-14430,Female,55,1,1,Yes,Private,Urban,267.63,40.036,smokes,1
-16588,Female,52,1,1,Yes,Private,Urban,234.03,43.401,smokes,1
-39733,Female,67,1,1,Yes,Private,Urban,241.67,42.133,smokes,1
-17760,Male,45,1,1,Yes,Private,Urban,266.12,39.265,smokes,1
-37712,Female,57,1,1,Yes,Private,Urban,264.94,42.513,smokes,1
-49881,Female,51,1,1,Yes,Private,Urban,257.74,44.134,smokes,1
-25026,Female,46,1,1,Yes,Private,Urban,234.61,35.28,smokes,1
-23949,Female,72,1,1,Yes,Private,Urban,233.83,35.8,smokes,1
-23748,Male,71,1,1,Yes,Private,Urban,259.99,46.19,smokes,1
-34241,Male,47,1,1,Yes,Private,Urban,252.68,44.825,smokes,1
-54105,Female,71,1,1,Yes,Private,Urban,268.7,42.515,smokes,1
-30743,Male,87,1,1,Yes,Private,Urban,258.83,40.488,smokes,1
-24977,Male,65,1,1,Yes,Private,Urban,240.17,43.98,smokes,1
-37566,Male,85,1,1,Yes,Private,Urban,243.12,39.405,smokes,1
-20377,Female,88,1,1,Yes,Private,Urban,245.9,48.372,smokes,1
-27847,Male,72,1,1,Yes,Private,Urban,249.41,39.548,smokes,1
-58097,Male,86,1,1,Yes,Private,Urban,231.6,40.114,smokes,1
-38945,Female,58,1,1,Yes,Private,Urban,251.31,41.715,smokes,1
-18301,Male,90,1,1,Yes,Private,Urban,267.91,46.367,smokes,1
-49692,Female,88,1,1,Yes,Private,Urban,232.01,39.142,smokes,1
-33403,Female,48,1,1,Yes,Private,Urban,235.52,40.253,smokes,1
-36254,Female,89,1,1,Yes,Private,Urban,241.4,43.257,smokes,1
-28142,Male,86,1,1,Yes,Private,Urban,267.28,45.651,smokes,1
-11178,Male,57,1,1,Yes,Private,Urban,231.9,46.764,smokes,1
-13497,Female,61,1,1,Yes,Private,Urban,259.38,35.898,smokes,1
-49413,Female,90,1,1,Yes,Private,Urban,232.4,38.287,smokes,1
-17024,Male,64,1,1,Yes,Private,Urban,232.38,42.022,smokes,1
-38342,Female,65,1,1,Yes,Private,Urban,250.37,38.855,smokes,1
-53654,Male,51,1,1,Yes,Private,Urban,235.59,39.953,smokes,1
-36409,Female,85,1,1,Yes,Private,Urban,266.63,47.877,smokes,1
-51817,Female,87,1,1,Yes,Private,Urban,246.69,47.097,smokes,1
-25579,Male,46,1,1,Yes,Private,Urban,268.95,40.625,smokes,1
-41961,Male,86,1,1,Yes,Private,Urban,251.49,37.263,smokes,1
-11358,Male,66,1,1,Yes,Private,Urban,258.44,43.401,smokes,1
-48066,Male,86,1,1,Yes,Private,Urban,254.15,48.669,smokes,1
-49105,Female,45,1,1,Yes,Private,Urban,263.33,49.11,smokes,1
-29494,Male,86,1,1,Yes,Private,Urban,237.27,41.845,smokes,1
-51922,Male,50,1,1,Yes,Private,Urban,242.06,49.972,smokes,1
-42562,Male,47,1,1,Yes,Private,Urban,256.96,48.713,smokes,1
-18105,Male,76,1,1,Yes,Private,Urban,233.15,39.804,smokes,1
-16478,Male,69,1,1,Yes,Private,Urban,242.78,49.447,smokes,1
-39074,Male,90,1,1,Yes,Private,Urban,267.3,49.892,smokes,1
-27803,Female,51,1,1,Yes,Private,Urban,250.16,38.422,smokes,1
-38511,Female,90,1,1,Yes,Private,Urban,258.19,39.438,smokes,1
-53751,Male,57,1,1,Yes,Private,Urban,239.12,44.91,smokes,1
-32174,Female,87,1,1,Yes,Private,Urban,234.5,47.5,smokes,1
-22476,Female,89,1,1,Yes,Private,Urban,247.41,37.092,smokes,1
-38250,Male,60,1,1,Yes,Private,Urban,258.7,41.204,smokes,1
-17016,Male,74,1,1,Yes,Private,Urban,269.33,45.29,smokes,1
-49944,Female,68,1,1,Yes,Private,Urban,254.61,41.938,smokes,1
-44811,Male,49,1,1,Yes,Private,Urban,253.52,36.147,smokes,1
-23673,Male,52,1,1,Yes,Private,Urban,267.02,36.609,smokes,1
-55859,Female,58,1,1,Yes,Private,Urban,257.52,46.718,smokes,1
-41712,Male,61,1,1,Yes,Private,Urban,252.51,43.581,smokes,1
-21045,Female,52,1,1,Yes,Private,Urban,247.97,37.415,smokes,1
-31726,Male,53,1,1,Yes,Private,Urban,245.75,40.228,smokes,1
-18432,Male,87,1,1,Yes,Private,Urban,249.31,41.492,smokes,1
-23971,Female,74,1,1,Yes,Private,Urban,255.7,35.204,smokes,1
-43373,Female,59,1,1,Yes,Private,Urban,241.31,42.023,smokes,1
-55268,Female,84,1,1,Yes,Private,Urban,255.03,47.101,smokes,1
-56476,Male,50,1,1,Yes,Private,Urban,244.44,49.913,smokes,1
-34309,Female,76,1,1,Yes,Private,Urban,238.56,46.474,smokes,1
-24449,Female,85,1,1,Yes,Private,Urban,249.56,39.993,smokes,1
-12598,Female,90,1,1,Yes,Private,Urban,250.64,48.091,smokes,1
-10554,Male,47,1,1,Yes,Private,Urban,239.12,45.899,smokes,1
-21745,Male,75,1,1,Yes,Private,Urban,241.61,40.381,smokes,1
-56662,Male,85,1,1,Yes,Private,Urban,245.01,49.061,smokes,1
-46501,Female,71,1,1,Yes,Private,Urban,249.89,40.166,smokes,1
-47000,Male,75,1,1,Yes,Private,Urban,260.86,45.955,smokes,1
-14387,Female,64,1,1,Yes,Private,Urban,242.56,44.998,smokes,1
-37019,Female,48,1,1,Yes,Private,Urban,234.58,36.13,smokes,1
-24516,Male,85,1,1,Yes,Private,Urban,257.46,42.83,smokes,1
-45103,Female,83,1,1,Yes,Private,Urban,238.55,43.076,smokes,1
-18046,Male,80,1,1,Yes,Private,Urban,245.29,48.393,smokes,1
-17892,Female,66,1,1,Yes,Private,Urban,242.86,48.422,smokes,1
-55545,Male,83,1,1,Yes,Private,Urban,260.49,45.75,smokes,1
-44359,Male,45,1,1,Yes,Private,Urban,250.31,49.492,smokes,1
-12659,Female,53,1,1,Yes,Private,Urban,267.95,42.877,smokes,1
-13449,Male,46,1,1,Yes,Private,Urban,233.65,43.698,smokes,1
-54256,Female,54,1,1,Yes,Private,Urban,238.28,37.806,smokes,1
-49039,Male,53,1,1,Yes,Private,Urban,254.64,38.539,smokes,1
-59446,Female,69,1,1,Yes,Private,Urban,249.57,40.156,smokes,1
-19454,Female,70,1,1,Yes,Private,Urban,245.75,40.037,smokes,1
-17683,Female,56,1,1,Yes,Private,Urban,261.51,41.108,smokes,1
-24442,Female,51,1,1,Yes,Private,Urban,239.28,36.07,smokes,1
-47442,Male,53,1,1,Yes,Private,Urban,244.74,36.564,smokes,1
-37929,Male,85,1,1,Yes,Private,Urban,232.42,40.619,smokes,1
-36083,Female,68,1,1,Yes,Private,Urban,269.65,42.503,smokes,1
-26849,Female,71,1,1,Yes,Private,Urban,234.98,44.882,smokes,1
-51344,Female,45,1,1,Yes,Private,Urban,239.53,48.361,smokes,1
-27266,Female,78,1,1,Yes,Private,Urban,261.86,48.874,smokes,1
-46788,Male,68,1,1,Yes,Private,Urban,230.25,42.587,smokes,1
-35880,Male,69,1,1,Yes,Private,Urban,230.02,41.431,smokes,1
-23835,Male,55,1,1,Yes,Private,Urban,253.46,46.329,smokes,1
-43414,Female,72,1,1,Yes,Private,Urban,258.04,48.946,smokes,1
-24810,Female,78,1,1,Yes,Private,Urban,233.59,48.141,smokes,1
-54481,Female,57,1,1,Yes,Private,Urban,264.81,42.032,smokes,1
-56713,Male,66,1,1,Yes,Private,Urban,235.41,36.643,smokes,1
-45471,Male,60,1,1,Yes,Private,Urban,268.62,36.027,smokes,1
-15391,Male,78,1,1,Yes,Private,Urban,253.24,39.808,smokes,1
-17976,Female,75,1,1,Yes,Private,Urban,245.17,48.717,smokes,1
-54549,Male,67,1,1,Yes,Private,Urban,250.77,45.978,smokes,1
-18666,Male,62,1,1,Yes,Private,Urban,240.37,45.691,smokes,1
-35583,Female,52,1,1,Yes,Private,Urban,246.93,48.484,smokes,1
-19318,Female,70,1,1,Yes,Private,Urban,258.86,44.837,smokes,1
-20042,Female,45,1,1,Yes,Private,Urban,236.26,37.204,smokes,1
-16001,Male,62,1,1,Yes,Private,Urban,250.57,45.061,smokes,1
-16342,Female,59,1,1,Yes,Private,Urban,233.66,39.396,smokes,1
-28563,Male,52,1,1,Yes,Private,Urban,267.14,36.567,smokes,1
-28255,Male,82,1,1,Yes,Private,Urban,262.7,39.017,smokes,1
-49248,Female,48,1,1,Yes,Private,Urban,258.6,49.858,smokes,1
-49347,Male,82,1,1,Yes,Private,Urban,260.94,41.754,smokes,1
-57898,Female,72,1,1,Yes,Private,Urban,266.95,38.799,smokes,1
-41409,Female,55,1,1,Yes,Private,Urban,261.36,49.999,smokes,1
-23054,Female,61,1,1,Yes,Private,Urban,245.39,43.226,smokes,1
-23068,Male,65,1,1,Yes,Private,Urban,235.15,36.45,smokes,1
-47363,Male,81,1,1,Yes,Private,Urban,251.96,41.195,smokes,1
-47619,Female,58,1,1,Yes,Private,Urban,255.42,36.462,smokes,1
-39004,Male,80,1,1,Yes,Private,Urban,245.34,39.146,smokes,1
-21043,Female,80,1,1,Yes,Private,Urban,268.17,41.018,smokes,1
-19777,Female,51,1,1,Yes,Private,Urban,250.67,38.477,smokes,1
-44138,Female,47,1,1,Yes,Private,Urban,269.8,43.926,smokes,1
-32088,Female,76,1,1,Yes,Private,Urban,253.53,43.559,smokes,1
-19870,Male,58,1,1,Yes,Private,Urban,264.28,37.761,smokes,1
-23428,Male,45,1,1,Yes,Private,Urban,238.1,46.335,smokes,1
-19652,Male,47,1,1,Yes,Private,Urban,237.07,43.475,smokes,1
-20703,Male,62,1,1,Yes,Private,Urban,251.45,49.225,smokes,1
-39397,Male,53,1,1,Yes,Private,Urban,262.74,48.682,smokes,1
-34137,Male,72,1,1,Yes,Private,Urban,254.19,37.059,smokes,1
-31439,Male,80,1,1,Yes,Private,Urban,258.31,42.213,smokes,1
-39623,Female,53,1,1,Yes,Private,Urban,262.35,35.327,smokes,1
-13072,Male,88,1,1,Yes,Private,Urban,231.23,43.964,smokes,1
-12006,Male,72,1,1,Yes,Private,Urban,231.53,37.397,smokes,1
-27093,Male,77,1,1,Yes,Private,Urban,251.27,47.594,smokes,1
-59623,Female,83,1,1,Yes,Private,Urban,265.52,39.269,smokes,1
-28708,Male,66,1,1,Yes,Private,Urban,233.72,49.397,smokes,1
-16045,Male,84,1,1,Yes,Private,Urban,230.31,38.872,smokes,1
-52703,Male,64,1,1,Yes,Private,Urban,251.6,38.448,smokes,1
-55641,Female,75,1,1,Yes,Private,Urban,269.76,40.491,smokes,1
-45132,Female,86,1,1,Yes,Private,Urban,260.43,47.74,smokes,1
-46930,Male,79,1,1,Yes,Private,Urban,256.18,40.041,smokes,1
-29940,Male,61,1,1,Yes,Private,Urban,256.35,36.161,smokes,1
-52729,Female,86,1,1,Yes,Private,Urban,238.53,45.752,smokes,1
-57307,Female,56,1,1,Yes,Private,Urban,248.18,49.244,smokes,1
-17781,Male,51,1,1,Yes,Private,Urban,236.89,44.345,smokes,1
-15973,Male,54,1,1,Yes,Private,Urban,254.91,41.601,smokes,1
-20466,Female,68,1,1,Yes,Private,Urban,257.96,36.505,smokes,1
-22583,Female,84,1,1,Yes,Private,Urban,265.25,48.475,smokes,1
-51520,Male,57,1,1,Yes,Private,Urban,241.24,48.04,smokes,1
-50745,Male,78,1,1,Yes,Private,Urban,242.47,36.847,smokes,1
-26432,Female,82,1,1,Yes,Private,Urban,252.27,38.147,smokes,1
-10967,Male,84,1,1,Yes,Private,Urban,231.67,49.877,smokes,1
-25980,Male,45,1,1,Yes,Private,Urban,262.18,38.799,smokes,1
-35182,Female,51,1,1,Yes,Private,Urban,237.21,35.849,smokes,1
-36532,Female,74,1,1,Yes,Private,Urban,258.3,45.602,smokes,1
